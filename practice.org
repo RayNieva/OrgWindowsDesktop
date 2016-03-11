@@ -1,0 +1,360 @@
+
+
+* Customize Org appearance
+** Code
+(setq truncate-lines 'nil) (setq truncate-lines 't)
+
+* End Task
+* Wake Up							       :Home:
+[[go-to-bottom]]
+
+** TODO Time Management
+*** GTD Stuff
+**** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
+    - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
+    - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
+    - http://gettingthingsdone.com/2015/06/podcast-05-gtd-and-daily-habits/  Podcast #5 – GTD and Daily Habits
+    - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/ JTD Journaling to Done
+    - file://C:/Users/Ray/AppData/Roaming/org/jtdjournal.org
+    - Browser History as a Journal (shell-command "start firefox") or Alt-Tab to see if existing task.
+
+*** Other Time Management Stuff
+   - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
+   - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
+   - http://blog.casual.pm/post/114499949915/time-management-techniques-salami-pomodoro Swiss Cheese like methods of attacking
+     complex tasks or projects
+     
+** DONE System Administration and Personal Desktop Support
+
+*** DONE Routine System Operation to Optimize systems
+*** TODO Work on Other Computer
+    - Trying to increase files space, but blue screen of death issues.
+    - Need to think of alternative boot options first.
+
+*** DONE Fix Printer
+*** DONE Fixed Computer Cooling Issue
+    - Keep on cool hard surface
+    - Use freeze pak to cool down
+    - Turn off computer at night
+
+** TODO Mind Rituals
+*** TODO Meditate
+[[https://youtube.com]]
+[[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
+[[https://www.youtube.com/watch?v=tOQaVSX-N4c][CALMING OUR MINDS: Relaxing mful life & RELAXATION]]
+[[https://www.youtube.com/watch?v=uPWqs8hOzmQ][Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
+
+*** TODO Learning About Chi (Can be a feeling of Empowerment too!
+    - https://www.youtube.com/watch?v=dfy2Tn52sxU  Power of Meditation: Qigong Master Chi Energy
+    - https://www.youtube.com/watch?v=Wqdg3i3QsBk  Part 1- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy video series
+    - [[https://www.youtube.com/watch?v=Wg3uZgx6f4g&ebc=ANyPxKp3_CnvhYZNsXif1CouZ3K2H2Ms316jBl2w12p6redN7tOp-W4ol0wgJFuE-RvN2BZfVkGbWwYrjOQQ-yLMBTdy_FHwlw#t=293.123061][Part 4- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy]]    
+    - [[https://www.youtube.com/watch?v=pLAg2pV2qMU][Part 6- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy]]    
+
+*** TODO Look at NLP and Psychological training
+    - [[https://www.youtube.com/watch?v=f81dxIXADfc][NLP Techniques: How to eliminate unwanted thoughts ]]
+    - [[https://www.youtube.com/watch?v=LJkwbq8Nsw8][How to get really good at anything - a powerful NLP "meta strategy" ]]
+    - [[https://www.youtube.com/watch?v=MldFdYzyIuk][How To Hypnotize Anyone Secretly]]
+    - [[https://www.youtube.com/watch?v=y1m_Jgkrz_A][How to Breakthrough a Limiting Belief in 6 Steps using Neuro Linguistic Programming ]]
+    - https://www.youtube.com/watch?v=EWqjUQrxCKo NLP Techniques: Embedded Commands & Suggestions How To Do Them
+    - https://www.youtube.com/watch?v=S-mo9r2tMwo Hypnotic Language Patterns that Work? - Covert Hypnosis - Kevin Hogan
+    - https://www.youtube.com/watch?v=67--22ys1S4 7 Magic Phrases of Persuasion with Kevin Hogan
+    - https://www.youtube.com/watch?v=YOzuun3dgX4 NLP - Power Reading and Power Writing
+    - https://www.youtube.com/watch?v=jaGJNxCxB-s Persuasive Writing
+    - Anchoring and added more research in the Swish pattern.
+    - https://www.youtube.com/watch?v=M3szqVVeNzw Self Help - How Self-Help Can Revolutionize Your Entire Life
+    - https://www.youtube.com/watch?v=FoYs1YqQI7w  The Power Of Routines - How Your Daily Routine Holds You Back From Your Dreams
+*** TODO SuperMemory
+    -  http://www.super-memory.com/
+
+** TODO Check Email
+   [[https://gmail.com][- gmail]]
+   * Thunderbird (shell-command "start thunderbird.exe")
+     - Have configured Live Mail, rgnterprises mail and Comcast
+
+** TODO Check Texting on Landline
+   - [[http://my.xfinity.com/?cid=cust][Comcast]]
+
+
+** TODO Checked Unemployment or Check Unemployment Portal
+    - Signed into Unemployment
+    - Found PDF editing sites to fill out downloaded forms for Worksearch
+    - Might need to do documentation on spreadsheet and or .org form
+    - [[https://uionline.detma.org/Claimant/Core/Login.ASPX][unemployment]]
+    - [X] file claim when required  <2016-03-06 Sun>
+    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
+    - [X] Update Worksearch Spreadsheet every Saturday
+
+
+** TODO Check Accounts and Budget
+
+*** DONE Deposited checks from UI
+
+**** TODO Budgeting and Bills
+    - [X] Vacation Fund $10 Weekly on UI
+    - [ ] Savings Bi-weekly on UI play by ear
+    - [X] Personal Loan $375 due on 1st
+    - [X] Rent $700 due on 1st with flexibility
+    - [X] Pay WCU Visa $30 due 3rd  [[https://www.wcu.com/home/home][WCU]]
+    - [X] Paypal Credit $35.00 due on 7th
+    - [X] Bofa (Need to send Voided Check, otherwise pay over phone due on 7th (Last payment was late on 8th conf# 56287)
+    - [ ] Utilities $300 due around 20th
+    - [ ] Auto Insurance $85 due around 20th
+    - [ ] Car Payment $250 due 23rd
+    - [ ] Pay Chase $23 due 25th
+    - [ ] Pay Shell $39.49 due 26th
+    - [X] Pay Comcast 127.00 due on 27th [[http://my.xfinity.com/?cid=cust][comcast]]
+    - [ ] Hostgator $14.00 due on 29th
+
+
+[[https://www.wcu.com/home/home][WCU]]
+
+
+*** DONE Move severance check
+
+*** DONE Address Tax Issue
+*** DONE Ordered New Shell Card
+    
+** TODO Household, Health and Hygiene
+*** TODO Clean Cat Box
+*** TODO Brush Teeth and Learning to control bad breath
+*** TODO Take Dog out feed animals
+*** DONE Clean-up Shoveling
+*** TODO Take Out Trash and/or Recycling
+
+*** TODO Prescription Medicine
+
+*** TODO Take shower
+*** TODO Do Laundry
+
+*** TODO Vacuum Floor
+
+*** TODO Kitchen Clean-up
+** End Task
+** TODO Have Coffee [1/3]
+   - [X] 1st cup
+   - [ ] 2nd cup
+   - [ ] 3rd cup
+
+
+ 
+** TODO Start Working at home
+
+*** TODO Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>
+    - [http://www.etrcc.com]
+    - [https://jobquest.detma.org/JobQuest/Default.aspx]
+    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
+    - Create Persuasive Cover Letter Template(s)
+    - Job request ID 11978529
+    - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
+    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
+    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
+    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
+    - Mandatory RESEA Meeting <2016-03-01 Tue>
+    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
+    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
+    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
+    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
+    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
+    - Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+
+*** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
+    - Login to PWS
+    - cpanel
+      [[https://cloud8.hostgator.com:2083/][cpanel]]
+    - Was able to change by going to "settings" and putting the correct nameservers
+      also found the error when using mxtoolbox.
+    - Removed Fetch Mail as cannot set-up SSL
+    - Set-up Under Construction Website
+
+**** TODO Website Development
+
+
+*** TODO Freelance Research 
+    - Yasnippet and like type of programs as discovered on Github research
+    - Org-mode for Journaling
+    - Sexual Energy Sublimation (Also related to NLP Anchoring?)
+    - Youtube Research
+
+*** TODO Master New Subjects
+
+
+
+**** TODO Internet Marketing - What is it?
+     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
+     - [[http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm][Home Business]
+     - http://www.ericstips.com
+     - http://www.meetup.com/WorcesterClub/
+
+
+
+**** TODO Learn Org Mode
+[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
+
+***** DONE Practice Check Boxes [100%]
+      - [X] Checkbox 1
+      - [X] Checkbox 2
+      - [X] Checkbox 3
+      - [X] Checkbox 4
+      
+***** TODO Another Tutorial on Org-Mode
+      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
+      + Use Git to synchronize
+      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
+      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
+
+***** TODO Emacs for Writers
+      - [https://www.youtube.com/watch?v=FtieBc3KptU]
+***** TODO Learning more about Capture-mode Emacs
+      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
+      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
+
+***** TODO Learn Bookmark and Bookmark Plus
+      - https://www.emacswiki.org/emacs/BookMarks
+
+***** TODO Learn Abbrev Mode
+      - Learned about the 
+       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
+***** TODO Install and Learn Yasnippet
+      - [file:/C:\Users\Ray\Documents\scratch1.org]
+***** TODO Install and Learn Icicles
+
+***** TODO Install and Learn Evil
+      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
+      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
+
+***** TODO Learn Vim
+      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process. 
+
+***** TODO Learn Babel
+
+***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+
+**** TODO Eclipse Tutorial
+     - Upgraded to Eclipse RCP
+
+***** TODO Eclipse/Java Tutorial Lesson 5
+
+**** TODO Jruby Tutorial
+
+**** TODO Screen Scraper Tutorial
+
+**** TODO Ruby on Rails Tutorial
+
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+     - Github Account https://github.com/RayNieva
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+
+**** DONE Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+
+*** End Task
+
+
+** DONE Dinner Ideas or Go Out or Order Out and after Dinner
+     - Rotate chicken in NuWave
+*** DONE Dinner Made Stir Fry and fried rice
+*** DONE Heat Sukiyaki
+*** DONE Made Leftovers into Lo Mein (Hot and Spicy)
+*** DONE Heated up on Turbo and then Nuwave Chicken and Brocoli with Tortellini soup
+*** DONE Ordered Pizza
+*** DONE Help make Onion Soup
+*** DONE Went out for Cocktails and Dinner Bootleggers and Asian Imperial spent about $120
+    - Sometimes at a bar you can do Business networking 
+      not sure if anything will become of it, but got contacts card.
+
+*** DONE Chuck Roast in NuWave using leftover Onion Soup and Pre/par Boiling carrots and potatoes
+*** DONE Nabemono with Salmon, Leeks and Shitake Mushrooms
+*** DONE Chicago Hotdogs
+*** DONE Made some fantastic Chicken Wing Tempura (Recipe in Firefox Bookmarks) and Learned some new Tempura frying techniques.
+
+*** DONE Made Chicken Picatta and roasted potatoes and carrots (by steaming first and then Nuwave roasting)
+
+*** DONE Pizza on Grill
+    
+*** TODO Washed Dishes
+*** TODO Returned Bottles
+*** TODO Clean-out & Organize Frig
+
+** End Task
+
+* DONE Car Maintenance						   :Car:Home:
+
+** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
+
+* TODO Grocery Shopping and Run Errands					:Car:
+   - [X] Coffee 
+   - [X] Creamer
+   - [X] Went to Oriental store in Clinton and purchased Tempura Sauce, Dashi and Rice Seasoning
+   - [X] Chuck roast, Pop corn butter 
+   - [X] Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
+   - [X] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
+   - [X] Cat litter 
+   - [X] Toilet Tissue
+   - [X] Italian Sausages and French Bread
+   - [X] Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
+   - [ ] Propane?
+   - [X] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
+** TODO Return Bottles
+* TODO Go to ETRR?					     :Car:Framingham:
+   - Registered in Jobquest
+   - Talked to Counselor
+   - Got information for Networking
+   - Need to sign-up for ETR Activities
+   - Went for Introductory session Seminar <2016-02-22 Mon> at 9:30 AM
+   - Mandatory RESEA Meeting <2016-03-01 Tue>
+
+* TODO Joan Time						   :Home:Car:
+
+** DONE Go to Maine with Joan					  :Car:Maine:
+
+** DONE Light Bulbs in Bathroom
+
+** TODO Upstairs Consolidate Boxes
+** TODO Breakdown cellphone bill
+
+
+* TODO Go Home							   :Car:Home:
+
+** DONE Made Sukiyaki 
+   - Used Bobby Flay's recipe
+     - 1/2 cup soy sauce
+     - 1 to 1 1/2 cup broth (made from Udon Mix)
+     - 1/4 cup Mirin
+     - 
+
+   DEADLINE: <2016-02-10 Wed>
+* DONE Continue Working at Home					       :Home:
+
+** TODO Worked on CH Tutorial (C++/C)
+   - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high
+
+** TODO Looked at NLP and Psychological training
+
+** TODO More Emacs and Evil Mode (Including Vim Study)
+   - Set-up Yasnippet
+   - Yasnippet and Ruby mode (For Loops)
+   - DONE Revisit Cyborganized Video (Execution Loop)
+    - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
+
+** TODO Eclipse and Upgrade to Eclipse to include RCP
+
+** TODO Org-Mode
+
+
+** DONE Jobsearch Activities [[Jobhunting-activities]]
+
+   - See Journal and Opportunities orgs
+   - Continued work from morning
+
+*** TODO More Work on Org-Capture to YAML format
+
+** End Task
+
+* End Task
+<<go-to-bottom>>
+  
+ 

@@ -1,5 +1,4 @@
 
-
 * Customize Org appearance
 ** Code
 (setq truncate-lines 'nil) (setq truncate-lines 't)
@@ -66,12 +65,12 @@
 *** TODO SuperMemory
     -  http://www.super-memory.com/
 
-** TODO Check Email
+** DONE Check Email
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
      - Have configured Live Mail, rgnterprises mail and Comcast
 
-** TODO Check Texting on Landline
+** DONE Check Texting on Landline
    - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
@@ -85,25 +84,12 @@
     - [X] Update Worksearch Spreadsheet every Saturday
 
 
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
 *** DONE Deposited checks from UI
 
 **** TODO Budgeting and Bills
-    - [X] Vacation Fund $10 Weekly on UI
-    - [ ] Savings Bi-weekly on UI play by ear
-    - [X] Personal Loan $375 due on 1st
-    - [X] Rent $700 due on 1st with flexibility
-    - [X] Pay WCU Visa $30 due 3rd  [[https://www.wcu.com/home/home][WCU]]
-    - [X] Paypal Credit $35.00 due on 7th
-    - [X] Bofa (Need to send Voided Check, otherwise pay over phone due on 7th (Last payment was late on 8th conf# 56287)
-    - [ ] Utilities $300 due around 20th
-    - [ ] Auto Insurance $85 due around 20th
-    - [ ] Car Payment $250 due 23rd
-    - [ ] Pay Chase $23 due 25th
-    - [ ] Pay Shell $39.49 due 26th
-    - [X] Pay Comcast 127.00 due on 27th [[http://my.xfinity.com/?cid=cust][comcast]]
-    - [ ] Hostgator $14.00 due on 29th
+        - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
 [[https://www.wcu.com/home/home][WCU]]
@@ -114,12 +100,12 @@
 *** DONE Address Tax Issue
 *** DONE Ordered New Shell Card
     
-** TODO Household, Health and Hygiene
-*** TODO Clean Cat Box
-*** TODO Brush Teeth and Learning to control bad breath
-*** TODO Take Dog out feed animals
+** DONE Household, Health and Hygiene
+*** DONE Clean Cat Box
+*** DONE Brush Teeth and Learning to control bad breath
+*** DONE Take Dog out feed animals
 *** DONE Clean-up Shoveling
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 
 *** TODO Prescription Medicine
 
@@ -128,18 +114,18 @@
 
 *** TODO Vacuum Floor
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 ** End Task
-** TODO Have Coffee [1/3]
+** DONE Have Coffee [3/3]
    - [X] 1st cup
-   - [ ] 2nd cup
-   - [ ] 3rd cup
+   - [X] 2nd cup
+   - [X] 3rd cup
 
 
  
 ** TODO Start Working at home
 
-*** TODO Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>
+*** DONE Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>
     - [http://www.etrcc.com]
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]

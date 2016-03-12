@@ -8,7 +8,7 @@
 [[go-to-bottom]]
 
 ** TODO Time Management
-*** GTD Stuff
+*** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -23,9 +23,11 @@
    - http://blog.casual.pm/post/114499949915/time-management-techniques-salami-pomodoro Swiss Cheese like methods of attacking
      complex tasks or projects
      
-** DONE System Administration and Personal Desktop Support
+** TODO System Administration and Personal Desktop Support
+   - file://C:/Users/Ray/AppData/Roaming/.emacs
+   - file://C:/Users/Ray/history02-10-16.txt
 
-*** DONE Routine System Operation to Optimize systems
+*** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
     - Need to think of alternative boot options first.
@@ -65,13 +67,13 @@
 *** TODO SuperMemory
     -  http://www.super-memory.com/
 
-** DONE Check Email
+** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
      - Have configured Live Mail, rgnterprises mail and Comcast
 
-** DONE Check Texting on Landline
-   - [[http://my.xfinity.com/?cid=cust][Comcast]]
+*** TODO Check Texting on Landline
+    - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
 ** TODO Checked Unemployment or Check Unemployment Portal
@@ -84,11 +86,11 @@
     - [X] Update Worksearch Spreadsheet every Saturday
 
 
-** DONE Check Accounts and Budget
+** TODO Check Accounts and Budget
 
 *** DONE Deposited checks from UI
 
-**** TODO Budgeting and Bills
+*** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -98,12 +100,12 @@
 *** DONE Move severance check
 
 *** DONE Address Tax Issue
-*** DONE Ordered New Shell Card
+*** TODO Ordered New Shell Card and Need to activate
     
-** DONE Household, Health and Hygiene
-*** DONE Clean Cat Box
-*** DONE Brush Teeth and Learning to control bad breath
-*** DONE Take Dog out feed animals
+** TODO Household, Health and Hygiene
+*** TODO Clean Cat Box
+*** TODO Brush Teeth and Learning to control bad breath
+*** TODO Take Dog out feed animals
 *** DONE Clean-up Shoveling
 *** DONE Take Out Trash and/or Recycling
 
@@ -114,18 +116,18 @@
 
 *** TODO Vacuum Floor
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
+** TODO Have Coffee [0/3]
+   - [ ] 1st cup
+   - [ ] 2nd cup
+   - [ ] 3rd cup
 ** End Task
-** DONE Have Coffee [3/3]
-   - [X] 1st cup
-   - [X] 2nd cup
-   - [X] 3rd cup
 
 
  
-** TODO Start Working at home
+* TODO Start Working at home					       :Home:
 
-*** DONE Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>
+*** TODO Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>
     - [http://www.etrcc.com]
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
@@ -161,7 +163,7 @@
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research
 
-*** TODO Master New Subjects
+*** DONE Master New Subjects
 
 
 
@@ -226,7 +228,7 @@
 
 **** TODO Ruby on Rails Tutorial
 
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
      - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
      - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
@@ -239,9 +241,28 @@
 
 *** End Task
 
+* DONE Car Maintenance						   :Car:Home:
 
-** DONE Dinner Ideas or Go Out or Order Out and after Dinner
-     - Rotate chicken in NuWave
+** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
+
+* TODO Grocery Shopping and Run Errands					:Car:
+   - [X] Coffee 
+   - [X] Creamer
+   - [X] Went to Oriental store in Clinton and purchased Tempura Sauce, Dashi and Rice Seasoning
+   - [X] Chuck roast, Pop corn butter 
+   - [X] Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
+   - [X] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
+   - [X] Cat litter 
+   - [X] Toilet Tissue
+   - [X] Italian Sausages and French Bread
+   - [X] Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
+   - [ ] Propane?
+   - [X] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
+** TODO Return Bottles
+
+
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+    - Rotate chicken in NuWave
 *** DONE Dinner Made Stir Fry and fried rice
 *** DONE Heat Sukiyaki
 *** DONE Made Leftovers into Lo Mein (Hot and Spicy)
@@ -266,25 +287,6 @@
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-
-* DONE Car Maintenance						   :Car:Home:
-
-** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
-
-* TODO Grocery Shopping and Run Errands					:Car:
-   - [X] Coffee 
-   - [X] Creamer
-   - [X] Went to Oriental store in Clinton and purchased Tempura Sauce, Dashi and Rice Seasoning
-   - [X] Chuck roast, Pop corn butter 
-   - [X] Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
-   - [X] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
-   - [X] Cat litter 
-   - [X] Toilet Tissue
-   - [X] Italian Sausages and French Bread
-   - [X] Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
-   - [ ] Propane?
-   - [X] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
-** TODO Return Bottles
 * TODO Go to ETRR?					     :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
@@ -295,13 +297,20 @@
 
 * TODO Joan Time						   :Home:Car:
 
-** DONE Go to Maine with Joan					  :Car:Maine:
-
 ** DONE Light Bulbs in Bathroom
 
 ** TODO Upstairs Consolidate Boxes
-** TODO Breakdown cellphone bill
 
+** DONE Go to Maine with Joan					  :Car:Maine:
+** DONE Breakdown cellphone bill
+* TODO Family Time						   :Home:Car:
+** Babies Birthday						   :Home:Car:
+*** Make List
+    - [ ] Idea Clothes for babies
+    - [ ] Baskets for babies
+    - [ ] Toys for babies
+    - [ ] Easter theme?
+     
 
 * TODO Go Home							   :Car:Home:
 
@@ -313,7 +322,7 @@
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 
 ** TODO Worked on CH Tutorial (C++/C)
    - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high
@@ -331,7 +340,7 @@
 ** TODO Org-Mode
 
 
-** DONE Jobsearch Activities [[Jobhunting-activities]]
+** TODO Jobsearch Activities [[Jobhunting-activities]]
 
    - See Journal and Opportunities orgs
    - Continued work from morning

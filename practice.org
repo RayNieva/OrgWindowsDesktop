@@ -12,16 +12,23 @@
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
+    - More about Org-mode [[Learn-Org-Mode]]
     - http://gettingthingsdone.com/2015/06/podcast-05-gtd-and-daily-habits/  Podcast #5 – GTD and Daily Habits
     - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/ JTD Journaling to Done
+    - file://C:/Users/Ray/AppData/Roaming/org/gtdActionables.org
     - file://C:/Users/Ray/AppData/Roaming/org/jtdjournal.org
     - Browser History as a Journal (shell-command "start firefox") or Alt-Tab to see if existing task.
 
-*** Other Time Management Stuff
+*** TODO Other Time Management Stuff
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
    - http://blog.casual.pm/post/114499949915/time-management-techniques-salami-pomodoro Swiss Cheese like methods of attacking
      complex tasks or projects
+   - https://www.youtube.com/watch?v=OZdplApv_X4 You Want Progress In Life? Stop Learning... Start Implementing
+   - https://www.youtube.com/watch?v=I0gYDB4r630 It's Time To Stop Learning Internet Marketing
+   - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Begining to this Internet Marketing Seminar (Which is Pretty good too.)
+   - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be in Business is to Be in Business"
+
      
 ** TODO System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
@@ -77,14 +84,13 @@
 
 
 ** TODO Checked Unemployment or Check Unemployment Portal
-    - Signed into Unemployment
+    - Signed into Unemployment 
     - Found PDF editing sites to fill out downloaded forms for Worksearch
     - Might need to do documentation on spreadsheet and or .org form
     - [[https://uionline.detma.org/Claimant/Core/Login.ASPX][unemployment]]
-    - [X] file claim when required  <2016-03-06 Sun>
+    - [X] file claim when required  <2016-03-13 Sun>
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
     - [X] Update Worksearch Spreadsheet every Saturday
-
 
 ** TODO Check Accounts and Budget
 
@@ -100,14 +106,15 @@
 *** DONE Move severance check
 
 *** DONE Address Tax Issue
-*** TODO Ordered New Shell Card and Need to activate
+*** TODO Ordered New Shell Card and Need to activate 
+    DEADLINE: <2016-03-14 Mon>
     
 ** TODO Household, Health and Hygiene
 *** TODO Clean Cat Box
 *** TODO Brush Teeth and Learning to control bad breath
 *** TODO Take Dog out feed animals
 *** DONE Clean-up Shoveling
-*** DONE Take Out Trash and/or Recycling
+*** TODO Take Out Trash and/or Recycling
 
 *** TODO Prescription Medicine
 
@@ -143,7 +150,9 @@
     - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
-    - Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8 
+
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
 
 *** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
@@ -159,23 +168,22 @@
 
 *** TODO Freelance Research 
     - Yasnippet and like type of programs as discovered on Github research
-    - Org-mode for Journaling
+    - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
-    - Youtube Research
+    - Youtube Research (this can be very "free lance")
 
-*** DONE Master New Subjects
+*** TODO Master New Subjects
 
 
-
-**** TODO Internet Marketing - What is it?
+**** DONE Internet Marketing - What is it?
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [[http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm][Home Business]
      - http://www.ericstips.com
      - http://www.meetup.com/WorcesterClub/
 
 
-
-**** TODO Learn Org Mode
+**** DONE Sidekick/Hubspot
+**** TODO Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
 ***** DONE Practice Check Boxes [100%]
@@ -230,18 +238,20 @@
 
 **** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
      - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
      - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
      - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
      - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
      - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
 
-**** DONE Learn Vimperator
+**** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 
 *** End Task
 
-* DONE Car Maintenance						   :Car:Home:
+* TODO Car Maintenance						   :Car:Home:
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
@@ -281,6 +291,8 @@
 *** DONE Made Chicken Picatta and roasted potatoes and carrots (by steaming first and then Nuwave roasting)
 
 *** DONE Pizza on Grill
+
+*** DONE Smorkasbork of Leftovers
     
 *** TODO Washed Dishes
 *** TODO Returned Bottles
@@ -302,19 +314,23 @@
 ** TODO Upstairs Consolidate Boxes
 
 ** DONE Go to Maine with Joan					  :Car:Maine:
-** DONE Breakdown cellphone bill
+** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
 * TODO Family Time						   :Home:Car:
-** Babies Birthday						   :Home:Car:
-*** Make List
-    - [ ] Idea Clothes for babies
-    - [ ] Baskets for babies
-    - [ ] Toys for babies
-    - [ ] Easter theme?
+** [#A] Babies Birthday						   :Home:Car:
+*** DONE Make List
+    - [X] Idea Clothes for babies
+    - [X] Baskets for babies
+    - [X] Toys for babies
+    - [X] Easter theme?
+*** DONE Birthday Party and Prep
+    - [X] Make Baskets
+    - [X] Go to Party
+    
      
 
 * TODO Go Home							   :Car:Home:
 
-** DONE Made Sukiyaki 
+** TODO Made Sukiyaki 
    - Used Bobby Flay's recipe
      - 1/2 cup soy sauce
      - 1 to 1 1/2 cup broth (made from Udon Mix)

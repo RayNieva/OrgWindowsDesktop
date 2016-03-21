@@ -8,7 +8,7 @@
 [[go-to-bottom]]
 
 ** TODO Time Management
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -18,6 +18,8 @@
     - file://C:/Users/Ray/AppData/Roaming/org/gtdActionables.org
     - file://C:/Users/Ray/AppData/Roaming/org/jtdjournal.org
     - Browser History as a Journal (shell-command "start firefox") or Alt-Tab to see if existing task.
+    -  https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
+
 
 *** TODO Other Time Management Stuff
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
@@ -26,14 +28,15 @@
      complex tasks or projects
    - https://www.youtube.com/watch?v=OZdplApv_X4 You Want Progress In Life? Stop Learning... Start Implementing
    - https://www.youtube.com/watch?v=I0gYDB4r630 It's Time To Stop Learning Internet Marketing
-   - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Begining to this Internet Marketing Seminar (Which is Pretty good too.)
-   - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be in Business is to Be in Business"
+   - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
+   - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
+   - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
+
 
      
 ** TODO System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
-
 *** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
@@ -45,12 +48,13 @@
     - Use freeze pak to cool down
     - Turn off computer at night
 
-** TODO Mind Rituals
+** TODO Mind Rituals and Attitude Development
 *** TODO Meditate
 [[https://youtube.com]]
 [[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
 [[https://www.youtube.com/watch?v=tOQaVSX-N4c][CALMING OUR MINDS: Relaxing mful life & RELAXATION]]
 [[https://www.youtube.com/watch?v=uPWqs8hOzmQ][Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
+   - https://www.youtube.com/watch?v=iCJkTXS4LoA  Powerful: Confidence Spoken Affirmations with binaural tones for Healthy Self-esteem
 
 *** TODO Learning About Chi (Can be a feeling of Empowerment too!
     - https://www.youtube.com/watch?v=dfy2Tn52sxU  Power of Meditation: Qigong Master Chi Energy
@@ -71,32 +75,32 @@
     - Anchoring and added more research in the Swish pattern.
     - https://www.youtube.com/watch?v=M3szqVVeNzw Self Help - How Self-Help Can Revolutionize Your Entire Life
     - https://www.youtube.com/watch?v=FoYs1YqQI7w  The Power Of Routines - How Your Daily Routine Holds You Back From Your Dreams
+    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
 *** TODO SuperMemory
     -  http://www.super-memory.com/
+
+*** TODO http://www.catb.org/~esr/faqs/hacker-howto.html  How To Become a Hacker
+    - file://C:/Users/Ray/Downloads/Teach%20Yourself%20Programming%20in%20Ten%20Years.htm
+
+*** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
+
 
 ** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
      - Have configured Live Mail, rgnterprises mail and Comcast
+   * Check Sidekick https://app.getsidekick.com/stream/all
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** TODO Checked Unemployment or Check Unemployment Portal
-    - Signed into Unemployment 
-    - Found PDF editing sites to fill out downloaded forms for Worksearch
-    - Might need to do documentation on spreadsheet and or .org form
-    - [[https://uionline.detma.org/Claimant/Core/Login.ASPX][unemployment]]
-    - [X] file claim when required  <2016-03-13 Sun>
-    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
-    - [X] Update Worksearch Spreadsheet every Saturday
-
+** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
 *** DONE Deposited checks from UI
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -106,26 +110,26 @@
 *** DONE Move severance check
 
 *** DONE Address Tax Issue
-*** TODO Ordered New Shell Card and Need to activate 
+*** DONE Ordered New Shell Card and Need to activate 
     DEADLINE: <2016-03-14 Mon>
     
 ** TODO Household, Health and Hygiene
+*** DONE Take Dog out feed animals
 *** TODO Clean Cat Box
 *** TODO Brush Teeth and Learning to control bad breath
-*** TODO Take Dog out feed animals
-*** DONE Clean-up Shoveling
-*** TODO Take Out Trash and/or Recycling
 
 *** TODO Prescription Medicine
 
 *** TODO Take shower
+
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Vacuum Floor
-
-*** TODO Kitchen Clean-up
-** TODO Have Coffee [0/3]
-   - [ ] 1st cup
+*** DONE Take Out Trash and/or Recycling
+*** DONE Clean-up Shoveling
+** TODO Have Coffee [1/3]
+   - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
 ** End Task
@@ -134,7 +138,7 @@
  
 * TODO Start Working at home					       :Home:
 
-*** TODO Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>
+*** TODO Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com]
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
@@ -152,7 +156,16 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8 
 
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+    - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
+    - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
+
+**** TODO ETRR Meeting on Resumes			     :Framingham:Car:
+     DEADLINE: <2016-03-22 Tue> at 9:15 AM
+
+**** TODO ETRR Meeting on Cover Letters			     :Framingham:Car:
+     DEADLINE: <2016-03-24 Thu> at 9:15 AM
+
 
 *** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
@@ -175,15 +188,15 @@
 *** TODO Master New Subjects
 
 
-**** DONE Internet Marketing - What is it?
+**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
-     - [[http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm][Home Business]
+     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
      - http://www.ericstips.com
      - http://www.meetup.com/WorcesterClub/
 
 
-**** DONE Sidekick/Hubspot
-**** TODO Learn Org Mode <<Learn-Org-Mode>>
+**** TODO Sidekick/Hubspot
+**** DONE Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
 ***** DONE Practice Check Boxes [100%]
@@ -236,15 +249,17 @@
 
 **** TODO Ruby on Rails Tutorial
 
-**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
+     - BitBucket Account https://bitbucket.org/RayNieva
      - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
      - file://C:/Users/Ray/Desktop/history03-11-16.txt
      - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
      - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
      - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
      - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - Heroku https://id.heroku.com/login
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
@@ -307,13 +322,20 @@
    - Went for Introductory session Seminar <2016-02-22 Mon> at 9:30 AM
    - Mandatory RESEA Meeting <2016-03-01 Tue>
 
-* TODO Joan Time						   :Home:Car:
+* DONE Joan Time						   :Home:Car:
 
 ** DONE Light Bulbs in Bathroom
 
-** TODO Upstairs Consolidate Boxes
-
 ** DONE Go to Maine with Joan					  :Car:Maine:
+
+** DONE Prepare for Appraisal
+** DONE Birthdays Help Joan
+   - [X] Kelly and Pam
+   - [ ] Frederick
+   - [ ] Kim
+
+** DONE Upstairs Consolidate Boxes
+** TODO Send Message to Raymond  http://comcast.net 
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
 * TODO Family Time						   :Home:Car:
 ** [#A] Babies Birthday						   :Home:Car:

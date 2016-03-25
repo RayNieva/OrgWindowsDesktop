@@ -112,7 +112,8 @@
 ** TODO Household, Health and Hygiene
 *** TODO Take Dog out feed animals
 *** TODO Clean Cat Box
-*** TODO Brush Teeth and Learning to control bad breath
+
+*** TODO Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 

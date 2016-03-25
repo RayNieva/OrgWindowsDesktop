@@ -134,7 +134,8 @@
  
 * TODO Start Working at home					       :Home:
 
-*** TODO Visit ETRR Website and Jobhunting Activities <<Jobhunting-activities>>  [[Internet-Marketing]]
+  
+*** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com]
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
@@ -288,7 +289,7 @@
 ** TODO Return Bottles
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Dinner Made Stir Fry and fried rice
 *** DONE Heat Sukiyaki
@@ -356,7 +357,7 @@
     
      
 
-* DONE Go Home							   :Car:Home:
+* TODO Go Home							   :Car:Home:
 
 ** DONE Made Sukiyaki 
    - Used Bobby Flay's recipe
@@ -366,7 +367,7 @@
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 
 ** TODO Worked on CH Tutorial (C++/C)
    - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high
@@ -384,7 +385,8 @@
 ** TODO Org-Mode
 
 
-** DONE Jobsearch Activities [[Jobhunting-activities]]
+
+** TODO  Opportunity Activities [[Opportunity-activities]]
 
    - See Journal and Opportunities orgs
    - Continued work from morning

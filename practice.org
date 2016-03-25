@@ -107,11 +107,7 @@
 [[https://www.wcu.com/home/home][WCU]]
 
 
-*** DONE Move severance check
 
-*** TODO Address Tax Issue
-*** DONE Ordered New Shell Card and Need to activate 
-    DEADLINE: <2016-03-14 Mon>
     
 ** TODO Household, Health and Hygiene
 *** TODO Take Dog out feed animals
@@ -274,10 +270,10 @@
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
-* DONE Grocery Shopping and Run Errands					:Car:
+* TODO Grocery Shopping and Run Errands					:Car:
    - [X] Coffee 
    - [X] Creamer
-   - [X] Went to Oriental store in Clinton and purchased Tempura Sauce, Dashi and Rice Seasoning
+   - [X] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
    - [X] Chuck roast, Pop corn butter 
    - [X] Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
    - [X] Nabemono: Napa cabbage, green onions, mushrooms, salmon 

@@ -8,7 +8,7 @@
 [[go-to-bottom]]
 
 ** TODO Time Management
-*** DONE GTD Stuff
+*** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -91,14 +91,14 @@
      - Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
 
-*** DONE Check Texting on Landline
+*** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
 ** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
-*** DONE Deposited checks from UI
+
 
 *** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
@@ -110,16 +110,16 @@
 
     
 ** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
-*** TODO Prescription Medicine
+*** DONE Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Vacuum Floor
@@ -154,7 +154,7 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8 
 
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
     - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
 
@@ -320,7 +320,7 @@
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* DONE Go to ETRR?					     :Car:Framingham:
+* TODO Go to ETRR?					     :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -393,7 +393,7 @@
    - Continued work from morning
 
 *** TODO More Work on Org-Capture to YAML format
-*** DONE Reviewing Internet Marketing
+*** TODO Reviewing Internet Marketing
 ** End Task
 
 * End Task

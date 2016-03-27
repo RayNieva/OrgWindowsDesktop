@@ -31,6 +31,10 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
+** TODO Have Coffee [2/3]
+   - [X] 1st cup
+   - [X] 2nd cup
+   - [ ] 3rd cup
 
 
      
@@ -38,7 +42,7 @@
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
 *** TODO Keyboard Issue
-*** TODO Routine System Operation to Optimize systems
+*** DONE Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
     - Need to think of alternative boot options first.
@@ -110,71 +114,26 @@
 
     
 ** TODO Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
-*** DONE Brush Teeth and Oral Hygiene
+*** TODO Brush Teeth and Oral Hygiene
 
-*** DONE Prescription Medicine
+*** TODO Prescription Medicine
 
-*** DONE Take shower
+*** TODO Take shower
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Vacuum Floor
-*** DONE Take Out Trash and/or Recycling
+*** TODO Take Out Trash and/or Recycling
 *** DONE Clean-up Shoveling
-** TODO Have Coffee [2/3]
-   - [X] 1st cup
-   - [X] 2nd cup
-   - [ ] 3rd cup
 ** End Task
 
 
  
 * TODO Start Working at home					       :Home:
-
-  
-*** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - [http://www.etrcc.com]
-    - [https://jobquest.detma.org/JobQuest/Default.aspx]
-    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
-    - Create Persuasive Cover Letter Template(s)
-    - Job request ID 11978529
-    - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
-    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
-    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
-    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - Mandatory RESEA Meeting <2016-03-01 Tue>
-    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
-    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
-    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
-    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
-    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
-    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8 
-
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
-    - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
-    - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
-
-**** DONE ETRR Meeting on Resumes			     :Framingham:Car:
-     DEADLINE: <2016-03-22 Tue> at 9:15 AM
-
-**** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
-     DEADLINE: <2016-03-24 Thu> at 9:15 AM
-
-
-*** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
-    - Login to PWS
-    - cpanel
-      [[https://cloud8.hostgator.com:2083/][cpanel]]
-    - Was able to change by going to "settings" and putting the correct nameservers
-      also found the error when using mxtoolbox.
-    - Removed Fetch Mail as cannot set-up SSL
-    - Set-up Under Construction Website
-
-**** DONE Website Development
 
 
 *** TODO Freelance Research 
@@ -192,7 +151,12 @@
      - http://www.ericstips.com
      - http://www.meetup.com/WorcesterClub/
 
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+**** TODO Concept of Workflow Automation
+
 **** TODO http://railsinstaller.org/en RailsInstaller
+     
 **** TODO Ruby on Rails Tutorial [0/1]
      1. [ ] https://www.railstutorial.org/book/beginning
 
@@ -263,8 +227,49 @@
 
 **** TODO Screen Scraper Tutorial
 
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+  
+*** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+    - [http://www.etrcc.com]
+    - [https://jobquest.detma.org/JobQuest/Default.aspx]
+    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
+    - Create Persuasive Cover Letter Template(s)
+    - Job request ID 11978529
+    - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
+    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
+    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
+    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
+    - Mandatory RESEA Meeting <2016-03-01 Tue>
+    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
+    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
+    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
+    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
+    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
+    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8 
+
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+    - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
+    - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
+
+**** TODO ETRR Meeting on Resumes			     :Framingham:Car:
+     DEADLINE: <2016-03-22 Tue> at 9:15 AM
+
+**** TODO ETRR Meeting on Cover Letters			     :Framingham:Car:
+     DEADLINE: <2016-03-24 Thu> at 9:15 AM
+**** TODO Electronice Resume 
+     DEADLINE: <2016-04-12 Tue> at 9:15 AM
+**** TODO Avoiding Black Hole 
+     DEADLINE: <2016-04-27 Wed> at 9:15 AM
+
+*** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
+    - Login to PWS
+    - cpanel
+      [[https://cloud8.hostgator.com:2083/][cpanel]]
+    - Was able to change by going to "settings" and putting the correct nameservers
+      also found the error when using mxtoolbox.
+    - Removed Fetch Mail as cannot set-up SSL
+    - Set-up Under Construction Website
+
+**** DONE Website Development
 
 *** End Task
 
@@ -345,6 +350,7 @@
 ** DONE Upstairs Consolidate Boxes
 ** TODO Send Message to Raymond  http://comcast.net 
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
+** TODO Easter
 * TODO Family Time						   :Home:Car:
 ** [#A] Babies Birthday						   :Home:Car:
 *** DONE Make List

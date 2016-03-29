@@ -42,12 +42,13 @@
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
 *** TODO Keyboard Issue
-*** DONE Routine System Operation to Optimize systems
+*** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
     - Need to think of alternative boot options first.
 
-*** DONE Fix Printer
+*** DONE Printer
+    - [X] Make sure printer is off after finally using.
 *** DONE Fixed Computer Cooling Issue
     - Keep on cool hard surface
     - Use freeze pak to cool down
@@ -88,7 +89,7 @@
 
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
 
-
+    
 ** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
@@ -102,8 +103,6 @@
 ** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
-
-
 *** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
@@ -113,13 +112,15 @@
 
 
     
+
+
 ** TODO Household, Health and Hygiene
 *** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+*** DONE Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
-*** TODO Prescription Medicine
+*** DONE Prescription Medicine
 
 *** TODO Take shower
 
@@ -127,7 +128,7 @@
 *** TODO Do Laundry
 
 *** TODO Vacuum Floor
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 *** DONE Clean-up Shoveling
 ** End Task
 
@@ -148,7 +149,14 @@
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
-     - http://www.ericstips.com
+     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
+       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
+       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
+       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
+       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
+       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
+       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
+       - 
      - http://www.meetup.com/WorcesterClub/
 
 **** TODO Learn Vimperator
@@ -249,11 +257,20 @@
 **** TODO Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
     - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
+    - On-line Presence
+      - [ ] LinkedIn
+      - [ ] RGNterprises.NET
+      - [ ] Github
+      - [ ] Github.io
+      - [ ] Hubpages
+      - [ ] Twitter
+      - [ ] Facebook
+      - [ ] Article Directories
 
-**** TODO ETRR Meeting on Resumes			     :Framingham:Car:
+**** DONE ETRR Meeting on Resumes			     :Framingham:Car:
      DEADLINE: <2016-03-22 Tue> at 9:15 AM
 
-**** TODO ETRR Meeting on Cover Letters			     :Framingham:Car:
+**** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
      DEADLINE: <2016-03-24 Thu> at 9:15 AM
 **** TODO Electronice Resume 
      DEADLINE: <2016-04-12 Tue> at 9:15 AM
@@ -320,6 +337,7 @@
 *** DONE Made Chicken Tikki Masala
 *** DONE Steamed Trout
 *** DONE Reuben Sandwichs
+*** DONE Spicy Cream of Tomato Indian Soup with Biscuit Ham Sliders
 *** TODO Washed Dishes
 *** TODO Returned Bottles
 *** TODO Clean-out & Organize Frig
@@ -342,15 +360,15 @@
 ** DONE Go to Maine with Joan					  :Car:Maine:
 
 ** DONE Prepare for Appraisal
-** DONE Birthdays Help Joan
+** TODO Birthdays Help Joan
    - [X] Kelly and Pam
    - [ ] Frederick
    - [ ] Kim
 
-** DONE Upstairs Consolidate Boxes
+** TODO Upstairs Consolidate Boxes
 ** TODO Send Message to Raymond  http://comcast.net 
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
-** TODO Easter
+** DONE Easter
 * TODO Family Time						   :Home:Car:
 ** [#A] Babies Birthday						   :Home:Car:
 *** DONE Make List
@@ -393,7 +411,7 @@
 
 
 
-** TODO  Opportunity Activities [[Opportunity-activities]]
+** TODO Opportunity Activities [[Opportunity-activities]]
 
    - See Journal and Opportunities orgs
    - Continued work from morning

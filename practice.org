@@ -31,9 +31,9 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-** TODO Have Coffee [2/3]
-   - [X] 1st cup
-   - [X] 2nd cup
+** TODO Have Coffee [0/3]
+   - [ ] 1st cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
@@ -116,11 +116,11 @@
 
 ** TODO Household, Health and Hygiene
 *** TODO Take Dog out feed animals
-*** DONE Clean Cat Box
+*** TODO Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
-*** DONE Prescription Medicine
+*** TODO Prescription Medicine
 
 *** TODO Take shower
 
@@ -156,6 +156,8 @@
        - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
        - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
        - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
+       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
+       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
        - 
      - http://www.meetup.com/WorcesterClub/
 
@@ -163,15 +165,30 @@
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO Concept of Workflow Automation
 
-**** TODO http://railsinstaller.org/en RailsInstaller
-     
-**** TODO Ruby on Rails Tutorial [0/1]
-     1. [ ] https://www.railstutorial.org/book/beginning
+**** ROR Ruby on Rails
+
+***** TODO http://railsinstaller.org/en RailsInstaller
+
+
+
+***** TODO http://railsapps.github.io/what-is-ruby-rails.html
+
+***** TODO http://railsapps.github.io/installing-rails.html
+
+***** DONE http://installfest.railsbridge.org/installfest/windows
+      
+***** DONE Ruby on Rails Tutorial [0/1]
+      1. [ ] https://www.railstutorial.org/book/beginning
+
+***** TODO http://guides.rubyonrails.org/getting_started.html
+
+***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
 **** TODO Jruby Tutorial
 
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
+       - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
      - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
      - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
@@ -369,6 +386,7 @@
 ** TODO Send Message to Raymond  http://comcast.net 
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
 ** DONE Easter
+** DONE Doctors Appt with Joan
 * TODO Family Time						   :Home:Car:
 ** [#A] Babies Birthday						   :Home:Car:
 *** DONE Make List

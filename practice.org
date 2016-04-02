@@ -7,7 +7,7 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
+** DONE Time Management
 *** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
@@ -31,17 +31,17 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-** TODO Have Coffee [0/3]
-   - [ ] 1st cup
+** TODO Have Coffee [1/3]
+   - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
 
 
      
-** TODO System Administration and Personal Desktop Support
+** DONE System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
-*** TODO Keyboard Issue
+*** DONE Keyboard Issue
 *** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
@@ -53,7 +53,7 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** TODO Mind Rituals and Attitude Development
+** DONE Mind Rituals and Attitude Development
 *** TODO Meditate
 [[https://youtube.com]]
 [[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
@@ -90,7 +90,7 @@
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
 
     
-** TODO Check Email and Communications
+** DONE Check Email and Communications
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
      - Have configured Live Mail, rgnterprises mail and Comcast
@@ -128,7 +128,7 @@
 *** TODO Do Laundry
 
 *** TODO Vacuum Floor
-*** DONE Take Out Trash and/or Recycling
+*** TODO Take Out Trash and/or Recycling
 *** DONE Clean-up Shoveling
 ** End Task
 
@@ -165,7 +165,7 @@
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO Concept of Workflow Automation
 
-**** ROR Ruby on Rails
+**** TODO ROR Ruby on Rails
 
 ***** TODO http://railsinstaller.org/en RailsInstaller
 
@@ -177,7 +177,7 @@
 
 ***** DONE http://installfest.railsbridge.org/installfest/windows
       
-***** DONE Ruby on Rails Tutorial [0/1]
+***** TODO Ruby on Rails Tutorial [0/1]
       1. [ ] https://www.railstutorial.org/book/beginning
 
 ***** TODO http://guides.rubyonrails.org/getting_started.html
@@ -252,9 +252,9 @@
 
 **** TODO Screen Scraper Tutorial
 
-  
+     
 *** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - [http://www.etrcc.com]
+    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
     - Create Persuasive Cover Letter Template(s)
@@ -298,10 +298,10 @@
     - Login to PWS
     - cpanel
       [[https://cloud8.hostgator.com:2083/][cpanel]]
-    - Was able to change by going to "settings" and putting the correct nameservers
+    - [X] Was able to change by going to "settings" and putting the correct nameservers
       also found the error when using mxtoolbox.
-    - Removed Fetch Mail as cannot set-up SSL
-    - Set-up Under Construction Website
+    - [X] Removed Fetch Mail as cannot set-up SSL
+    - [X] Set-up Under Construction Website
 
 **** DONE Website Development
 
@@ -355,6 +355,8 @@
 *** DONE Steamed Trout
 *** DONE Reuben Sandwichs
 *** DONE Spicy Cream of Tomato Indian Soup with Biscuit Ham Sliders
+*** DONE Split Pea Soup, Irish Mashed Potatoes with cabbage
+*** DONE Filipino dish(corned beef but added cabbage too) and Yesterday's soup
 *** TODO Washed Dishes
 *** TODO Returned Bottles
 *** TODO Clean-out & Organize Frig
@@ -402,7 +404,7 @@
 
 * TODO Go Home							   :Car:Home:
 
-** DONE Made Sukiyaki 
+** DONE Made Sukiyaki = Time Marker for initial visit to ETRR
    - Used Bobby Flay's recipe
      - 1/2 cup soy sauce
      - 1 to 1 1/2 cup broth (made from Udon Mix)

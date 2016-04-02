@@ -17,8 +17,9 @@
     - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/ JTD Journaling to Done
     - file://C:/Users/Ray/AppData/Roaming/org/gtdActionables.org
     - file://C:/Users/Ray/AppData/Roaming/org/jtdjournal.org
+      - or on bitbucket https://bitbucket.org/RayNieva/org/src/201727ffebaaa368215101c27de8224862eff61b/org/jtdJournal.org?at=master&fileviewer=file-view-default
     - Browser History as a Journal (shell-command "start firefox") or Alt-Tab to see if existing task.
-    -  https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
+    - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
 *** TODO Other Time Management Stuff
@@ -31,9 +32,9 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-** TODO Have Coffee [1/3]
+** TODO Have Coffee [2/3]
    - [X] 1st cup
-   - [ ] 2nd cup
+   - [X] 2nd cup
    - [ ] 3rd cup
 
 
@@ -115,8 +116,8 @@
 
 
 ** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
@@ -124,8 +125,8 @@
 
 *** TODO Take shower
 
-*** TODO Kitchen Clean-up
-*** TODO Do Laundry
+*** DONE Kitchen Clean-up
+*** DONE Do Laundry
 
 *** TODO Vacuum Floor
 *** TODO Take Out Trash and/or Recycling

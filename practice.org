@@ -7,8 +7,8 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
-*** TODO GTD Stuff
+** TODO Time Management
+*** DONE GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -32,14 +32,14 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-** TODO Have Coffee [2/3]
-   - [X] 1st cup
-   - [X] 2nd cup
+** TODO Have Coffee [0/3]
+   - [ ] 1st cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
      
-** DONE System Administration and Personal Desktop Support
+** TODO System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
 *** DONE Keyboard Issue
@@ -54,7 +54,7 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** DONE Mind Rituals and Attitude Development
+** TODO Mind Rituals and Attitude Development
 *** TODO Meditate
 [[https://youtube.com]]
 [[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
@@ -91,7 +91,7 @@
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
 
     
-** DONE Check Email and Communications
+** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
      - Have configured Live Mail, rgnterprises mail and Comcast
@@ -116,8 +116,8 @@
 
 
 ** TODO Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
@@ -125,12 +125,12 @@
 
 *** TODO Take shower
 
-*** DONE Kitchen Clean-up
-*** DONE Do Laundry
+*** TODO Kitchen Clean-up
+*** TODO Do Laundry
 
 *** TODO Vacuum Floor
 *** TODO Take Out Trash and/or Recycling
-*** DONE Clean-up Shoveling
+*** TODO Clean-up Shoveling
 ** End Task
 
 
@@ -138,7 +138,7 @@
 * TODO Start Working at home					       :Home:
 
 
-*** TODO Freelance Research 
+*** TODO Freelance Research Top Ideas
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
@@ -186,6 +186,8 @@
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
 **** TODO Jruby Tutorial
+     - http://www.techrepublic.com/article/jruby-an-introduction/
+     - https://github.com/jruby/jruby/wiki/WalkthroughsAndTutorials
 
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
@@ -276,8 +278,8 @@
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
     - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
     - On-line Presence
-      - [ ] LinkedIn
-      - [ ] RGNterprises.NET
+      - [ ] LinkedIn http://www.linkedin.com
+      - [ ] RGNterprises.NET http://rgnterprises.net
       - [ ] Github
       - [ ] Github.io
       - [ ] Hubpages
@@ -313,16 +315,16 @@
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
 * TODO Grocery Shopping and Run Errands					:Car:
-   - [X] Coffee 
-   - [X] Creamer
-   - [X] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
+   - [ ] Coffee 
+   - [ ] Creamer
+   - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
    - [X] Chuck roast, Pop corn butter 
-   - [X] Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
+   - [ ] Chicago Hotdogs: Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
    - [X] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
    - [X] Cat litter 
    - [X] Toilet Tissue
    - [X] Italian Sausages and French Bread
-   - [X] Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
+   - [X] Tempura: Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
    - [ ] Propane?
    - [X] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
    - [X] Stuff for Tikki Masala plus, mouthwash, naan bread, greek style yogurt, coriander, nutmeg, cumin, ginger, cardoman, tomato puree, dishwasher liquid
@@ -358,6 +360,7 @@
 *** DONE Spicy Cream of Tomato Indian Soup with Biscuit Ham Sliders
 *** DONE Split Pea Soup, Irish Mashed Potatoes with cabbage
 *** DONE Filipino dish(corned beef but added cabbage too) and Yesterday's soup
+*** DONE Mongolian Sizzling Leftover Lamb using Nuwave PIC
 *** TODO Washed Dishes
 *** TODO Returned Bottles
 *** TODO Clean-out & Organize Frig
@@ -380,9 +383,9 @@
 ** DONE Go to Maine with Joan					  :Car:Maine:
 
 ** DONE Prepare for Appraisal
-** TODO Birthdays Help Joan
+** DONE Birthdays Help Joan
    - [X] Kelly and Pam
-   - [ ] Frederick
+   - [X] Frederick
    - [ ] Kim
 
 ** TODO Upstairs Consolidate Boxes
@@ -391,7 +394,7 @@
 ** DONE Easter
 ** DONE Doctors Appt with Joan
 * TODO Family Time						   :Home:Car:
-** [#A] Babies Birthday						   :Home:Car:
+** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies
     - [X] Baskets for babies

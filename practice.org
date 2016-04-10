@@ -8,7 +8,7 @@
 [[go-to-bottom]]
 
 ** TODO Time Management
-*** DONE GTD Stuff
+*** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -32,8 +32,8 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-** TODO Have Coffee [0/3]
-   - [ ] 1st cup
+** TODO Have Coffee [1/3]
+   - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
 
@@ -97,14 +97,14 @@
      - Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
 
-*** TODO Check Texting on Landline
+*** DONE Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** DONE Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -119,7 +119,7 @@
 *** TODO Take Dog out feed animals
 *** TODO Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
@@ -135,7 +135,7 @@
 
 
  
-* TODO Start Working at home					       :Home:
+* DONE Start Working at home					       :Home:
 
 
 *** TODO Freelance Research Top Ideas
@@ -144,7 +144,7 @@
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
 
-*** TODO Master New Subjects
+*** DONE Master New Subjects
 
 
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
@@ -166,7 +166,7 @@
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO Concept of Workflow Automation
 
-**** TODO ROR Ruby on Rails
+**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
 
 ***** TODO http://railsinstaller.org/en RailsInstaller
 
@@ -185,9 +185,19 @@
 
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
-**** TODO Jruby Tutorial
+**** DONE Jruby Tutorial <<JRuby-Tutorial>>
      - http://www.techrepublic.com/article/jruby-an-introduction/
      - https://github.com/jruby/jruby/wiki/WalkthroughsAndTutorials
+     - https://www.youtube.com/watch?v=vNHpsC5ng_E Design Patterns 
+
+**** TODO Eclipse Tutorial
+     - Upgraded to Eclipse RCP (How to use RCP?)
+     - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
+
+***** TODO Eclipse/Java Tutorial Lessons
+     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
+     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
+
 
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
@@ -244,26 +254,21 @@
 ***** TODO Learn Vim
       - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process. 
 
-***** TODO Learn Babel
+***** DONE Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-
-**** TODO Eclipse Tutorial
-     - Upgraded to Eclipse RCP
-
-***** TODO Eclipse/Java Tutorial Lesson 5
 
 **** TODO Screen Scraper Tutorial
 
      
 *** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
+    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
     - Create Persuasive Cover Letter Template(s)
     - Job request ID 11978529
     - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
-    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
     - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
     - Mandatory RESEA Meeting <2016-03-01 Tue>
@@ -361,6 +366,7 @@
 *** DONE Split Pea Soup, Irish Mashed Potatoes with cabbage
 *** DONE Filipino dish(corned beef but added cabbage too) and Yesterday's soup
 *** DONE Mongolian Sizzling Leftover Lamb using Nuwave PIC
+*** DONE Made Indian Lamb dish with Leftover lamb, seasonings and yoghurt (do not add yoghurt when it is too hot)
 *** TODO Washed Dishes
 *** TODO Returned Bottles
 *** TODO Clean-out & Organize Frig
@@ -376,7 +382,7 @@
    - [X] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
    - [X] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
 
-* TODO Joan Time						   :Home:Car:
+* DONE Joan Time						   :Home:Car:
 
 ** DONE Light Bulbs in Bathroom
 
@@ -385,7 +391,7 @@
 ** DONE Prepare for Appraisal
 ** DONE Birthdays Help Joan
    - [X] Kelly and Pam
-   - [X] Frederick
+   - [X] Frederick (Spent 2 days almost all weekend on this)
    - [ ] Kim
 
 ** TODO Upstairs Consolidate Boxes
@@ -393,6 +399,7 @@
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
 ** DONE Easter
 ** DONE Doctors Appt with Joan
+** DONE Go to Bank with Joan
 * TODO Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
@@ -416,7 +423,7 @@
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* TODO Continue Working at Home					       :Home:
+* DONE Continue Working at Home					       :Home:
 
 ** TODO Worked on CH Tutorial (C++/C)
    - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high

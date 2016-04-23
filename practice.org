@@ -42,6 +42,7 @@
 ** TODO System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
+   - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
 *** DONE Keyboard Issue
 *** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
@@ -88,6 +89,8 @@
 *** TODO http://www.catb.org/~esr/faqs/hacker-howto.html  How To Become a Hacker
     - file://C:/Users/Ray/Downloads/Teach%20Yourself%20Programming%20in%20Ten%20Years.htm
 
+*** TODO http://adam.nz/library/in_the_beginning_was_the_command_line
+
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
 
     
@@ -97,14 +100,14 @@
      - Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
 
-*** DONE Check Texting on Landline
+*** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** DONE Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -119,7 +122,7 @@
 *** TODO Take Dog out feed animals
 *** TODO Clean Cat Box
 
-*** DONE Brush Teeth and Oral Hygiene
+*** TODO Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
@@ -135,7 +138,7 @@
 
 
  
-* DONE Start Working at home					       :Home:
+* TODO Start Working at home					       :Home:
 
 
 *** TODO Freelance Research Top Ideas
@@ -144,9 +147,12 @@
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
 
-*** DONE Master New Subjects
+*** TODO Master New Subjects
 
 
+**** DONE XML/XSLT
+**** TODO SQL Server
+**** TODO MYSQL
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
@@ -166,6 +172,8 @@
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO Concept of Workflow Automation
 
+**** TODO Source Making
+     - https://sourcemaking.com/ 
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
 
 ***** TODO http://railsinstaller.org/en RailsInstaller
@@ -185,37 +193,12 @@
 
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
-**** DONE Jruby Tutorial <<JRuby-Tutorial>>
+**** TODO Jruby Tutorial <<JRuby-Tutorial>>
      - http://www.techrepublic.com/article/jruby-an-introduction/
      - https://github.com/jruby/jruby/wiki/WalkthroughsAndTutorials
-     - https://www.youtube.com/watch?v=vNHpsC5ng_E Design Patterns 
-
-**** TODO Eclipse Tutorial
-     - Upgraded to Eclipse RCP (How to use RCP?)
-     - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
-
-***** TODO Eclipse/Java Tutorial Lessons
-     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
-     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
-
-
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
-     - Github Account https://github.com/RayNieva
-       - https://guides.github.com/features/mastering-markdown/
-     - BitBucket Account https://bitbucket.org/RayNieva
-     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-     - file://C:/Users/Ray/Desktop/history03-11-16.txt
-     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
-     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
-     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - Heroku https://id.heroku.com/login
-     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
-**** TODO Hadoop
-     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
-
-**** TODO Sidekick/Hubspot
+     - https://www.youtube.com/watch?v=vNHpsC5ng_E Design Patterns
+     - http://phrogz.net/programmingruby/frameset.html Great Overview of Ruby Objects
+     - http://www.tentackle.org/html/en/t_rails.html Tentackle
 **** TODO Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
@@ -243,7 +226,7 @@
 ***** TODO Learn Abbrev Mode
       - Learned about the 
        	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
-***** TODO Install and Learn Yasnippet
+***** DONE Install and Learn Yasnippet
       - [file:/C:\Users\Ray\Documents\scratch1.org]
 ***** TODO Install and Learn Icicles
 
@@ -254,9 +237,36 @@
 ***** TODO Learn Vim
       - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process. 
 
-***** DONE Learn Babel
+***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+
+**** TODO Eclipse Tutorial
+     - Upgraded to Eclipse RCP (How to use RCP?)
+     - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
+
+***** DONE Eclipse/Java Tutorial Lessons
+     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
+     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
+
+
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+     - Github Account https://github.com/RayNieva
+       - https://guides.github.com/features/mastering-markdown/
+     - BitBucket Account https://bitbucket.org/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - Heroku https://id.heroku.com/login
+     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
+**** TODO Hadoop
+     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
+
+**** DONE Sidekick/Hubspot
 
 **** TODO Screen Scraper Tutorial
 
@@ -298,7 +308,7 @@
 **** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
      DEADLINE: <2016-03-24 Thu> at 9:15 AM
 **** TODO Electronice Resume 
-     DEADLINE: <2016-04-12 Tue> at 9:15 AM
+     DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
 **** TODO Avoiding Black Hole 
      DEADLINE: <2016-04-27 Wed> at 9:15 AM
 
@@ -320,27 +330,30 @@
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
 * TODO Grocery Shopping and Run Errands					:Car:
-   - [ ] Coffee 
-   - [ ] Creamer
+   - [X] Coffee 
+   - [X] Creamer
    - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
-   - [X] Chuck roast, Pop corn butter 
+   - [ ] Chuck roast, Pop corn butter 
    - [ ] Chicago Hotdogs: Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
-   - [X] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
-   - [X] Cat litter 
-   - [X] Toilet Tissue
-   - [X] Italian Sausages and French Bread
-   - [X] Tempura: Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
+   - [ ] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
+   - [ ] Cat litter 
+   - [ ] Toilet Tissue
+   - [ ] Italian Sausages and French Bread
+   - [ ] Tempura: Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
    - [ ] Propane?
-   - [X] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
-   - [X] Stuff for Tikki Masala plus, mouthwash, naan bread, greek style yogurt, coriander, nutmeg, cumin, ginger, cardoman, tomato puree, dishwasher liquid
-   - [X] Stuff for Indian Soup, Reuben Sandwich and Coffee, creamer
+   - [ ] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
+   - [ ] Stuff for Tikki Masala plus, mouthwash, naan bread, greek style yogurt, coriander, nutmeg, cumin, ginger, cardoman, tomato puree, dishwasher liquid
+   - [ ] Stuff for Indian Soup, Reuben Sandwich and Coffee, creamer
 ** TODO Return Bottles
+** DONE Doctors Appointment
+
 
 
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
-*** DONE Dinner Made Stir Fry and fried rice
+*** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
+*** DONE Dinner Made Stir Fry and fried rice
 *** DONE Made Leftovers into Lo Mein (Hot and Spicy)
 *** DONE Heated up on Turbo and then Nuwave Chicken and Brocoli with Tortellini soup
 *** DONE Ordered Pizza
@@ -367,8 +380,10 @@
 *** DONE Filipino dish(corned beef but added cabbage too) and Yesterday's soup
 *** DONE Mongolian Sizzling Leftover Lamb using Nuwave PIC
 *** DONE Made Indian Lamb dish with Leftover lamb, seasonings and yoghurt (do not add yoghurt when it is too hot)
+*** DONE Made big pot of chili
+*** DONE Teriyaki Subs
 *** TODO Washed Dishes
-*** TODO Returned Bottles
+*** DONE Returned Bottles
 *** TODO Clean-out & Organize Frig
 
 ** End Task
@@ -382,7 +397,7 @@
    - [X] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
    - [X] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
 
-* DONE Joan Time						   :Home:Car:
+* TODO Joan Time						   :Home:Car:
 
 ** DONE Light Bulbs in Bathroom
 
@@ -394,12 +409,13 @@
    - [X] Frederick (Spent 2 days almost all weekend on this)
    - [ ] Kim
 
-** TODO Upstairs Consolidate Boxes
+** DONE Upstairs Consolidate Boxes
 ** TODO Send Message to Raymond  http://comcast.net 
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
 ** DONE Easter
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
+** DONE Help Joan with Taxes
 * TODO Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
@@ -410,8 +426,9 @@
 *** DONE Birthday Party and Prep
     - [X] Make Baskets
     - [X] Go to Party
+** DONE Family Visiting
     
-     
+      
 
 * TODO Go Home							   :Car:Home:
 
@@ -423,7 +440,7 @@
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 
 ** TODO Worked on CH Tutorial (C++/C)
    - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high

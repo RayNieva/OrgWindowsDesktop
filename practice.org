@@ -7,8 +7,8 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
-*** TODO GTD Stuff
+** DONE Time Management
+*** DONE GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -147,10 +147,10 @@
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
 
-*** TODO Master New Subjects
+*** TODO Master Subjects
 
 
-**** DONE XML/XSLT
+**** TODO XML/XSLT
 **** TODO SQL Server
 **** TODO MYSQL
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
@@ -266,7 +266,7 @@
 **** TODO Hadoop
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
 
-**** DONE Sidekick/Hubspot
+**** TODO Sidekick/Hubspot
 
 **** TODO Screen Scraper Tutorial
 

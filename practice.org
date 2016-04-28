@@ -32,10 +32,10 @@
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-** TODO Have Coffee [1/3]
+** DONE Have Coffee [3/3]
    - [X] 1st cup
-   - [ ] 2nd cup
-   - [ ] 3rd cup
+   - [X] 2nd cup
+   - [X] 3rd cup
 
 
      
@@ -57,10 +57,11 @@
     - Turn off computer at night
 ** TODO Mind Rituals and Attitude Development
 *** TODO Meditate
-[[https://youtube.com]]
-[[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
-[[https://www.youtube.com/watch?v=tOQaVSX-N4c][CALMING OUR MINDS: Relaxing mful life & RELAXATION]]
-[[https://www.youtube.com/watch?v=uPWqs8hOzmQ][Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
+[[  - https://youtube.com]]
+  - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
+[[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][  - Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
+[[https://www.youtube.com/watch?v=tOQaVSX-N4c][  - CALMING OUR MINDS: Relaxing mful life & RELAXATION]]
+[[https://www.youtube.com/watch?v=uPWqs8hOzmQ][  - Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
    - https://www.youtube.com/watch?v=iCJkTXS4LoA  Powerful: Confidence Spoken Affirmations with binaural tones for Healthy Self-esteem
 
 *** TODO Learning About Chi (Can be a feeling of Empowerment too!
@@ -105,9 +106,9 @@
 
 
 ** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -118,27 +119,27 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Vacuum Floor
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
 
  
-* TODO Start Working at home					       :Home:
+* DONE Start Working at home					       :Home:
 
 
 *** TODO Freelance Research Top Ideas
@@ -151,30 +152,13 @@
 
 
 **** TODO XML/XSLT
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates  
 **** TODO SQL Server
 **** TODO MYSQL
-**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
-     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
-     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
-     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
-       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
-       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
-       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
-       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
-       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
-       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
-       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
-       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
-       - 
-     - http://www.meetup.com/WorcesterClub/
-
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-**** TODO Concept of Workflow Automation
-
-**** TODO Source Making
-     - https://sourcemaking.com/ 
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
+     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - http://ruby.bastardsbook.com/chapters/loops/
+     - http://ruby.bastardsbook.com/chapters/methods/
 
 ***** TODO http://railsinstaller.org/en RailsInstaller
 
@@ -199,6 +183,24 @@
      - https://www.youtube.com/watch?v=vNHpsC5ng_E Design Patterns
      - http://phrogz.net/programmingruby/frameset.html Great Overview of Ruby Objects
      - http://www.tentackle.org/html/en/t_rails.html Tentackle
+
+**** TODO IPython
+     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
+
+
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+     - Github Account https://github.com/RayNieva
+       - https://guides.github.com/features/mastering-markdown/
+     - BitBucket Account https://bitbucket.org/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - Heroku https://id.heroku.com/login
+     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
 **** TODO Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
@@ -226,7 +228,7 @@
 ***** TODO Learn Abbrev Mode
       - Learned about the 
        	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
-***** DONE Install and Learn Yasnippet
+***** TODO Install and Learn Yasnippet
       - [file:/C:\Users\Ray\Documents\scratch1.org]
 ***** TODO Install and Learn Icicles
 
@@ -234,12 +236,36 @@
       - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
       - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
 
-***** TODO Learn Vim
-      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process. 
+***** DONE Learn Vim
+      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
+      - http://vim.wikia.com/wiki/Moving_around
 
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+
+**** TODO Screen Scraper Tutorial
+
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+**** TODO Concept of Workflow Automation
+
+**** TODO Source Making
+     - https://sourcemaking.com/ 
+**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
+     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
+     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
+     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
+       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
+       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
+       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
+       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
+       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
+       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
+       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
+       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
+       - 
+     - http://www.meetup.com/WorcesterClub/
 
 **** TODO Eclipse Tutorial
      - Upgraded to Eclipse RCP (How to use RCP?)
@@ -248,27 +274,10 @@
 ***** DONE Eclipse/Java Tutorial Lessons
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
-
-
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
-     - Github Account https://github.com/RayNieva
-       - https://guides.github.com/features/mastering-markdown/
-     - BitBucket Account https://bitbucket.org/RayNieva
-     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-     - file://C:/Users/Ray/Desktop/history03-11-16.txt
-     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
-     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
-     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - Heroku https://id.heroku.com/login
-     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
 **** TODO Hadoop
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
 
 **** TODO Sidekick/Hubspot
-
-**** TODO Screen Scraper Tutorial
 
      
 *** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
@@ -329,8 +338,8 @@
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
-* TODO Grocery Shopping and Run Errands					:Car:
-   - [X] Coffee 
+* DONE Grocery Shopping and Run Errands					:Car:
+   - [ ] Coffee 
    - [X] Creamer
    - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
    - [ ] Chuck roast, Pop corn butter 
@@ -344,12 +353,13 @@
    - [ ] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
    - [ ] Stuff for Tikki Masala plus, mouthwash, naan bread, greek style yogurt, coriander, nutmeg, cumin, ginger, cardoman, tomato puree, dishwasher liquid
    - [ ] Stuff for Indian Soup, Reuben Sandwich and Coffee, creamer
+   - [X] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
 ** TODO Return Bottles
 ** DONE Doctors Appointment
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -382,12 +392,13 @@
 *** DONE Made Indian Lamb dish with Leftover lamb, seasonings and yoghurt (do not add yoghurt when it is too hot)
 *** DONE Made big pot of chili
 *** DONE Teriyaki Subs
+*** DONE Chicken Piccatta
 *** TODO Washed Dishes
 *** DONE Returned Bottles
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Go to ETRR?					     :Car:Framingham:
+* DONE Go to ETRR?					     :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -396,8 +407,10 @@
    - [X] Mandatory RESEA Meeting <2016-03-01 Tue>
    - [X] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
    - [X] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
+   - [X] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
+  
 
-* TODO Joan Time						   :Home:Car:
+* DONE Joan Time						   :Home:Car:
 
 ** DONE Light Bulbs in Bathroom
 
@@ -410,7 +423,7 @@
    - [ ] Kim
 
 ** DONE Upstairs Consolidate Boxes
-** TODO Send Message to Raymond  http://comcast.net 
+** DONE Send Message to Raymond  http://comcast.net 
 ** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
 ** DONE Easter
 ** DONE Doctors Appt with Joan
@@ -430,7 +443,7 @@
     
       
 
-* TODO Go Home							   :Car:Home:
+* DONE Go Home							   :Car:Home:
 
 ** DONE Made Sukiyaki = Time Marker for initial visit to ETRR
    - Used Bobby Flay's recipe

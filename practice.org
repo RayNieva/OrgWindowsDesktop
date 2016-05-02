@@ -22,23 +22,23 @@
     - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
-*** TODO Other Time Management Stuff
+*** DONE Other Time Management Stuff
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://www.personalkanban.com/pk/#sthash.LS7nCDx3.dpbs Personal Kanban - Visualize, Learn and Improve
-   - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
    - http://blog.casual.pm/post/114499949915/time-management-techniques-salami-pomodoro Swiss Cheese like methods of attacking
      complex tasks or projects
+   - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine
    - https://www.youtube.com/watch?v=OZdplApv_X4 You Want Progress In Life? Stop Learning... Start Implementing
    - https://www.youtube.com/watch?v=I0gYDB4r630 It's Time To Stop Learning Internet Marketing
    - https://www.youtube.com/watch?v=hnyOGnexgpY "The Law of Five" Important Beginning to this Internet Marketing Seminar (Which is Pretty good too.)
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
-   - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine
+   - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Have Coffee [2/3]
+** DONE Have Coffee [3/3]
    - [X] 1st cup
    - [X] 2nd cup
-   - [ ] 3rd cup
+   - [X] 3rd cup
 
 
      
@@ -48,7 +48,7 @@
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
 *** DONE Keyboard Issue
 *** DONE Routine System Operation to Optimize systems
-*** TODO Work on Other Computer
+*** DONE Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
     - Need to think of alternative boot options first.
 
@@ -101,17 +101,18 @@
 ** DONE Check Email and Communications
    [[https://gmail.com][- gmail]]
    * Thunderbird (shell-command "start thunderbird.exe")
-     - Have configured Live Mail, rgnterprises mail and Comcast
+     * Need to address certificate issue!
+     * Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** DONE Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-** DONE Check Accounts and Budget
+** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -122,11 +123,11 @@
     
 
 
-** DONE Household, Health and Hygiene
+** TODO Household, Health and Hygiene
 *** DONE Take Dog out feed animals
 *** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** DONE Prescription Medicine
 
@@ -135,8 +136,8 @@
 *** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
-*** DONE Vacuum Floor
-*** DONE Take Out Trash and/or Recycling
+*** TODO Vacuum Floor
+*** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
@@ -145,19 +146,31 @@
 * TODO Start Working at home					       :Home:
 
 
-*** DONE Freelance Research Top Ideas
+*** TODO Freelance Research Top Ideas
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
 
-*** TODO Master Subjects
+*** DONE Master Subjects
 
 
-**** TODO XML/XSLT
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates  
-**** TODO SQL Server
-**** TODO MYSQL
+**** XML/XSLT
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+***** DONE Having issues with getting Visual Studio to even start as one of the XML editors although can and will use Eclipse too.
+     
+
+**** DONE SQL Server
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell) start appropriate service for SQL Server
+     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
+**** DONE MYSQL
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell)
+     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
+peed SQL Query.exe"
+
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
      - file://c:/users/ray/bin/practice.rb
@@ -288,7 +301,7 @@
 **** TODO Sidekick/Hubspot
 
      
-*** DONE Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
@@ -367,7 +380,7 @@
 
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki

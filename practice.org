@@ -48,6 +48,8 @@
    - file://C:/Users/Ray/history02-10-16.txt
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
    - System File checker command "sfc /scannow"
+   - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
+
 *** DONE Keyboard Issue
 *** DONE Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
@@ -107,7 +109,7 @@
      * Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
 
-*** TODO Check Texting on Landline
+*** DONE Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
@@ -131,7 +133,7 @@
 
 *** TODO Brush Teeth and Oral Hygiene
 
-*** TODO Prescription Medicine
+*** DONE Prescription Medicine
 
 *** TODO Take shower
 
@@ -160,6 +162,9 @@
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+
+**** Developer Force.com
+     - https://developer.force.com
 
 
 **** TODO XML/XSLT

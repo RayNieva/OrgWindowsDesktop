@@ -36,7 +36,7 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Have Coffee [1/3]
+** TODO Have Coffee [1/3]
    - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
@@ -51,7 +51,7 @@
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
 *** DONE Keyboard Issue
-*** DONE Routine System Operation to Optimize systems
+*** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues.
     - Need to think of alternative boot options first.
@@ -109,12 +109,12 @@
      * Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
 
-*** DONE Check Texting on Landline
+*** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-** DONE Check Accounts and Budget
+** DONE Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO Check Accounts and Budget
 
 *** DONE Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
@@ -128,8 +128,8 @@
 
 
 ** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
@@ -163,8 +163,10 @@
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
-**** Developer Force.com
-     - https://developer.force.com
+**** DONE Developer Force.com
+     - http://developer.force.com
+**** DONE Spiceworks
+     - http://www.spiceworks.com (login company is RGNterprises.net)
 
 
 **** TODO XML/XSLT
@@ -448,7 +450,7 @@ peed SQL Query.exe"
    - [X] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
   
 
-* DONE Joan Time						   :Home:Car:
+* TODO Joan Time						   :Home:Car:
 
 ** DONE Light Bulbs in Bathroom
 
@@ -467,7 +469,7 @@ peed SQL Query.exe"
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
 ** DONE Help Joan with Taxes
-* DONE Family Time						   :Home:Car:
+* TODO Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies

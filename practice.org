@@ -7,9 +7,9 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
+** TODO Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** DONE GTD Stuff
+*** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -36,9 +36,9 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Have Coffee [1/3]
+** TODO Have Coffee [2/3]
    - [X] 1st cup
-   - [ ] 2nd cup
+   - [X] 2nd cup
    - [ ] 3rd cup
 
 
@@ -48,6 +48,8 @@
    - file://C:/Users/Ray/history02-10-16.txt
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
    - System File checker command "sfc /scannow"
+   - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
+   - http://www.duplicati.com/howtos
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
 *** DONE Keyboard Issue
@@ -113,10 +115,10 @@
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** DONE Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -137,12 +139,13 @@
 
 *** TODO Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** TODO Take Out Trash and/or Recycling
+*** DONE Cut Lawn
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
@@ -159,13 +162,23 @@
 
 *** TODO Master Subjects
 
+
+**** TODO Javascript and JQuery
+
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
-**** DONE Developer Force.com
+**** TODO Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
+     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+**** TODO Developer Force.com
      - http://developer.force.com
-**** DONE Spiceworks
+**** TODO Spiceworks
      - http://www.spiceworks.com (login company is RGNterprises.net)
 
 
@@ -333,7 +346,7 @@ peed SQL Query.exe"
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-**** TODO Training Opportunities Program
+**** DONE Training Opportunities Program
 
 **** TODO Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
@@ -433,6 +446,7 @@ peed SQL Query.exe"
 *** DONE Mononabe Seafood Oriental Soup
 *** DONE Pork and Chicken Tenkatsu
 
+*** DONE From Leftover Chicken Tenkatsu made Chicken Supreme (Sauce converted from Bechamel Sauce and Home made chicken stock)
 *** TODO Washed Dishes
 *** DONE Returned Bottles
 *** TODO Clean-out & Organize Frig
@@ -448,6 +462,8 @@ peed SQL Query.exe"
    - [X] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
    - [X] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
    - [X] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
+   - [X] Initiated TOPs <2016-05-09 Mon> Might be too late.
+
   
 
 * TODO Joan Time						   :Home:Car:

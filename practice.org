@@ -385,8 +385,10 @@ peed SQL Query.exe"
     - [X] Set-up Under Construction Website
 
 **** TODO Website Development
-    - https://rgnterprises.net/wordpress/wp-login.ph
-    - p
+    - http://rgnterprises.net
+    - http://rgnterprises.net/wordpress/wp-login.php
+    - http://rgnterprises.net/joomla
+    - http://rgnterprises.net/drupal
 
 *** End Task
 
@@ -394,7 +396,7 @@ peed SQL Query.exe"
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
-* DONE Grocery Shopping and Run Errands					:Car:
+* TODO Grocery Shopping and Run Errands					:Car:
    - [X] Coffee 
    - [X] Creamer
    - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
@@ -415,7 +417,7 @@ peed SQL Query.exe"
 
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -515,7 +517,7 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 
 ** TODO Worked on CH Tutorial (C++/C)
    - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high

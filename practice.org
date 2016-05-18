@@ -7,9 +7,9 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
+** DONE Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -23,7 +23,7 @@
     - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
-*** TODO Other Time Management Stuff
+*** DONE Other Time Management Stuff
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://www.personalkanban.com/pk/#sthash.LS7nCDx3.dpbs Personal Kanban - Visualize, Learn and Improve
@@ -36,9 +36,9 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Have Coffee [2/3]
-   - [X] 1st cup
-   - [X] 2nd cup
+** TODO Have Coffee [0/3]
+   - [ ] 1st cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
@@ -55,8 +55,8 @@
 *** DONE Keyboard Issue
 *** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
-    - Trying to increase files space, but blue screen of death issues.
-    - Need to think of alternative boot options first.
+    - Trying to increase files space, but blue screen of death issues. RESOLVED
+    - Need to think of alternative boot options first. RESOLVED
 
 *** DONE Printer
     - [X] Make sure printer is off after finally using.
@@ -65,7 +65,7 @@
     - Use freeze pak to cool down
     - Turn off computer at night
 ** TODO Mind Rituals and Attitude Development
-*** TODO Meditate
+*** DONE Meditate
 [[  - https://youtube.com]]
   - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
 [[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][  - Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
@@ -110,6 +110,8 @@
      * Need to address certificate issue!
      * Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
+   * LG Phone http://web.airdroid.com/
+     * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
@@ -130,21 +132,21 @@
 
 
 ** TODO Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
-*** DONE Prescription Medicine
+*** TODO Prescription Medicine
 
 *** TODO Take shower
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** DONE Cut Lawn
+*** TODO Cut Lawn
 *** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
@@ -167,6 +169,8 @@
 
      - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
      - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
 
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
@@ -381,6 +385,8 @@ peed SQL Query.exe"
     - [X] Set-up Under Construction Website
 
 **** TODO Website Development
+    - https://rgnterprises.net/wordpress/wp-login.ph
+    - p
 
 *** End Task
 
@@ -388,16 +394,16 @@ peed SQL Query.exe"
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 
-* TODO Grocery Shopping and Run Errands					:Car:
-   - [ ] Coffee 
-   - [ ] Creamer
+* DONE Grocery Shopping and Run Errands					:Car:
+   - [X] Coffee 
+   - [X] Creamer
    - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
    - [ ] Chuck roast, Pop corn butter 
    - [ ] Chicago Hotdogs: Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
    - [ ] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
    - [ ] Cat litter 
    - [X] Sundry Items: Toilet Tissue, mouthwash, detergent, fabric softener
-   - [ ] Italian Sausages and French Bread
+   - [X] Italian Sausages and French Bread
    - [ ] Tempura: Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
    - [ ] Propane?
    - [ ] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
@@ -409,7 +415,7 @@ peed SQL Query.exe"
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -452,7 +458,7 @@ peed SQL Query.exe"
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Go to ETRR?					     :Car:Framingham:
+* TODO Go to ETRR and or Interviews/Opportunity Meetings.    :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -509,7 +515,7 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* TODO Continue Working at Home					       :Home:
+* DONE Continue Working at Home					       :Home:
 
 ** TODO Worked on CH Tutorial (C++/C)
    - Seen recent Video of 10 most important languanges and C and especially C++ are ranked quite high

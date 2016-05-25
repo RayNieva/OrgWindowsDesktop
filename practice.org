@@ -191,7 +191,7 @@
 **** TODO Sharepoint Foundation     
 
 
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
@@ -354,8 +354,9 @@ peed SQL Query.exe"
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 **** DONE Training Opportunities Program
 
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
+    - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
     - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
     - On-line Presence
@@ -370,6 +371,7 @@ peed SQL Query.exe"
       - [ ] Twitter
       - [ ] Facebook
       - [ ] Article Directories
+      - [ ] Hosted Sharepoint Site
 
 **** DONE ETRR Meeting on Resumes			     :Framingham:Car:
      DEADLINE: <2016-03-22 Tue> at 9:15 AM

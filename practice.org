@@ -23,7 +23,7 @@
     - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
-*** DONE Other Time Management Stuff
+*** TODO Other Time Management Stuff
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://www.personalkanban.com/pk/#sthash.LS7nCDx3.dpbs Personal Kanban - Visualize, Learn and Improve
@@ -52,7 +52,7 @@
    - http://www.duplicati.com/howtos
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
-*** DONE Keyboard Issue
+*** TODO Keyboard Issue
 *** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues. RESOLVED
@@ -146,8 +146,8 @@
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** TODO Cut Lawn
-*** DONE Take Out Trash and/or Recycling
+*** DONE Cut Lawn
+*** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
@@ -164,6 +164,60 @@
 
 *** TODO Master Subjects
 
+
+**** TODO PostgresSQL
+
+**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
+     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - file://c:/users/ray/bin/practice.rb
+     - http://ruby.bastardsbook.com/chapters/loops/
+     - http://ruby.bastardsbook.com/chapters/methods/
+
+***** DONE http://installfest.railsbridge.org/installfest/windows
+
+***** DONE http://railsapps.github.io/installing-rails.html
+
+***** DONE http://railsapps.github.io/what-is-ruby-rails.html
+      
+***** TODO Ruby on Rails Tutorial [0/1]
+      1. [ ] https://www.railstutorial.org/book/beginning
+
+***** TODO http://railsinstaller.org/en RailsInstaller
+
+***** TODO http://guides.rubyonrails.org/getting_started.html
+
+***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
+
+**** TODO Sharepoint Foundation     
+
+
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
+     - Github Account https://github.com/RayNieva
+       - https://guides.github.com/features/mastering-markdown/
+     - BitBucket Account https://bitbucket.org/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - Heroku https://id.heroku.com/login
+     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
+
+**** TODO Screen Scraper and Web Automation
+     - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
+     - http://scrapy.org/
+     - http://irobotsoft.com/
+     
+
+**** TODO SQL Server
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell) start appropriate service for SQL Server
+     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
+**** TODO Spiceworks
+     - http://www.spiceworks.com (login company is RGNterprises.net)
 
 **** TODO Javascript and JQuery
 
@@ -182,48 +236,16 @@
      - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
 **** TODO Developer Force.com
      - http://developer.force.com
-**** TODO Spiceworks
-     - http://www.spiceworks.com (login company is RGNterprises.net)
 
 
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
-     
-
-**** TODO SQL Server
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell) start appropriate service for SQL Server
-     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
-VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
 **** TODO MYSQL
      1. runas /user:raynieva2\admin cmd
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
-
-**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
-     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
-     - file://c:/users/ray/bin/practice.rb
-     - http://ruby.bastardsbook.com/chapters/loops/
-     - http://ruby.bastardsbook.com/chapters/methods/
-
-***** TODO http://railsinstaller.org/en RailsInstaller
-
-
-
-***** TODO http://railsapps.github.io/what-is-ruby-rails.html
-
-***** TODO http://railsapps.github.io/installing-rails.html
-
-***** DONE http://installfest.railsbridge.org/installfest/windows
-      
-***** TODO Ruby on Rails Tutorial [0/1]
-      1. [ ] https://www.railstutorial.org/book/beginning
-
-***** TODO http://guides.rubyonrails.org/getting_started.html
-
-***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
 **** TODO Jruby Tutorial <<JRuby-Tutorial>>
      - C:\jruby-1.7.11\bin\pry
@@ -238,21 +260,6 @@ peed SQL Query.exe"
 **** TODO IPython
      - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
      - file://C://Users/ray/bin/practice.py
-
-
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
-     - Github Account https://github.com/RayNieva
-       - https://guides.github.com/features/mastering-markdown/
-     - BitBucket Account https://bitbucket.org/RayNieva
-     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-     - file://C:/Users/Ray/Desktop/history03-11-16.txt
-     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
-     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
-     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - Heroku https://id.heroku.com/login
-     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
 **** TODO Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
@@ -296,9 +303,6 @@ peed SQL Query.exe"
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
 
-**** TODO Screen Scraper Tutorial
-     - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
-
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO Concept of Workflow Automation
@@ -330,9 +334,7 @@ peed SQL Query.exe"
 **** TODO Hadoop
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
 
-**** TODO Sidekick/Hubspot
-
-     
+**** TODO Sidekick/Hubspo
 *** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
@@ -352,14 +354,18 @@ peed SQL Query.exe"
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 **** DONE Training Opportunities Program
 
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub and FaceBook.
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+    - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
     - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
     - On-line Presence
       - [ ] LinkedIn http://www.linkedin.com
       - [ ] RGNterprises.NET http://rgnterprises.net
-      - [ ] Github
-      - [ ] Github.io
+	- [ ] Wordpress http://rgnterprises.net/wordpress
+	- [ ] Joomla http://rgnterprises.net/joomla
+	- [ ] Drupal http://rgnterprises.net/drupal
+      - [X] Github
+      - [ ] Github.io https://pages.github.com/
       - [ ] Hubpages
       - [ ] Twitter
       - [ ] Facebook
@@ -370,10 +376,15 @@ peed SQL Query.exe"
 
 **** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
      DEADLINE: <2016-03-24 Thu> at 9:15 AM
-**** TODO Electronice Resume 
+**** DONE Electronice Resume 
      DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
-**** DONE Avoiding Black Hole 
-     DEADLINE: <2016-04-27 Wed> at 9:15 AM
+**** TODO Avoiding Black Hole 
+     DEADLINE: <2016-06-06 Mon> at 9:15 AM
+**** Using Age to Advantage
+     DEADLINE: <2016-06-08 Wed> at 9:15 AM
+**** TODO Ace the Interview
+     DEADLINE: <2016-06-15 Wed> at 9:15 AM
+
 
 *** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
@@ -384,11 +395,12 @@ peed SQL Query.exe"
     - [X] Removed Fetch Mail as cannot set-up SSL
     - [X] Set-up Under Construction Website
 
-**** TODO Website Development
+**** DONE Website Development
     - http://rgnterprises.net
     - http://rgnterprises.net/wordpress/wp-login.php
     - http://rgnterprises.net/joomla
     - http://rgnterprises.net/drupal
+    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
 
 *** End Task
 
@@ -471,6 +483,8 @@ peed SQL Query.exe"
    - [X] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
    - [X] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
    - [X] Initiated TOPs <2016-05-09 Mon> Might be too late.
+   - [X] Now assigned to Career Advisor Joyce K
+     
 
   
 

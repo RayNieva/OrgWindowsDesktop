@@ -36,14 +36,14 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Have Coffee [2/3]
+** DONE Have Coffee [2/3]
    - [X] 1st cup
    - [X] 2nd cup
    - [ ] 3rd cup
 
 
      
-** TODO System Administration and Personal Desktop Support
+** DONE System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
@@ -53,8 +53,8 @@
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
 *** DONE Keyboard Issue
-*** TODO Routine System Operation to Optimize systems
-*** TODO Work on Other Computer
+*** DONE Routine System Operation to Optimize systems
+*** DONE Work on Other Computer
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
 
@@ -106,6 +106,8 @@
     
 ** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
+
+   - https://rgnterprises.net:2096 Webmail
    * Thunderbird (shell-command "start thunderbird.exe")
      * Need to address certificate issue!
      * Have configured Live Mail, rgnterprises mail and Comcast
@@ -131,20 +133,20 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
 *** TODO Take shower
 
-*** TODO Kitchen Clean-up
-*** TODO Do Laundry
+*** DONE Kitchen Clean-up
+*** DONE Do Laundry
 
-*** TODO Bathroom Clean-up
+*** DONE Bathroom Clean-up
 *** TODO Vacuum Floor
 *** DONE Cut Lawn
 *** TODO Take Out Trash and/or Recycling
@@ -182,7 +184,7 @@
      - https://en.wikipedia.org/wiki/AngularJS
      - http://www.w3schools.com/angular/default.asp
      - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - Jekyll
+     - Jekyll 
 
 **** TODO Selenium - Browser Automation (Related to TSSG Group) 
      - http://www.seleniumhq.org/
@@ -346,7 +348,7 @@ peed SQL Query.exe"
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 
 **** TODO Sidekick/Hubspot
-*** TODO Visit ETRR Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
@@ -363,9 +365,8 @@ peed SQL Query.exe"
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-**** DONE Training Opportunities Program
 
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
@@ -383,6 +384,7 @@ peed SQL Query.exe"
       - [ ] Twitter
       - [ ] Facebook
       - [ ] Article Directories
+**** DONE Training Opportunities Program
 
 **** DONE ETRR Meeting on Resumes			     :Framingham:Car:
      DEADLINE: <2016-03-22 Tue> at 9:15 AM
@@ -392,7 +394,7 @@ peed SQL Query.exe"
 **** DONE Electronice Resume 
      DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
 **** TODO Avoiding Black Hole 
-     DEADLINE: <2016-06-06 Mon> at 9:15 AM
+     DEADLINE: <2016-06-06 Mon> at 9:15 AM 
 **** TODO Using Age to Advantage
      DEADLINE: <2016-06-08 Wed> at 9:15 AM
 **** TODO Ace the Interview
@@ -444,7 +446,7 @@ peed SQL Query.exe"
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -489,7 +491,7 @@ peed SQL Query.exe"
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Go to ETRR and or Interviews/Opportunity Meetings.    :Car:Framingham:
+* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -524,7 +526,7 @@ peed SQL Query.exe"
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
 ** DONE Help Joan with Taxes
-* TODO Family Time						   :Home:Car:
+* DONE Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies

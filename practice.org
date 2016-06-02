@@ -36,9 +36,9 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Have Coffee [2/3]
+** TODO Have Coffee [1/3]
    - [X] 1st cup
-   - [X] 2nd cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
@@ -139,17 +139,17 @@
 
 *** DONE Brush Teeth and Oral Hygiene
 
-*** TODO Prescription Medicine
+*** DONE Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** DONE Kitchen Clean-up
-*** DONE Do Laundry
+*** TODO Kitchen Clean-up
+*** TODO Do Laundry
 
-*** DONE Bathroom Clean-up
+*** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** DONE Cut Lawn
-*** TODO Take Out Trash and/or Recycling
+*** TODO Cut Lawn
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
@@ -167,6 +167,10 @@
 *** TODO PROJECTS: Skills/Subjects Mastery
 
 
+**** DONE Screen Scraper and Web Automation
+     - http://scrapy.org/
+     - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
+     - http://irobotsoft.com/
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
@@ -177,18 +181,21 @@
 **** TODO Javascript, JQuery, AngularJS, Web Development (Related to TSSG Group)
 
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/ 
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
      - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
      - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
      - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
      - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - Jekyll 
+     - Jekyll
 
 **** TODO Selenium - Browser Automation (Related to TSSG Group) 
      - http://www.seleniumhq.org/
      - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
+     - 
 **** TODO Data Analytices Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
 
@@ -208,10 +215,6 @@
      - JIRA https://www.atlassian.com/software/jira/try Free for first month.
      - https://theagileadmin.com/what-is-devops/
      - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
-**** TODO Screen Scraper and Web Automation
-     - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
-     - http://scrapy.org/
-     - http://irobotsoft.com/
      
 
 **** TODO SQL Server
@@ -491,7 +494,7 @@ peed SQL Query.exe"
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -526,7 +529,7 @@ peed SQL Query.exe"
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
 ** DONE Help Joan with Taxes
-* DONE Family Time						   :Home:Car:
+* TODO Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies
@@ -550,7 +553,7 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* TODO Continue Working at Home					       :Home:
+* DONE Continue Working at Home					       :Home:
 
 
 

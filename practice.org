@@ -7,7 +7,7 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
+** TODO Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
 *** DONE GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
@@ -36,25 +36,28 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Have Coffee [1/3]
-   - [X] 1st cup
+** TODO Have Coffee [0/3]
+   - [ ] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
 
 
      
-** DONE System Administration and Personal Desktop Support
+** TODO System Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
    - System File checker command "sfc /scannow"
    - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
    - http://www.duplicati.com/howtos
+   - http://www.sevenforums.com/tutorials/110919-clsid-key-list-windows-7-a.html
+   - http://www.tenforums.com/tutorials/3123-clsid-key-guid-shortcuts-list-windows-10-a.html
+   - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
 *** DONE Keyboard Issue
-*** DONE Routine System Operation to Optimize systems
-*** DONE Work on Other Computer
+*** TODO Routine System Operation to Optimize systems
+*** TODO Work on Other Computer
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
 
@@ -109,7 +112,7 @@
 
    - https://rgnterprises.net:2096 Webmail
    * Thunderbird (shell-command "start thunderbird.exe")
-     * Need to address certificate issue!
+     * Need to address certificate issue! RESOLVED BY RE-INSTALL <2016-05-31 Tue>
      * Have configured Live Mail, rgnterprises mail and Comcast
    * Check Sidekick https://app.getsidekick.com/stream/all
    * LG Phone http://web.airdroid.com/
@@ -122,7 +125,7 @@
 ** TODO Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 ** TODO Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -133,15 +136,15 @@
     
 
 
-** DONE Household, Health and Hygiene
+** TODO Household, Health and Hygiene
 *** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+*** TODO Clean Cat Box
 
 *** DONE Brush Teeth and Oral Hygiene
 
-*** DONE Prescription Medicine
+*** TODO Prescription Medicine
 
-*** DONE Take shower
+*** TODO Take shower
 
 *** TODO Kitchen Clean-up
 *** TODO Do Laundry
@@ -149,13 +152,13 @@
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** DONE Take Out Trash and/or Recycling
+*** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
 
  
-* TODO <<Start-Working-at-home>>				       :Home:
+* TODO <<Start-Working-at-home>>	PROJECTS		       :Home:
 
 
 *** TODO Freelance Research Top Ideas
@@ -167,9 +170,11 @@
 *** TODO PROJECTS: Skills/Subjects Mastery
 
 
-**** DONE Screen Scraper and Web Automation
+**** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
      - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
+     - https://potentpages.com/web-crawler-tutorials/python/
+     - http://ruby.bastardsbook.com/chapters/html-parsing/ Nokogiri
      - http://irobotsoft.com/
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
@@ -177,8 +182,9 @@
 
 **** TODO DevOps
      - https://theagileadmin.com/what-is-devops/
+     - http://www.geekride.com/hard-link-vs-soft-link/
 
-**** TODO Javascript, JQuery, AngularJS, Web Development (Related to TSSG Group)
+**** TODO Javascript, JQuery, AngularJS, Mean Stack, Web Development (Related to TSSG Group)
 
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
      - http://tecadmin.net/install-laravel-framework-on-ubuntu/ 
@@ -197,7 +203,11 @@
      - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
      - 
 **** TODO Data Analytices Big Data/Hadoop (Related to TSSG Group)
-     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics 
+     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
+     - Develop Epic (Norm Heckman has outline)
+     - http://www.geocreepy.com/
+     - https://asana.com/
+     - http://github.com/mikec964
 
 
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development
@@ -341,6 +351,7 @@ peed SQL Query.exe"
        - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
        - 
      - http://www.meetup.com/WorcesterClub/
+     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
 
 **** TODO Eclipse Tutorial
      - Upgraded to Eclipse RCP (How to use RCP?)
@@ -369,13 +380,15 @@ peed SQL Query.exe"
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+    - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
     - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
     - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
     - On-line Presence
-      - [ ] LinkedIn http://www.linkedin.com
+      - [X] LinkedIn http://www.linkedin.com MAKING CONNECTIONS! and adding Projects, Groups etc...
+	- http://www.meetup.com/automation-mastermind/
       - [ ] RGNterprises.NET http://rgnterprises.net
 	- [ ] Wordpress http://rgnterprises.net/wordpress
 	- [ ] Joomla http://rgnterprises.net/joomla
@@ -396,10 +409,10 @@ peed SQL Query.exe"
      DEADLINE: <2016-03-24 Thu> at 9:15 AM
 **** DONE Electronice Resume 
      DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
-**** TODO Avoiding Black Hole 
+**** DONE Avoiding Black Hole 
      DEADLINE: <2016-06-06 Mon> at 9:15 AM 
 **** TODO Using Age to Advantage
-     DEADLINE: <2016-06-08 Wed> at 9:15 AM
+     DEADLINE: <2016-06-08 Wed> at 9:15 AM Need to reschedule
 **** TODO Ace the Interview
      DEADLINE: <2016-06-15 Wed> at 9:15 AM
 
@@ -413,13 +426,19 @@ peed SQL Query.exe"
     - [X] Removed Fetch Mail as cannot set-up SSL
     - [X] Set-up Under Construction Website
 
-**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
+**** DONE Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
     - http://rgnterprises.net
     - http://rgnterprises.net/wordpress/wp-login.php
     - http://rgnterprises.net/joomla
     - http://rgnterprises.net/drupal
     - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
+    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
+    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
+    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
+    - http://www.apps4rent.com/affiliate-program.html
+    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
+    - https://resources.biznessapps.com/h/
 
 *** End Task
 
@@ -449,7 +468,7 @@ peed SQL Query.exe"
 
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner0
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -494,7 +513,7 @@ peed SQL Query.exe"
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -523,8 +542,8 @@ peed SQL Query.exe"
    - [ ] Kim
 
 ** DONE Upstairs Consolidate Boxes
-** TODO Send Message to Raymond  http://comcast.net 
-** TODO Breakdown cellphone bill - make a spreadsheet and need to write letter
+** DONE Send Message to Raymond  http://comcast.net 
+** DONE Breakdown cellphone bill - make a spreadsheet and need to write letter
 ** DONE Easter
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
@@ -553,12 +572,12 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 
 
 
-** TODO Refer Back to [[Start-Working-at-home]]
-
+** TODO Refer Back to [[Start-Working-at-home]]:a PROJECTS:
+   - file://C:\Users\Ray\AppData\Roaming\org\gtdActionables.org
 ** TODO Opportunity Activities [[Opportunity-activities]]
 
    - See Journal and Opportunities orgs
@@ -586,3 +605,4 @@ peed SQL Query.exe"
 <<go-to-bottom>>
   
  
+

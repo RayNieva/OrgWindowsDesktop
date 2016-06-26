@@ -55,10 +55,11 @@
    - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
-*** DONE Routine System Operation to Optimize systems
-*** TODO Work on Other Computer
+*** TODO Routine System Operation to Optimize systems
+*** DONE Work on Other Computer
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
+    - ssh ray@ray-K55A  (secure login)
 *** DONE Keyboard Issue
 
 *** DONE Printer
@@ -107,7 +108,7 @@
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
 
     
-** DONE Check Email and Communications
+** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
@@ -122,10 +123,10 @@
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-** DONE Check Accounts and Budget
+** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -136,22 +137,22 @@
     
 
 
-** DONE Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+** TODO Household, Health and Hygiene
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** DONE Take shower
+*** TODO Take shower
 
 *** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** DONE Cut Lawn
+*** TODO Cut Lawn
 *** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
@@ -161,27 +162,37 @@
 * DONE <<Start-Working-at-home>>	PROJECTS		       :Home:
 
 
-*** TODO PROJECTS: Skills/Subjects Mastery
+*** DONE PROJECTS: Skills/Subjects Mastery
 
 
 **** DONE DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category below)
-     - https://learn.chef.io/learn-the-basics/windows/get-set-up/
+     - https://theagileadmin.com/what-is-devops/
      - http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
        - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
        - C:\HashiCorp\Vagrant\bin\vagrant up
-     - https://theagileadmin.com/what-is-devops/
-     - http://www.geekride.com/hard-link-vs-soft-link/
+     - ssh ray@ray-K55A  (secure login)
+     - https://aws.amazon.com/
+     - https://automatetheboringstuff.com/ In Python
      - https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
      - https://docs.puppet.com/puppet/latest/reference/man/apply.html
+     - https://puppet.com/product/emulator#
+     - https://learn.chef.io/learn-the-basics/windows/get-set-up/
      - https://www.nagios.org/
+     - http://www.geekride.com/hard-link-vs-soft-link/
+
      
 
-**** TODO SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      1. runas /user:raynieva2\admin cmd
      2. services.msc (in new admin command shell) start appropriate service for SQL Server
      3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
 VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
-**** DONE Developer Force.com
+***** TODO MYSQL
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell)
+     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
+peed SQL Query.exe"
+**** TODO Developer Force.com
      - http://developer.force.com
 **** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
@@ -212,7 +223,7 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      - Jekyll
 
 
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
@@ -239,6 +250,9 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      - https://potentpages.com/web-crawler-tutorials/python/
      - http://ruby.bastardsbook.com/chapters/html-parsing/ Nokogiri
      - http://irobotsoft.com/
+
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
@@ -282,11 +296,6 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-**** TODO MYSQL
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell)
-     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
-peed SQL Query.exe"
 
 
 **** TODO IPython
@@ -334,9 +343,6 @@ peed SQL Query.exe"
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO Concept of Workflow Automation
 
 **** TODO Source Making
@@ -366,7 +372,7 @@ peed SQL Query.exe"
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 
 **** TODO Sidekick/Hubspot
-*** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - https://www.resumerabbit.com/go/login

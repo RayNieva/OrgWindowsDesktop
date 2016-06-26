@@ -172,12 +172,13 @@
        - C:\HashiCorp\Vagrant\bin\vagrant up
      - ssh ray@ray-K55A  (secure login)
      - https://aws.amazon.com/
-     - https://automatetheboringstuff.com/ In Python
      - https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
+     - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
      - https://docs.puppet.com/puppet/latest/reference/man/apply.html
      - https://puppet.com/product/emulator#
      - https://learn.chef.io/learn-the-basics/windows/get-set-up/
      - https://www.nagios.org/
+     - https://automatetheboringstuff.com/ In Python
      - http://www.geekride.com/hard-link-vs-soft-link/
 
      

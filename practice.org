@@ -36,9 +36,9 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Have Coffee [2/3]
+** DONE Have Coffee [1/3]
    - [X] 1st cup
-   - [X] 2nd cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
@@ -121,14 +121,14 @@
    * LG Phone http://web.airdroid.com/
      * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
 
-*** TODO Check Texting on Landline
+*** DONE Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
-** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-** TODO Check Accounts and Budget
+** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         - file://C:/Users/Ray/Desktop/BudgetAndBills.org
 
 
@@ -139,23 +139,23 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** DONE Take Dog out feed animals
+** DONE Household, Health and Hygiene
+*** TODO Take Dog out feed animals
 *** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
 *** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
-*** DONE Vacuum Floor
+*** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
@@ -183,14 +183,19 @@
 
      - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
 
-     - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
+       - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
 
-     - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
+       - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
 
      - https://aws.amazon.com/
-     - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
+       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
+       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
+       - http://aws.amazon.com/free/
+     
+
      - https://azure.microsoft.com/en-us/pricing/
-     - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
+       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
+     
      - https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
      - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
      - https://docs.puppet.com/puppet/latest/reference/man/apply.html
@@ -199,15 +204,34 @@
      - https://www.nagios.org/
      - http://www.geekride.com/hard-link-vs-soft-link/
 
+**** DONE Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
+     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+**** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
+     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
+     - Develop Epic (Norm Heckman has outline)
+     - https://asana.com/
+     - file://C:/Users/Ray/Downloads/
+     - http://github.com/mikec964
+     - https://github.com/mikec964/chelmbigstock/wiki
+     - Hadoop, AWS, Kaggle, Hortonworks, Docker?
+       - https://aws.amazon.com/
+
+       - http://hortonworks.com/
+
+	 - https://en.wikipedia.org/wiki/Hortonworks
+
+       - https://www.kaggle.com/
+
+       - https://www.docker.com/products/docker
+
+       - http://www.geocreepy.com/
+
 **** TODO Visual Studio and .NET CSharp etc... 
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
 
      
 
@@ -226,13 +250,6 @@ peed SQL Query.exe"
      - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
      - Step 3. Go to Tutorials Trailhead
      - Step 4. Select Course of Study
-**** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
-     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
-     - Develop Epic (Norm Heckman has outline)
-     - http://www.geocreepy.com/
-     - https://asana.com/
-     - http://github.com/mikec964
-     - Hadoop, AWS, Kaggle, Hortonworks, Docker?
 
 **** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
@@ -562,7 +579,7 @@ peed SQL Query.exe"
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -578,7 +595,7 @@ peed SQL Query.exe"
 
   
 
-* DONE Joan Time						   :Home:Car:
+* TODO Joan Time						   :Home:Car:
 
 ** DONE Light Bulbs in Bathroom
 
@@ -611,7 +628,7 @@ peed SQL Query.exe"
     
       
 
-* TODO Go Home							   :Car:Home:
+* DONE Go Home							   :Car:Home:
 
 ** DONE Made Sukiyaki = Time Marker for initial visit to ETRR
    - Used Bobby Flay's recipe

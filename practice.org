@@ -161,12 +161,18 @@
 
 
  
-* TODO <<Start-Working-at-home>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home>>	PROJECTS		       :Home:
 
 
-*** TODO PROJECTS: Skills/Subjects Mastery
+*** DONE PROJECTS: Skills/Subjects Mastery
 
 **** DONE Pageflex Mastery
+    - https://www.youtube.com/watch?v=8ZOgPCtZvoU Introduction to Website Administration
+    - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
+    - http://www.howtogeek.com/167533/the-ultimate-guide-to-changing-your-dns-server/
+    - https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5 Introduction to Networking
+    - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
+    - https://www.addedbytes.com/articles/for-beginners/url-rewriting-for-beginners/
 
      
 
@@ -190,7 +196,27 @@ peed SQL Query.exe"
      - Type Powershell on cmdline (storing history in bin)
      - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
      - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category below)
+
+
+**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+     - Github Account https://github.com/RayNieva
+       - https://guides.github.com/features/mastering-markdown/
+     - BitBucket Account https://bitbucket.org/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - Heroku https://id.heroku.com/login
+     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
+     - https://theagileadmin.com/what-is-devops/
+     - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
+
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
      - https://theagileadmin.com/what-is-devops/
 
      - https://automatetheboringstuff.com/ In Python
@@ -272,23 +298,6 @@ peed SQL Query.exe"
      - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
      - file://C://Users/ray/bin/practice.py
 
-
-**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
-     - Github Account https://github.com/RayNieva
-       - https://guides.github.com/features/mastering-markdown/
-     - BitBucket Account https://bitbucket.org/RayNieva
-     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-     - file://C:/Users/Ray/Desktop/history03-11-16.txt
-     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
-     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
-     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - Heroku https://id.heroku.com/login
-     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
-     - https://theagileadmin.com/what-is-devops/
-     - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
-
 **** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
      - http://www.seleniumhq.org/
      - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
@@ -300,9 +309,6 @@ peed SQL Query.exe"
      - https://potentpages.com/web-crawler-tutorials/python/
      - http://ruby.bastardsbook.com/chapters/html-parsing/ Nokogiri
      - http://irobotsoft.com/
-
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
@@ -536,7 +542,7 @@ peed SQL Query.exe"
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -640,7 +646,7 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* TODO Continue Working at Home					       :Home:
+* DONE Continue Working at Home					       :Home:
 
 
 

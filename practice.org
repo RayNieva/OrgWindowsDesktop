@@ -23,7 +23,7 @@
     - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
-*** TODO Other Time Management Stuff
+*** DONE Other Time Management Stuff
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://www.personalkanban.com/pk/#sthash.LS7nCDx3.dpbs Personal Kanban - Visualize, Learn and Improve
@@ -36,14 +36,15 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Have Coffee [1/3]
+** DONE Have Coffee [3/3]
    - [X] 1st cup
-   - [ ] 2nd cup
-   - [ ] 3rd cup
+   - [X] 2nd cup
+   - [X] 3rd cup
 
 
      
-** TODO System Administration and Personal Desktop Support
+** DONE System Administration and Personal Desktop Support
+   - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
@@ -55,8 +56,9 @@
    - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
 
-*** DONE Routine System Operation to Optimize systems
+*** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
+    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
     - ssh ray@ray-K55A  (secure login)
@@ -129,7 +131,7 @@
 ** DONE Check Accounts and Budget
 
 *** DONE Budgeting and Bills
-        - file://C:/Users/Ray/Desktop/BudgetAndBills.org
+        -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
 [[https://www.wcu.com/home/home][WCU]]
@@ -139,18 +141,18 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** TODO Kitchen Clean-up
-*** TODO Do Laundry
+*** DONE Kitchen Clean-up
+*** DONE Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
@@ -164,9 +166,9 @@
 * DONE <<Start-Working-at-home>>	PROJECTS		       :Home:
 
 
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
-**** TODO Pageflex Mastery
+**** DONE Pageflex Mastery
     - https://en.wikipedia.org/wiki/Web-to-print
     - https://www.youtube.com/watch?v=8ZOgPCtZvoU Introduction to Website Administration
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
@@ -200,7 +202,7 @@ peed SQL Query.exe"
      - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
 
 
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
@@ -255,7 +257,7 @@ peed SQL Query.exe"
      - https://www.nagios.org/
      - http://www.geekride.com/hard-link-vs-soft-link/
 
-**** DONE Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
+**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
      - http://tecadmin.net/install-laravel-framework-on-ubuntu/
@@ -424,7 +426,7 @@ peed SQL Query.exe"
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
-*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - https://www.resumerabbit.com/go/login
@@ -523,7 +525,7 @@ peed SQL Query.exe"
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 ** TODO Accident Report
 
-* TODO Grocery Shopping and Run Errands					:Car:
+* DONE Grocery Shopping and Run Errands					:Car:
    - [ ] Coffee 
    - [ ] Creamer
    - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
@@ -556,7 +558,7 @@ peed SQL Query.exe"
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -648,7 +650,7 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
-* TODO Continue Working at Home					       :Home:
+* DONE Continue Working at Home					       :Home:
 
 
 

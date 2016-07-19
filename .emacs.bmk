@@ -1,0 +1,170 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("GTD Actionables"
+ (filename . "~/org/gtdActionables.org")
+ (front-context-string . "* Tasks\n** DONE ")
+ (rear-context-string)
+ (position . 1))
+("LinkedIn"
+ (filename . "c:/Users/Ray/Desktop/scratch22.org")
+ (front-context-string)
+ (rear-context-string . " Interests\n   - ")
+ (position . 242))
+("Opportunities.yaml"
+ (filename . "~/org/opportunities.yml")
+ (front-context-string . "-\n   Date: <2016")
+ (rear-context-string)
+ (position . 1))
+("OCRTest"
+ (filename . "c:/Users/Ray/Documents/JobSearch/MasterTemplates/")
+ (front-context-string . "* Resume Copy\n**")
+ (rear-context-string)
+ (position . 1))
+("Journaling"
+ (filename . "~/org/jtdJournal.org")
+ (front-context-string . "* 2016\n** 2016-0")
+ (rear-context-string)
+ (position . 2))
+("Job Search Workflow"
+ (filename . "c:/Users/Ray/Desktop/scratch19.org")
+ (front-context-string . "* Job Search Wor")
+ (rear-context-string . "'s own buffer.\n\n")
+ (position . 192))
+("Notes"
+ (filename . "~/org/notes.org")
+ (front-context-string . "\n<2016-02-09 Tue")
+ (rear-context-string)
+ (position . 1))
+("Opportunities"
+ (filename . "~/org/opportunities.org")
+ (front-context-string . ";  <2016-02-20 S")
+ (rear-context-string . "il\n  Results:\n\n\n")
+ (position . 2178))
+("** 2016-02 February\n"
+ (filename . "~/org/jtdJournal.org")
+ (front-context-string . "** 2016-02 Febru")
+ (rear-context-string)
+ (position . 9))
+("Practice"
+ (filename . "c:/Users/Ray/Desktop/practice.org")
+ (front-context-string . "Wake Up							  ")
+ (rear-context-string)
+ (position . 6))
+("support Hostgator 2nd chat 2/5/15\n"
+ (filename . "c:/Users/Ray/Desktop/scratch17.org")
+ (front-context-string . "support Hostgato")
+ (rear-context-string)
+ (position . 3))
+("Support HostGator First Chat 2/04/16\n"
+ (filename . "c:/Users/Ray/Desktop/scratch16.org")
+ (front-context-string . " Support HostGat")
+ (rear-context-string)
+ (position . 2))
+("Personal info\n"
+ (filename . "c:/Users/Ray/Desktop/scratch15.org")
+ (front-context-string . "Personal info\nRa")
+ (rear-context-string)
+ (position . 3))
+("Coverletter to Rocking Realtor\n"
+ (filename . "c:/Users/Ray/Desktop/scratch14.org")
+ (front-context-string . "Coverletter to R")
+ (rear-context-string)
+ (position . 3))
+("Spiceworks"
+ (filename . "c:/Users/Ray/Desktop/scratch13(1).org")
+ (front-context-string . "Spiceworks Notes")
+ (rear-context-string)
+ (position . 3))
+("Back-up Strategies\n"
+ (filename . "c:/Users/Ray/Desktop/scratch11.org")
+ (front-context-string . "Back-up Strategi")
+ (rear-context-string)
+ (position . 3))
+("Miscellaneous Snippets and Notes\n"
+ (filename . "c:/Users/Ray/Desktop/scratch10.org")
+ (front-context-string . "Miscellaneous Sn")
+ (rear-context-string)
+ (position . 3))
+("Sales Mirage\n"
+ (filename . "c:/Users/Ray/Desktop/scratch9.org")
+ (front-context-string . "Sales Mirage\n\nTh")
+ (rear-context-string)
+ (position . 3))
+("Workflow\n"
+ (filename . "c:/Users/Ray/Desktop/scratch7.org")
+ (front-context-string . "Workflow\n\nToday ")
+ (rear-context-string)
+ (position . 3))
+("Elevator Speech\n"
+ (filename . "c:/Users/Ray/Desktop/scratch4.org")
+ (front-context-string . " Elevator Speech")
+ (rear-context-string)
+ (position . 2))
+("* Thoughts on Using Orgmode, Cyborganize and Other Technolgies"
+ (filename . "c:/Users/Ray/Desktop/scratch2.org")
+ (front-context-string . "* Thoughts on Us")
+ (rear-context-string)
+ (position . 1))
+("Emacs and Yasnippet Notes"
+ (filename . "c:/Users/Ray/Desktop/scratch1.org")
+ (front-context-string . "* Emacs and Yasn")
+ (rear-context-string)
+ (position . 2))
+("org-capture-last-stored"
+ (filename . "~/org/jtdJournal.org")
+ (front-context-string . "**** Yesteday an")
+ (rear-context-string . "16-07-18 Monday\n")
+ (position . 240284))
+("Downloads"
+ (filename . "c:/Users/Ray/Downloads/")
+ (front-context-string . "  c:/Users/Ray/D")
+ (rear-context-string)
+ (position . 1))
+("Documents"
+ (filename . "c:/Users/Ray/Documents/")
+ (front-context-string . "  c:/Users/Ray/D")
+ (rear-context-string)
+ (position . 1))
+("OSIModel"
+ (filename . "f:/Notes/NetworkPlusNotes.org")
+ (front-context-string . "** The OSI Model")
+ (rear-context-string . "and quickly.\n\n\n\n")
+ (position . 85245))
+("fddi"
+ (filename . "e:/MushkinE/Notes")
+ (front-context-string . "(FDDI) can\n    a")
+ (rear-context-string . " Data Interface ")
+ (position . 7043))
+("ethernet"
+ (filename . "e:/MushkinE/Notes")
+ (front-context-string . "     5-Fast Ethe")
+ (rear-context-string . "ware\\cat4.png]\n\n")
+ (position . 62947))
+("Curriculum.org"
+ (filename . "e:/MushkinE/Notes/")
+ (front-context-string)
+ (rear-context-string . "to take.\n\n\n\n\n \n\n")
+ (position . 13396))
+("Curriculum.txt"
+ (filename . "e:/MushkinE/Notes/")
+ (front-context-string . "New Horizons Log")
+ (rear-context-string . "ewhorizons.com][")
+ (position . 42))
+("NetworkPlusNotes.txt"
+ (filename . "e:/MushkinE/Notes/")
+ (front-context-string . "[[http://www.gma")
+ (rear-context-string)
+ (position . 1))
+("APlusNotes.txt"
+ (filename . "e:/MushkinE/Notes/")
+ (front-context-string . "[[http://www.gma")
+ (rear-context-string)
+ (position . 1))
+("TopLevelDirectory"
+ (filename . "f:/Notes/Curriculum.txt")
+ (front-context-string . "Downloads\n  drwx")
+ (rear-context-string . "  0 06-06 08:44 ")
+ (position . 106))
+)

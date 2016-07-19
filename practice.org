@@ -36,14 +36,14 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Have Coffee [3/3]
+** DONE Have Coffee [1/3]
    - [X] 1st cup
-   - [X] 2nd cup
-   - [X] 3rd cup
+   - [ ] 2nd cup
+   - [ ] 3rd cup
 
 
      
-** DONE System Administration and Personal Desktop Support
+** TODO System Administration and Personal Desktop Support
    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
    - file://C:/Users/Ray/AppData/Roaming/.emacs
    - file://C:/Users/Ray/history02-10-16.txt
@@ -151,13 +151,13 @@
 
 *** DONE Take shower
 
-*** DONE Kitchen Clean-up
-*** DONE Do Laundry
+*** TODO Kitchen Clean-up
+*** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
@@ -202,7 +202,7 @@ peed SQL Query.exe"
      - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
 
 
-**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
@@ -426,7 +426,7 @@ peed SQL Query.exe"
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
-*** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - https://www.resumerabbit.com/go/login
@@ -525,7 +525,7 @@ peed SQL Query.exe"
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 ** TODO Accident Report
 
-* DONE Grocery Shopping and Run Errands					:Car:
+* TODO Grocery Shopping and Run Errands					:Car:
    - [ ] Coffee 
    - [ ] Creamer
    - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning

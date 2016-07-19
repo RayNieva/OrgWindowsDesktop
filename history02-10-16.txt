@@ -1,0 +1,158 @@
+C:\Users\Ray\Desktop\SandboxieControl.lnk
+cat history01-26-16.txt
+doskey /h
+doskey /h > history01-26-16.txt
+doskey /h
+cat history01--16.txt
+doskey /h > history02-10-16.txt
+start cmd
+cygstart cmd
+start cmd
+cygstart cmd
+cat history02-10-16.txt
+C:\Users\Ray\Desktop\SandboxieControl.lnk
+doskey /h >> history02-10-16.txt
+taskmgr
+cat history02-10-16.txt
+C:\Users\Ray\Desktop\SandboxieControl.lnk
+doskey /h >> history02-10-16.txt
+taskmgr
+cat history02-10-16.txt
+C:\Users\Ray\Desktop\SandboxieControl.lnk
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt
+start cmd
+explorer
+doskey /h >> history02-10-16.txt
+taskmgr
+cat history02-10-16.txt
+start firefox
+doskey /h >> history02-10-16.txt
+C:\Users\Ray\Downloads\Emacs\ntemacs24\bin\emacs.exe
+doskey /h
+cat history02-10-16.txt
+doskey /h >> history02-10-16.txt
+start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse
+ls | grep history
+doskey /h >> history02-10-16.txt
+start cmd
+sart taskmgr
+taskmgr
+help runas
+runas /?
+runas /user:raynieva2\admin cmd
+doskey /h >> history02-10-16.txt
+C:\Users\Ray\Downloads\ntemacs24-bin-20120825\ntemacs24\bin\emacs.exe
+history
+doskey /h
+doskey /h >> history02-10-16.txt
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+doskey /h
+cat history02-10-16.txt
+doskey /h >> history02-10-16.txt
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+doskey /h
+doskey /h >> history02-10-16.txt
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt
+start firefox http://localhost
+start firefox http://localhost:8080
+start firefox http://rgnterprises.net
+start firefox http://rgnterprises.net/joomla
+start firefox http://rgnterprises.net/drupal
+start firefox http://rgnterprises.net/wordpress
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+start cmd
+start firefox http://rgnterprises.net
+start firefox http://rgnterprises.net/drupal
+start firefox http://rgnterprises.net/joomla
+start firefox http://rgnterprises.net/wordpress
+cd /
+ls
+cd RailsInstaller
+ls
+cd \sites
+ls
+cd railbridge
+cd railsbridge
+ls
+cd workspace
+ls
+cd hello_app
+rails server
+y
+%windir%\system32\mspaint.exe
+cd ~
+cd \users\ray
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+C:\Users\Ray\Desktop\SandboxieControl.lnk
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+start firefox http://localhost
+start firefox http://localhost:8080
+start firefox http://rgnterprises.net
+start firefox http://rgnterprises.net/drupal
+start firefox http://rgnterprises.net/wordpress
+"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+C:\Ch\bin\putty.exe
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+C:\Ch\bin\putty.exe
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history01-26-16.txt | sort
+cat history02-10-16.txt | sort
+timeout 5
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+"C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
+C:\Ch\bin\putty.exe
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history01-26-16.txt | sort
+cat history02-10-16.txt | sort
+timeout 5
+doskey /h
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+"C:\Program Files\Ditto\Ditto.exe"
+doskey /h >> history02-10-16.txt
+cat history02-10-16.txt | sort
+"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+start cmd
+explorer
+taskmgr
+start firefox
+taskmgr
+ssh 
+ssh ray@ray-K55A
+doskey /h
+doskey /h >> history02-10-16.txt
+ssh -L 5901:127.0.0.1:5901 -N -f -l ray@ray-K55A 195.168.1.5
+ssh ray@ray-K55A
+ssh -L 5901:127.0.0.1:5901 -N -f -l ray@ray-K55A 195.168.1.5
+C:\Ch\bin\putty.exe
+ssh ray@ray-K55A
+doskey /h
+doskey /h >> history02-10-16.txt
+%windir%\sysWOW64\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+doskey /h
+doskey /h >> history02-10-16.txt
+start cmd
+C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+explorer
+start cmd
+ls | grep '.07-..-16\.pdf'
+doskey /h
+doskey /h >> history02-10-16.txt

@@ -43,10 +43,11 @@
 
 
      
-** TODO System Administration and Personal Desktop Support
+** DONE System Administration and Personal Desktop Support
+   - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
+   - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
+   - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
-   - file://C:/Users/Ray/AppData/Roaming/.emacs
-   - file://C:/Users/Ray/history02-10-16.txt
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
    - System File checker command "sfc /scannow"
    - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems

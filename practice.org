@@ -23,7 +23,11 @@
     - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
+<<<<<<< HEAD
 *** TODO Other Time Management Stuff
+=======
+*** DONE Other Time Management Stuff
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://www.personalkanban.com/pk/#sthash.LS7nCDx3.dpbs Personal Kanban - Visualize, Learn and Improve
@@ -36,14 +40,24 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
+<<<<<<< HEAD
 ** DONE Have Coffee [2/3]
    - [X] 1st cup
    - [X] 2nd cup
+=======
+** DONE Have Coffee [1/3]
+   - [X] 1st cup
+   - [ ] 2nd cup
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    - [ ] 3rd cup
 
 
      
+<<<<<<< HEAD
 ** TODO System Administration and Personal Desktop Support
+=======
+** DONE System Administration and Personal Desktop Support
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
@@ -113,7 +127,11 @@
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
 
     
+<<<<<<< HEAD
 ** TODO Check Email and Communications
+=======
+** DONE Check Email and Communications
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
@@ -129,9 +147,15 @@
 
 
 ** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+<<<<<<< HEAD
 ** TODO Check Accounts and Budget
 
 *** TODO Budgeting and Bills
+=======
+** DONE Check Accounts and Budget
+
+*** DONE Budgeting and Bills
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -142,6 +166,7 @@
     
 
 
+<<<<<<< HEAD
 ** TODO Household, Health and Hygiene
 *** TODO Take Dog out feed animals
 *** TODO Clean Cat Box
@@ -151,6 +176,17 @@
 *** TODO Prescription Medicine
 
 *** TODO Take shower
+=======
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
+
+*** DONE Brush Teeth and Oral Hygiene
+
+*** TODO Prescription Medicine
+
+*** DONE Take shower
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 *** TODO Kitchen Clean-up
 *** TODO Do Laundry
@@ -158,18 +194,30 @@
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
+<<<<<<< HEAD
 *** TODO Take Out Trash and/or Recycling
+=======
+*** DONE Take Out Trash and/or Recycling
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 *** TODO Clean-up Shoveling
 ** End Task
 
 
  
+<<<<<<< HEAD
 * TODO <<Start-Working-at-home>>	PROJECTS		       :Home:
+=======
+* DONE <<Start-Working-at-home>>	PROJECTS		       :Home:
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 
 *** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
+<<<<<<< HEAD
 **** TODO Pageflex Mastery
+=======
+**** DONE Pageflex Mastery
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - https://en.wikipedia.org/wiki/Web-to-print
     - https://www.youtube.com/watch?v=8ZOgPCtZvoU Introduction to Website Administration
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
@@ -179,10 +227,13 @@
     - https://www.addedbytes.com/articles/for-beginners/url-rewriting-for-beginners/
     - https://www.youtube.com/watch?v=a0hznUWIaWI C# Queues MSMQ
 
+<<<<<<< HEAD
 **** DONE Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
+=======
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
      
 
 **** TODO SQL Server, MySQL, PostgreSQL, Oracle and SQLite
@@ -207,7 +258,11 @@ peed SQL Query.exe"
      - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
 
 
+<<<<<<< HEAD
 **** [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+=======
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
@@ -357,6 +412,13 @@ peed SQL Query.exe"
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 **** TODO Spiceworks
      - http://www.spiceworks.com (login company is RGNterprises.net)
+<<<<<<< HEAD
+=======
+
+**** TODO Windows Enterprise Server Administration
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 **** TODO Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
@@ -427,7 +489,11 @@ peed SQL Query.exe"
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
+<<<<<<< HEAD
 *** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+=======
+*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - https://www.resumerabbit.com/go/login
@@ -559,7 +625,11 @@ peed SQL Query.exe"
 
 
 
+<<<<<<< HEAD
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner
+=======
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 *** DONE Heat Sukiyaki
@@ -651,7 +721,11 @@ peed SQL Query.exe"
      - 
 
    DEADLINE: <2016-02-10 Wed>
+<<<<<<< HEAD
 * TODO Continue Working at Home					       :Home:
+=======
+* DONE Continue Working at Home					       :Home:
+>>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 
 

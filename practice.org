@@ -70,6 +70,7 @@
    - http://www.tenforums.com/tutorials/3123-clsid-key-guid-shortcuts-list-windows-10-a.html
    - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
+   - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
 
 *** TODO Routine System Operation to Optimize systems
 *** TODO Work on Other Computer
@@ -236,7 +237,7 @@
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
      
 
-**** TODO SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      1. runas /user:raynieva2\admin cmd
      2. services.msc (in new admin command shell) start appropriate service for SQL Server
      3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
@@ -247,7 +248,7 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** TODO Visual Studio and .NET CSharp etc... 
+**** DONE Visual Studio and .NET CSharp etc... 
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"

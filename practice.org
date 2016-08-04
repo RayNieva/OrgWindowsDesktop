@@ -25,8 +25,6 @@
 
 <<<<<<< HEAD
 *** TODO Other Time Management Stuff
-=======
-*** DONE Other Time Management Stuff
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
@@ -48,8 +46,7 @@
 
 
      
-** DONE System Administration and Personal Desktop Support
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
+** TODO System Administration and Personal Desktop Support
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
@@ -64,12 +61,16 @@
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
    - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
 
-*** DONE Routine System Operation to Optimize systems
+
+*** TODO Routine System Operation to Optimize systems
+
 *** TODO Work on Other Computer
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
     - ssh ray@ray-K55A  (secure login)
+    - (start-process "aname" nil "remotePageflex")
+
 *** TODO Cloud Computer
     - https://c9.io/raynieva
 *** DONE Keyboard Issue
@@ -121,8 +122,7 @@
 
     
 <<<<<<< HEAD
-** DONE Check Email and Communications
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
+** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
@@ -142,7 +142,6 @@
 ** DONE Check Accounts and Budget
 
 *** DONE Budgeting and Bills
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -153,7 +152,6 @@
     
 
 
-<<<<<<< HEAD
 ** DONE Household, Health and Hygiene
 *** DONE Take Dog out feed animals
 *** DONE Clean Cat Box
@@ -170,43 +168,36 @@
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** DONE Take Out Trash and/or Recycling
+*** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
 
  
 <<<<<<< HEAD
-* DONE <<Start-Working-at-home>>	PROJECTS		       :Home:
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
+* TODO <<Start-Working-at-home>>	PROJECTS		       :Home:
 
 
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-<<<<<<< HEAD
 **** TODO Pageflex Mastery
-=======
-**** DONE Pageflex Mastery
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
+    - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
+      - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
     - https://en.wikipedia.org/wiki/Web-to-print
     - https://www.youtube.com/watch?v=8ZOgPCtZvoU Introduction to Website Administration
-    - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
     - http://www.howtogeek.com/167533/the-ultimate-guide-to-changing-your-dns-server/
     - https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5 Introduction to Networking
-    - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
     - https://www.addedbytes.com/articles/for-beginners/url-rewriting-for-beginners/
     - https://www.youtube.com/watch?v=a0hznUWIaWI C# Queues MSMQ
+    - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
-<<<<<<< HEAD
-**** DONE Windows Enterprise Server Administration
+**** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
-=======
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
      
 
-**** DONE SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** TODO SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      1. runas /user:raynieva2\admin cmd
      2. services.msc (in new admin command shell) start appropriate service for SQL Server
      3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
@@ -217,7 +208,7 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** DONE Visual Studio and .NET CSharp etc... 
+**** TODO Visual Studio and .NET CSharp etc... 
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
@@ -229,10 +220,7 @@ peed SQL Query.exe"
 
 
 <<<<<<< HEAD
-**** [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
-=======
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
@@ -250,7 +238,7 @@ peed SQL Query.exe"
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-**** DONE DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
+**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
      - https://theagileadmin.com/what-is-devops/
 
      - https://automatetheboringstuff.com/ In Python
@@ -289,7 +277,7 @@ peed SQL Query.exe"
      - https://github.com/chef-cookbooks/webpi
      - https://en.wikipedia.org/wiki/Web_Platform_Installer
 
-**** DONE Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
+**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
      - http://tecadmin.net/install-laravel-framework-on-ubuntu/
@@ -395,7 +383,7 @@ peed SQL Query.exe"
 **** TODO Learn Org Mode <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
-***** DONE Practice Check Boxes [100%]
+***** TODO Practice Check Boxes [100%]
       - [X] Checkbox 1
       - [X] Checkbox 2
       - [X] Checkbox 3
@@ -427,7 +415,7 @@ peed SQL Query.exe"
       - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
       - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
 
-***** DONE Learn Vim
+***** TODO Learn Vim
       - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
       - http://vim.wikia.com/wiki/Moving_around
 
@@ -463,10 +451,7 @@ peed SQL Query.exe"
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
 <<<<<<< HEAD
-*** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-=======
 *** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - https://www.resumerabbit.com/go/login
@@ -599,7 +584,7 @@ peed SQL Query.exe"
 
 
 <<<<<<< HEAD
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
@@ -693,7 +678,7 @@ peed SQL Query.exe"
 
    DEADLINE: <2016-02-10 Wed>
 <<<<<<< HEAD
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 

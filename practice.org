@@ -39,10 +39,10 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [1/3]
+** DONE Have Coffee [3/3]
    - [X] 1st cup
-   - [ ] 2nd cup
-   - [ ] 3rd cup
+   - [X] 2nd cup
+   - [X] 3rd cup
 
 
      
@@ -70,6 +70,7 @@
     - Need to think of alternative boot options first. RESOLVED
     - ssh ray@ray-K55A  (secure login)
     - (start-process "aname" nil "remotePageflex")
+    - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
 
 *** TODO Cloud Computer
     - https://c9.io/raynieva
@@ -133,7 +134,7 @@
    * LG Phone http://web.airdroid.com/
      * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
 
-*** TODO Check Texting on Landline
+*** DONE Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
@@ -141,7 +142,7 @@
 <<<<<<< HEAD
 ** DONE Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -156,31 +157,31 @@
 *** DONE Take Dog out feed animals
 *** DONE Clean Cat Box
 
-*** DONE Brush Teeth and Oral Hygiene
+*** TODO Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** DONE Take shower
+*** TODO Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
 
  
 <<<<<<< HEAD
-* TODO <<Start-Working-at-home>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
-**** TODO Pageflex Mastery
+**** DONE Pageflex Mastery
     - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
       - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
     - https://en.wikipedia.org/wiki/Web-to-print
@@ -208,7 +209,7 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** TODO Visual Studio and .NET CSharp etc... 
+**** DONE Visual Studio and .NET CSharp etc... 
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
@@ -584,7 +585,7 @@ peed SQL Query.exe"
 
 
 <<<<<<< HEAD
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
@@ -653,7 +654,7 @@ peed SQL Query.exe"
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
 ** DONE Help Joan with Taxes
-* TODO Family Time						   :Home:Car:
+* DONE Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies
@@ -678,12 +679,12 @@ peed SQL Query.exe"
 
    DEADLINE: <2016-02-10 Wed>
 <<<<<<< HEAD
-* TODO Continue Working at Home					       :Home:
+* DONE Continue Working at Home					       :Home:
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 
 
-** TODO Refer Back to [[Start-Working-at-home]]:a PROJECTS:
+** TODO Refer Back to [[Start-Working-at-home/work]]:a PROJECTS:
    - file://C:\Users\Ray\AppData\Roaming\org\gtdActionables.org
 ** TODO Opportunity Activities [[Opportunity-activities]]
 

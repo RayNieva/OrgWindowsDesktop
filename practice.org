@@ -39,14 +39,14 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [3/3]
+** DONE Have Coffee [1/3]
    - [X] 1st cup
-   - [X] 2nd cup
-   - [X] 3rd cup
+   - [ ] 2nd cup
+   - [ ] 3rd cup
 
 
      
-** TODO System Administration and Personal Desktop Support
+** DONE System Administration and Personal Desktop Support
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
@@ -60,17 +60,21 @@
    - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
    - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
    - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
+   - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
 
 
-*** TODO Routine System Operation to Optimize systems
+*** DONE Routine System Operation to Optimize systems
 
-*** TODO Work on Other Computer
+*** DONE Work on Other Computer
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
     - ssh ray@ray-K55A  (secure login)
     - (start-process "aname" nil "remotePageflex")
     - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
+    - https://www.linux.com/learn/many-ways-use-remote-desktop-x11vnc
+    - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
+    - http://xmonad.org/manpage.html
 
 *** TODO Cloud Computer
     - https://c9.io/raynieva
@@ -140,7 +144,7 @@
 
 ** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 <<<<<<< HEAD
-** DONE Check Accounts and Budget
+** TODO Check Accounts and Budget
 
 *** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
@@ -153,9 +157,9 @@
     
 
 
-** DONE Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+** TODO Household, Health and Hygiene
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
@@ -163,25 +167,25 @@
 
 *** TODO Take shower
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** DONE Take Out Trash and/or Recycling
+*** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 ** End Task
 
 
  
 <<<<<<< HEAD
-* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-**** DONE Pageflex Mastery
+**** TODO Pageflex Mastery
     - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
       - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
     - https://en.wikipedia.org/wiki/Web-to-print
@@ -209,7 +213,7 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** DONE Visual Studio and .NET CSharp etc... 
+**** TODO Visual Studio and .NET CSharp etc... 
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
@@ -585,7 +589,7 @@ peed SQL Query.exe"
 
 
 <<<<<<< HEAD
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
@@ -654,7 +658,7 @@ peed SQL Query.exe"
 ** DONE Doctors Appt with Joan
 ** DONE Go to Bank with Joan
 ** DONE Help Joan with Taxes
-* DONE Family Time						   :Home:Car:
+* TODO Family Time						   :Home:Car:
 ** DONE [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies
@@ -679,7 +683,7 @@ peed SQL Query.exe"
 
    DEADLINE: <2016-02-10 Wed>
 <<<<<<< HEAD
-* DONE Continue Working at Home					       :Home:
+* TODO Continue Working at Home					       :Home:
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 

@@ -39,14 +39,14 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [1/3]
+** DONE Have Coffee [2/3]
    - [X] 1st cup
-   - [ ] 2nd cup
+   - [X] 2nd cup
    - [ ] 3rd cup
 
 
      
-** DONE System Administration and Personal Desktop Support
+** TODO System Administration and Personal Desktop Support
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
@@ -63,9 +63,9 @@
    - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
 
 
-*** DONE Routine System Operation to Optimize systems
+*** TODO Routine System Operation to Optimize systems
 
-*** DONE Work on Other Computer
+*** TODO Work on Other Computer
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
@@ -86,7 +86,7 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** TODO Mind Rituals and Attitude Development
+** TODO Mind and Body Rituals and Attitude Development
 *** TODO Meditate
 [[  - https://youtube.com]]
   - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
@@ -138,7 +138,7 @@
    * LG Phone http://web.airdroid.com/
      * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
 
-*** DONE Check Texting on Landline
+*** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 
 
@@ -157,17 +157,17 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
@@ -185,7 +185,7 @@
 
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-**** TODO Pageflex Mastery
+**** DONE Pageflex Mastery
     - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
       - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
     - https://en.wikipedia.org/wiki/Web-to-print
@@ -684,11 +684,10 @@ peed SQL Query.exe"
    DEADLINE: <2016-02-10 Wed>
 <<<<<<< HEAD
 * TODO Continue Working at Home					       :Home:
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
 
 
 
-** TODO Refer Back to [[Start-Working-at-home/work]]:a PROJECTS:
+** DONE Refer Back to [[Start-Working-at-home/work]]:a PROJECTS:
    - file://C:\Users\Ray\AppData\Roaming\org\gtdActionables.org
 ** TODO Opportunity Activities [[Opportunity-activities]]
 

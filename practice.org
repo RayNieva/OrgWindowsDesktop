@@ -7,9 +7,9 @@
 * Wake Up							       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
+** TODO Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** DONE GTD Stuff
+*** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -39,7 +39,7 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [2/3]
+** TODO Have Coffee [2/3]
    - [X] 1st cup
    - [X] 2nd cup
    - [ ] 3rd cup
@@ -86,7 +86,7 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** TODO Mind and Body Rituals and Attitude Development
+** DONE Mind and Body Rituals and Attitude Development
 *** TODO Meditate
 [[  - https://youtube.com]]
   - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
@@ -144,9 +144,9 @@
 
 ** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 <<<<<<< HEAD
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -157,17 +157,17 @@
     
 
 
-** DONE Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+** TODO Household, Health and Hygiene
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
-*** DONE Brush Teeth and Oral Hygiene
+*** TODO Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** DONE Take shower
+*** TODO Take shower
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up

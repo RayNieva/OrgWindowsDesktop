@@ -46,7 +46,7 @@
 
 
      
-** TODO System Administration and Personal Desktop Support
+** TODO System and Network Administration and Personal Desktop Support
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
@@ -63,7 +63,7 @@
    - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
 
 
-*** TODO Routine System Operation to Optimize systems
+*** DONE Routine System Operation to Optimize systems
 
 *** TODO Work on Other Computer
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
@@ -86,7 +86,11 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** DONE Mind and Body Rituals and Attitude Development
+** TODO Mind and Body Rituals, Health and Attitude Development
+
+*** TODO IBS
+
+    
 *** TODO Meditate
 [[  - https://youtube.com]]
   - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
@@ -124,9 +128,6 @@
 *** TODO http://adam.nz/library/in_the_beginning_was_the_command_line
 
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
-
-    
-<<<<<<< HEAD
 ** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
 
@@ -140,13 +141,9 @@
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
+** TODO Check Accounts and Budget
 
-
-** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-<<<<<<< HEAD
-** DONE Check Accounts and Budget
-
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -175,6 +172,10 @@
 *** TODO Cut Lawn
 *** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
+
+
+** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+<<<<<<< HEAD
 ** End Task
 
 
@@ -182,10 +183,11 @@
 <<<<<<< HEAD
 * TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
-
+  
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-**** DONE Pageflex Mastery
+**** TODO Pageflex Mastery
+    - Console Mastery
     - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
       - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
     - https://en.wikipedia.org/wiki/Web-to-print
@@ -217,6 +219,12 @@ peed SQL Query.exe"
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+
+**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
+     - http://www.seleniumhq.org/
+     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
+     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
+**** TODO Concept of Workflow Automation
 
 **** TODO Powershell
      - Type Powershell on cmdline (storing history in bin)
@@ -284,6 +292,7 @@ peed SQL Query.exe"
 
 **** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
      - http://tecadmin.net/install-laravel-framework-on-ubuntu/
      - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
@@ -327,11 +336,6 @@ peed SQL Query.exe"
 **** TODO IPython
      - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
      - file://C://Users/ray/bin/practice.py
-
-**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
-     - http://www.seleniumhq.org/
-     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
-     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
 
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
@@ -427,7 +431,6 @@ peed SQL Query.exe"
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-**** TODO Concept of Workflow Automation
 
 **** TODO Source Making
      - https://sourcemaking.com/ 
@@ -542,18 +545,21 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** TODO Freelance Research Top Ideas
+*** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
+    - Football
 
 *** End Task
 
 * TODO Car Maintenance						   :Car:Home:
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
-** TODO Accident Report
+** DONE Accident Report
+** TODO Need to get copy of Extended Warranty from Toyota Finance
+call 800-874-8822
 
 * TODO Grocery Shopping and Run Errands					:Car:
    - [ ] Coffee 

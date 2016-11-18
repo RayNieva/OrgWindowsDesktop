@@ -4,7 +4,7 @@
 (setq truncate-lines 'nil) (setq truncate-lines 't)
 
 * End Task
-* Wake Up							       :Home:
+* DONE Wake Up							       :Home:
 [[go-to-bottom]]
 
 ** TODO Time Management
@@ -39,9 +39,9 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** TODO Have Coffee [2/3]
+** DONE Have Coffee [1/3]
    - [X] 1st cup
-   - [X] 2nd cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
@@ -63,7 +63,7 @@
    - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
 
 
-*** DONE Routine System Operation to Optimize systems
+*** TODO Routine System Operation to Optimize systems
 
 *** TODO Work on Other Computer
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
@@ -141,9 +141,9 @@
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -154,17 +154,17 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
@@ -181,12 +181,12 @@
 
  
 <<<<<<< HEAD
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
   
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
-**** TODO Pageflex Mastery
+**** DONE Pageflex Mastery
     - Console Mastery
     - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
       - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
@@ -202,7 +202,7 @@
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
-     
+       
 
 **** TODO SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      1. runas /user:raynieva2\admin cmd
@@ -225,14 +225,6 @@ peed SQL Query.exe"
      - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
      - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
 **** TODO Concept of Workflow Automation
-
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-
-
-<<<<<<< HEAD
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
@@ -249,8 +241,39 @@ peed SQL Query.exe"
      - https://theagileadmin.com/what-is-devops/
      - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
 
+**** TODO Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
+     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+
+
+<<<<<<< HEAD
+
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+
+**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+
+
+**** TODO IPython
+     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
+     - file://C://Users/ray/bin/practice.py
 **** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
      - https://theagileadmin.com/what-is-devops/
 
@@ -289,24 +312,6 @@ peed SQL Query.exe"
      - http://www.geekride.com/hard-link-vs-soft-link/
      - https://github.com/chef-cookbooks/webpi
      - https://en.wikipedia.org/wiki/Web_Platform_Installer
-
-**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
 **** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
      - Develop Epic (Norm Heckman has outline)
@@ -331,11 +336,6 @@ peed SQL Query.exe"
      - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
      - Step 3. Go to Tutorials Trailhead
      - Step 4. Select Course of Study
-
-
-**** TODO IPython
-     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
-     - file://C://Users/ray/bin/practice.py
 
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
@@ -551,6 +551,9 @@ peed SQL Query.exe"
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
     - Football
+    - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.2713&rep=rep1&type=pdf
+    - https://www.lively-kernel.org/
+
 
 *** End Task
 

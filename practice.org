@@ -39,14 +39,14 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [1/3]
+** DONE Have Coffee [2/3]
    - [X] 1st cup
-   - [ ] 2nd cup
+   - [X] 2nd cup
    - [ ] 3rd cup
 
 
      
-** TODO System and Network Administration and Personal Desktop Support
+** DONE System and Network Administration and Personal Desktop Support
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
@@ -154,17 +154,17 @@
     
 
 
-** DONE Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+** TODO Household, Health and Hygiene
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
-*** DONE Brush Teeth and Oral Hygiene
+*** TODO Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** DONE Take shower
+*** TODO Take shower
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
@@ -198,9 +198,28 @@
     - https://www.youtube.com/watch?v=a0hznUWIaWI C# Queues MSMQ
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
-**** TODO Windows Enterprise Server Administration
-     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
-     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+**** DONE Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+
+**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
+     - http://www.seleniumhq.org/
+     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
+     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
 
        
 
@@ -214,16 +233,23 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
+**** TODO XML/XSLT
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+**** TODO Developer Force.com
+     - Step 1. http://developer.force.com
+     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
+     - Step 3. Go to Tutorials Trailhead
+     - Step 4. Select Course of Study
+
+**** TODO Windows Enterprise Server Administration
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
 **** TODO Visual Studio and .NET CSharp etc... 
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-
-**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
-     - http://www.seleniumhq.org/
-     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
-     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
 **** TODO Concept of Workflow Automation
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
@@ -251,24 +277,6 @@ peed SQL Query.exe"
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-
-**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
 
 
 **** TODO IPython
@@ -331,11 +339,6 @@ peed SQL Query.exe"
        - https://www.docker.com/products/docker
 
        - http://www.geocreepy.com/
-**** TODO Developer Force.com
-     - Step 1. http://developer.force.com
-     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
-     - Step 3. Go to Tutorials Trailhead
-     - Step 4. Select Course of Study
 
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
@@ -343,9 +346,6 @@ peed SQL Query.exe"
      - https://potentpages.com/web-crawler-tutorials/python/
      - http://ruby.bastardsbook.com/chapters/html-parsing/ Nokogiri
      - http://irobotsoft.com/
-**** TODO XML/XSLT
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 
 **** TODO Sharepoint Foundation     
      - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2f
@@ -545,7 +545,7 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
@@ -553,11 +553,14 @@ peed SQL Query.exe"
     - Football
     - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.2713&rep=rep1&type=pdf
     - https://www.lively-kernel.org/
+    - https://www.packtpub.com/account/my-ebooks
 
 
 *** End Task
 
 * TODO Car Maintenance						   :Car:Home:
+
+** TODO Snow Tires
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 ** DONE Accident Report
@@ -650,6 +653,8 @@ call 800-874-8822
 
 * TODO Joan Time						   :Home:Car:
 
+** TODO Power Pressure Cooker
+
 ** DONE Light Bulbs in Bathroom
 
 ** DONE Go to Maine with Joan					  :Car:Maine:
@@ -668,7 +673,36 @@ call 800-874-8822
 ** DONE Go to Bank with Joan
 ** DONE Help Joan with Taxes
 * TODO Family Time						   :Home:Car:
-** DONE [#A] Babies Birthday					   :Home:Car:
+** TODO Christmas
+    -  http://www.worldmarket.com/category/gifts-accessories/gift-wrap/create-a-gift.do     
+*** TODO Patience
+    - [ ] Large Gift Box
+    - [ ] Ribbon
+    - [ ] Check Stuff out
+        
+    
+*** TODO Babies
+    - [ ] 2 Large Gift Boxes
+    - [ ] Ribbons
+    - [ ] Check Stuff out
+    
+*** TODO Joan
+    - [ ] Home Depot Card - received
+    - [ ] Macy's Card - received
+    - [ ] Wine
+    - [ ] Yankee Candles
+*** TODO Ashley
+    - [ ] Beats and/or Gift card for Wireless Beats
+*** TODO Dan
+    - [ ] Received Callaway Gift Card
+*** TODO Tiffany and Family
+    - [ ] Phantom Gourmet Gift Card
+    - [ ] Check stuff out for baby
+*** TODO Raymond
+*** TODO XMas Eve Party
+
+
+** TODO [#A] Babies Birthday					   :Home:Car:
 *** DONE Make List
     - [X] Idea Clothes for babies
     - [X] Baskets for babies

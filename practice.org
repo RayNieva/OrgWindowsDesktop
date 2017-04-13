@@ -7,7 +7,7 @@
 * DONE Wake Up							       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
+** DONE Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
 *** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
@@ -39,9 +39,9 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [2/3]
+** DONE Have Coffee [1/3]
    - [X] 1st cup
-   - [X] 2nd cup
+   - [ ] 2nd cup
    - [ ] 3rd cup
 
 
@@ -183,20 +183,69 @@
 <<<<<<< HEAD
 * DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
-  
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
-**** DONE Pageflex Mastery
-    - Console Mastery
-    - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
-      - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
-    - https://en.wikipedia.org/wiki/Web-to-print
-    - https://www.youtube.com/watch?v=8ZOgPCtZvoU Introduction to Website Administration
-    - http://www.howtogeek.com/167533/the-ultimate-guide-to-changing-your-dns-server/
-    - https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5 Introduction to Networking
-    - https://www.addedbytes.com/articles/for-beginners/url-rewriting-for-beginners/
-    - https://www.youtube.com/watch?v=a0hznUWIaWI C# Queues MSMQ
-    - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
+*** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
+    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
+    - https://www.resumerabbit.com/go/login
+    - http://www.careerbuilder.com/
+    - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
+    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - https://my.indeed.com/resume
+    - https://www.flexjobs.com/
+    - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
+    - [https://jobquest.detma.org/JobQuest/Default.aspx]
+    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
+    - Create Persuasive Cover Letter Template(s)
+    - Job request ID 11978529
+    - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
+    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
+    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
+    - Mandatory RESEA Meeting <2016-03-01 Tue>
+    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
+    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
+    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
+    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
+    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
+    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
+
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+    - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
+    - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
+    - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
+    - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
+    - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
+    - On-line Presence
+      - [X] LinkedIn http://www.linkedin.com MAKING CONNECTIONS! and adding Projects, Groups etc...
+	- http://www.meetup.com/automation-mastermind/
+      - [ ] RGNterprises.NET http://rgnterprises.net
+	- [ ] Wordpress http://rgnterprises.net/wordpress
+	- [ ] Joomla http://rgnterprises.net/joomla
+	- [ ] Drupal http://rgnterprises.net/drupal
+      - [ ] https://rgnterprises.cloudappsportal.com Sharepoint Site Secured portal
+      - [X] Github
+      - [ ] Github.io https://pages.github.com/
+      - [ ] Hosted Sharepoint Site https://rgnterprises.cloudappsportal.com 
+      - [ ] Hubpages
+      - [ ] Twitter
+      - [ ] Facebook
+      - [ ] Article Directories
+**** DONE Training Opportunities Program
+
+**** DONE ETRR Meeting on Resumes			     :Framingham:Car:
+     DEADLINE: <2016-03-22 Tue> at 9:15 AM
+
+**** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
+     DEADLINE: <2016-03-24 Thu> at 9:15 AM
+**** TODO Electronice Resume 
+     DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
+**** DONE Avoiding Black Hole 
+     DEADLINE: <2016-06-06 Mon> at 9:15 AM 
+**** TODO Using Age to Advantage
+     DEADLINE: <2016-06-08 Wed> at 9:15 AM Need to reschedule
+**** TODO Ace the Interview
+     DEADLINE: <2016-06-15 Wed> at 9:15 AM
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
 **** DONE Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
@@ -215,6 +264,10 @@
      - Jekyll
      - https://www.npmjs.com/ Javascript Package Manager
      - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 
 **** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
      - http://www.seleniumhq.org/
@@ -271,12 +324,10 @@ peed SQL Query.exe"
      - Type Powershell on cmdline (storing history in bin)
      - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
      - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+     - Chocolatey
 
 
 <<<<<<< HEAD
-
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
 
 
 **** TODO IPython
@@ -459,68 +510,20 @@ peed SQL Query.exe"
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
 <<<<<<< HEAD
-*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
-    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
-    - https://www.resumerabbit.com/go/login
-    - http://www.careerbuilder.com/
-    - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
-    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
-    - https://my.indeed.com/resume
-    - https://www.flexjobs.com/
-    - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
-    - [https://jobquest.detma.org/JobQuest/Default.aspx]
-    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
-    - Create Persuasive Cover Letter Template(s)
-    - Job request ID 11978529
-    - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
-    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
-    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - Mandatory RESEA Meeting <2016-03-01 Tue>
-    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
-    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
-    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
-    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
-    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
-    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
-    - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
-    - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
-    - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
-    - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
-    - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
-    - On-line Presence
-      - [X] LinkedIn http://www.linkedin.com MAKING CONNECTIONS! and adding Projects, Groups etc...
-	- http://www.meetup.com/automation-mastermind/
-      - [ ] RGNterprises.NET http://rgnterprises.net
-	- [ ] Wordpress http://rgnterprises.net/wordpress
-	- [ ] Joomla http://rgnterprises.net/joomla
-	- [ ] Drupal http://rgnterprises.net/drupal
-      - [ ] https://rgnterprises.cloudappsportal.com Sharepoint Site Secured portal
-      - [X] Github
-      - [ ] Github.io https://pages.github.com/
-      - [ ] Hosted Sharepoint Site https://rgnterprises.cloudappsportal.com 
-      - [ ] Hubpages
-      - [ ] Twitter
-      - [ ] Facebook
-      - [ ] Article Directories
-**** DONE Training Opportunities Program
+**** DONE Pageflex Mastery
+    - Console Mastery
+    - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
+    - file://C:\Users\Ray\Downloads\PF-Doc-861  PageFlex documentation folders
+    - https://en.wikipedia.org/wiki/Web-to-print
+    - https://www.youtube.com/watch?v=8ZOgPCtZvoU Introduction to Website Administration
+    - http://www.howtogeek.com/167533/the-ultimate-guide-to-changing-your-dns-server/
+    - https://www.youtube.com/watch?v=rL8RSFQG8do&list=PLF360ED1082F6F2A5 Introduction to Networking
+    - https://www.addedbytes.com/articles/for-beginners/url-rewriting-for-beginners/
+    - https://www.youtube.com/watch?v=a0hznUWIaWI C# Queues MSMQ
+    - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
-**** DONE ETRR Meeting on Resumes			     :Framingham:Car:
-     DEADLINE: <2016-03-22 Tue> at 9:15 AM
-
-**** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
-     DEADLINE: <2016-03-24 Thu> at 9:15 AM
-**** TODO Electronice Resume 
-     DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
-**** DONE Avoiding Black Hole 
-     DEADLINE: <2016-06-06 Mon> at 9:15 AM 
-**** TODO Using Age to Advantage
-     DEADLINE: <2016-06-08 Wed> at 9:15 AM Need to reschedule
-**** TODO Ace the Interview
-     DEADLINE: <2016-06-15 Wed> at 9:15 AM
-
+**** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
 *** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
@@ -651,7 +654,7 @@ call 800-874-8822
 
   
 
-* TODO Joan Time						   :Home:Car:
+* DONE Joan Time						   :Home:Car:
 
 ** TODO Power Pressure Cooker
 

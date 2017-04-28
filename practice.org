@@ -4,12 +4,12 @@
 (setq truncate-lines 'nil) (setq truncate-lines 't)
 
 * End Task
-* DONE Wake Up							       :Home:
+* DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
+** TODO Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -23,7 +23,6 @@
     - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
 
 
-<<<<<<< HEAD
 *** TODO Other Time Management Stuff
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
@@ -170,7 +169,7 @@
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
 *** TODO Cut Lawn
-*** TODO Take Out Trash and/or Recycling
+*** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 
 
@@ -181,12 +180,13 @@
 
  
 <<<<<<< HEAD
-* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** DONE Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
+*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+    - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
+    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
     - https://www.resumerabbit.com/go/login
     - http://www.careerbuilder.com/
     - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
@@ -209,7 +209,7 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
@@ -230,24 +230,24 @@
       - [ ] Twitter
       - [ ] Facebook
       - [ ] Article Directories
-**** DONE Training Opportunities Program
+**** TODO Training Opportunities Program
 
-**** DONE ETRR Meeting on Resumes			     :Framingham:Car:
+**** TODO ETRR Meeting on Resumes			     :Framingham:Car:
      DEADLINE: <2016-03-22 Tue> at 9:15 AM
 
-**** DONE ETRR Meeting on Cover Letters			     :Framingham:Car:
+**** TODO ETRR Meeting on Cover Letters			     :Framingham:Car:
      DEADLINE: <2016-03-24 Thu> at 9:15 AM
 **** TODO Electronice Resume 
      DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
-**** DONE Avoiding Black Hole 
+**** TODO Avoiding Black Hole 
      DEADLINE: <2016-06-06 Mon> at 9:15 AM 
 **** TODO Using Age to Advantage
      DEADLINE: <2016-06-08 Wed> at 9:15 AM Need to reschedule
 **** TODO Ace the Interview
      DEADLINE: <2016-06-15 Wed> at 9:15 AM
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-**** DONE Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
+**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
      - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
@@ -265,6 +265,52 @@
      - https://www.npmjs.com/ Javascript Package Manager
      - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
      - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+**** TODO Learn Emacs, List,Org Mode and Yasnippet <<Learn-Org-Mode>>
+[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
+
+***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
+***** TODO Install and Learn Yasnippet
+      - [file:/C:\Users\Ray\Documents\scratch1.org]
+***** TODO Install and Learn Icicles
+***** TODO Practice Check Boxes [100%]
+      - [X] Checkbox 1
+      - [X] Checkbox 2
+      - [X] Checkbox 3
+      - [X] Checkbox 4
+      
+***** TODO Another Tutorial on Org-Mode
+      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
+      + Use Git to synchronize
+      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
+      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
+
+***** TODO Emacs for Writers
+      - [https://www.youtube.com/watch?v=FtieBc3KptU]
+***** TODO Learning more about Capture-mode Emacs
+      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
+      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
+
+***** TODO Learn Bookmark and Bookmark Plus
+      - https://www.emacswiki.org/emacs/BookMarks
+
+***** TODO Learn Abbrev Mode
+      - Learned about the 
+       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
+
+***** DONE Install and Learn Evil
+      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
+      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
+
+***** TODO Learn Vim
+      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
+      - http://vim.wikia.com/wiki/Moving_around
+
+***** TODO Learn Babel
+
+***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+**** TODO XML/XSLT
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
@@ -286,9 +332,6 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
-**** TODO XML/XSLT
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Developer Force.com
      - Step 1. http://developer.force.com
      - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
@@ -327,7 +370,6 @@ peed SQL Query.exe"
      - Chocolatey
 
 
-<<<<<<< HEAD
 
 
 **** TODO IPython
@@ -433,55 +475,10 @@ peed SQL Query.exe"
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 **** TODO Spiceworks
      - http://www.spiceworks.com (login company is RGNterprises.net)
-<<<<<<< HEAD
-=======
 
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
-**** TODO Learn Org Mode <<Learn-Org-Mode>>
-[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
-
-***** TODO Practice Check Boxes [100%]
-      - [X] Checkbox 1
-      - [X] Checkbox 2
-      - [X] Checkbox 3
-      - [X] Checkbox 4
-      
-***** TODO Another Tutorial on Org-Mode
-      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
-      + Use Git to synchronize
-      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
-      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
-
-***** TODO Emacs for Writers
-      - [https://www.youtube.com/watch?v=FtieBc3KptU]
-***** TODO Learning more about Capture-mode Emacs
-      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
-      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
-
-***** TODO Learn Bookmark and Bookmark Plus
-      - https://www.emacswiki.org/emacs/BookMarks
-
-***** TODO Learn Abbrev Mode
-      - Learned about the 
-       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
-***** TODO Install and Learn Yasnippet
-      - [file:/C:\Users\Ray\Documents\scratch1.org]
-***** TODO Install and Learn Icicles
-
-***** TODO Install and Learn Evil
-      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
-      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
-
-***** TODO Learn Vim
-      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
-      - http://vim.wikia.com/wiki/Moving_around
-
-***** TODO Learn Babel
-
-***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
 
 **** TODO Source Making
      - https://sourcemaking.com/ 
@@ -509,7 +506,6 @@ peed SQL Query.exe"
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
-<<<<<<< HEAD
 
 **** DONE Pageflex Mastery
     - Console Mastery
@@ -548,7 +544,7 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** DONE Freelance Research Top Ideas and Recreation.
+*** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
@@ -603,7 +599,6 @@ call 800-874-8822
 
 
 
-<<<<<<< HEAD
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner
 >>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
     - Rotate chicken in NuWave
@@ -654,7 +649,7 @@ call 800-874-8822
 
   
 
-* DONE Joan Time						   :Home:Car:
+* TODO Joan Time						   :Home:Car:
 
 ** TODO Power Pressure Cooker
 
@@ -729,7 +724,7 @@ call 800-874-8822
 
    DEADLINE: <2016-02-10 Wed>
 <<<<<<< HEAD
-* TODO Continue Working at Home					       :Home:
+* TODO Continue Working at Home Projects/Tasks 			       :Home:
 
 
 

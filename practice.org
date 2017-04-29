@@ -94,7 +94,7 @@
 [[  - https://youtube.com]]
   - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
 [[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][  - Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
-[[https://www.youtube.com/watch?v=tOQaVSX-N4c][  - CALMING OUR MINDS: Relaxing mful life & RELAXATION]]
+[[https://www.youtube.com/watch?v=tOQaVSX-N4c][  - CALMING OUR MINDS: Relaxing mindful life & RELAXATION]]
 [[https://www.youtube.com/watch?v=uPWqs8hOzmQ][  - Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
    - https://www.youtube.com/watch?v=iCJkTXS4LoA  Powerful: Confidence Spoken Affirmations with binaural tones for Healthy Self-esteem
 
@@ -265,10 +265,11 @@
      - https://www.npmjs.com/ Javascript Package Manager
      - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
      - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
-**** TODO Learn Emacs, List,Org Mode and Yasnippet <<Learn-Org-Mode>>
+**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
 ***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
+***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
 ***** TODO Install and Learn Yasnippet
       - [file:/C:\Users\Ray\Documents\scratch1.org]
 ***** TODO Install and Learn Icicles
@@ -584,7 +585,7 @@ call 800-874-8822
    - [ ] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
 ** TODO Return Bottles
 ** DONE Doctors Appointment
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking

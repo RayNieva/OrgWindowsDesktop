@@ -245,7 +245,7 @@
 **** TODO Ace the Interview
      DEADLINE: <2016-06-15 Wed> at 9:15 AM
 
-*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
+*** DONE [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
     - cpanel
       [[https://cloud8.hostgator.com:2083/][cpanel]]

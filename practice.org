@@ -24,7 +24,6 @@
 
 
 *** TODO Other Time Management Stuff
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
    - https://www.youtube.com/watch?v=y2X7c9TUQJ8 How To Multiply Your Time | Rory Vaden | TEDxDouglasville
    - https://www.youtube.com/watch?v=OBV2vBFD29I Why Smart People Underperform Seminar with Marie Forleo
    - http://www.personalkanban.com/pk/#sthash.LS7nCDx3.dpbs Personal Kanban - Visualize, Learn and Improve
@@ -38,53 +37,6 @@
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
 <<<<<<< HEAD
-** DONE Have Coffee [1/3]
-   - [X] 1st cup
-   - [ ] 2nd cup
-   - [ ] 3rd cup
-
-
-     
-** DONE System and Network Administration and Personal Desktop Support
-   - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
-   - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
-   - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
-   - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
-   - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
-   - System File checker command "sfc /scannow"
-   - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
-   - http://www.duplicati.com/howtos
-   - http://www.sevenforums.com/tutorials/110919-clsid-key-list-windows-7-a.html
-   - http://www.tenforums.com/tutorials/3123-clsid-key-guid-shortcuts-list-windows-10-a.html
-   - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
-   - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
-   - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
-   - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
-
-
-*** TODO Routine System Operation to Optimize systems
-
-*** TODO Work on Other Computer
-    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
-    - Trying to increase files space, but blue screen of death issues. RESOLVED
-    - Need to think of alternative boot options first. RESOLVED
-    - ssh ray@ray-K55A  (secure login)
-    - (start-process "aname" nil "remotePageflex")
-    - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
-    - https://www.linux.com/learn/many-ways-use-remote-desktop-x11vnc
-    - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
-    - http://xmonad.org/manpage.html
-
-*** TODO Cloud Computer
-    - https://c9.io/raynieva
-*** DONE Keyboard Issue
-
-*** DONE Printer
-    - [X] Make sure printer is off after finally using.
-*** DONE Fixed Computer Cooling Issue
-    - Keep on cool hard surface
-    - Use freeze pak to cool down
-    - Turn off computer at night
 ** TODO Mind and Body Rituals, Health and Attitude Development
 
 *** TODO IBS
@@ -127,7 +79,54 @@
 *** TODO http://adam.nz/library/in_the_beginning_was_the_command_line
 
 *** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
-** TODO Check Email and Communications
+** DONE Have Coffee [1/3]
+   - [X] 1st cup
+   - [ ] 2nd cup
+   - [ ] 3rd cup
+
+
+     
+** DONE System and Network Administration and Personal Desktop Support
+   - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
+   - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
+   - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
+   - System File checker command "sfc /scannow"
+   - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
+   - http://www.duplicati.com/howtos
+   - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
+   - http://www.geoffchappell.com/studies/windows/shell/explorer/cmdline.htm
+   - http://www.sevenforums.com/tutorials/110919-clsid-key-list-windows-7-a.html
+   - http://www.tenforums.com/tutorials/3123-clsid-key-guid-shortcuts-list-windows-10-a.html
+   - Click Start , type gpedit.msc in the Start Search box, and then press ENTER (May only work with Windows Pro versions)
+   - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
+   - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
+   - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
+
+
+*** TODO Routine System Operation to Optimize systems
+
+*** TODO Work on Other Computer
+    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
+    - Trying to increase files space, but blue screen of death issues. RESOLVED
+    - Need to think of alternative boot options first. RESOLVED
+    - ssh ray@ray-K55A  (secure login)
+    - (start-process "aname" nil "remotePageflex")
+    - https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04
+    - https://www.linux.com/learn/many-ways-use-remote-desktop-x11vnc
+    - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
+    - http://xmonad.org/manpage.html
+
+*** TODO Cloud Computer
+    - https://c9.io/raynieva
+*** DONE Keyboard Issue
+
+*** DONE Printer
+    - [X] Make sure printer is off after finally using.
+*** DONE Fixed Computer Cooling Issue
+    - Keep on cool hard surface
+    - Use freeze pak to cool down
+    - Turn off computer at night
+** DONE Check Email and Communications
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
@@ -174,16 +173,16 @@
 
 
 ** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-<<<<<<< HEAD
+
 ** End Task
 
 
  
 <<<<<<< HEAD
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** TODO Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
@@ -209,7 +208,7 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
@@ -245,6 +244,29 @@
      DEADLINE: <2016-06-08 Wed> at 9:15 AM Need to reschedule
 **** TODO Ace the Interview
      DEADLINE: <2016-06-15 Wed> at 9:15 AM
+
+*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
+    - Login to PWS
+    - cpanel
+      [[https://cloud8.hostgator.com:2083/][cpanel]]
+    - [X] Was able to change by going to "settings" and putting the correct nameservers
+      also found the error when using mxtoolbox.
+    - [X] Removed Fetch Mail as cannot set-up SSL
+    - [X] Originally set-up Under Construction Website now using a redirector to LinkedIN via .htaccess
+
+**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
+    - http://rgnterprises.net This is currently using a redirector via .htaccess.
+    - http://rgnterprises.net/wordpress/wp-login.php
+    - http://rgnterprises.net/joomla
+    - http://rgnterprises.net/drupal
+    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
+    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
+    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
+    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
+    - http://www.apps4rent.com/affiliate-program.html
+    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
+    - http://ezgif.com/
+    - https://resources.biznessapps.com/h/
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
 **** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
@@ -522,29 +544,6 @@ peed SQL Query.exe"
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
-*** TODO Set-up rgnterprises mail in Thunderbird and Admin Website
-    - Login to PWS
-    - cpanel
-      [[https://cloud8.hostgator.com:2083/][cpanel]]
-    - [X] Was able to change by going to "settings" and putting the correct nameservers
-      also found the error when using mxtoolbox.
-    - [X] Removed Fetch Mail as cannot set-up SSL
-    - [X] Set-up Under Construction Website
-
-**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
-    - http://rgnterprises.net
-    - http://rgnterprises.net/wordpress/wp-login.php
-    - http://rgnterprises.net/joomla
-    - http://rgnterprises.net/drupal
-    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
-    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
-    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
-    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
-    - http://www.apps4rent.com/affiliate-program.html
-    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
-    - http://ezgif.com/
-    - https://resources.biznessapps.com/h/
-
 *** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
@@ -585,7 +584,7 @@ call 800-874-8822
    - [ ] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
 ** TODO Return Bottles
 ** DONE Doctors Appointment
-* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
    - Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
@@ -650,7 +649,7 @@ call 800-874-8822
 
   
 
-* TODO Joan Time						   :Home:Car:
+* DONE Joan Time						   :Home:Car:
 
 ** TODO Power Pressure Cooker
 

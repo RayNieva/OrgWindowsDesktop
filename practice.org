@@ -7,9 +7,9 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
+** DONE Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** DONE GTD Stuff
+*** TODO GTD Stuff
 **** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
@@ -88,6 +88,9 @@
      
 ** DONE System and Network Administration and Personal Desktop Support
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload)
+   - https://www.computerhope.com/unix/utar.htm
+   - http://www.tecmint.com/18-tar-command-examples-in-linux/
+   - https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
    - System File checker command "sfc /scannow"
@@ -126,7 +129,7 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** DONE Check Email and Communications
+** TODO Check Email and Communications
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
@@ -139,7 +142,7 @@
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
-** DONE Check Accounts and Budget
+** TODO Check Accounts and Budget
 
 *** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
@@ -153,8 +156,8 @@
 
 
 ** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
@@ -162,12 +165,12 @@
 
 *** TODO Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** TODO Cut Lawn
+*** DONE Cut Lawn
 *** DONE Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 
@@ -182,16 +185,16 @@
 * DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
-    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  
+    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  Last year was 2016-02-10
     - https://www.resumerabbit.com/go/login
+    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - https://www.flexjobs.com/
     - http://www.careerbuilder.com/
     - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
-    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
     - https://my.indeed.com/resume
-    - https://www.flexjobs.com/
     - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
@@ -208,7 +211,7 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
@@ -245,7 +248,7 @@
 **** TODO Ace the Interview
      DEADLINE: <2016-06-15 Wed> at 9:15 AM
 
-*** DONE [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
+*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
     - cpanel
       [[https://cloud8.hostgator.com:2083/][cpanel]]
@@ -269,24 +272,9 @@
     - https://resources.biznessapps.com/h/
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
-     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+**** TODO XML/XSLT
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
@@ -331,17 +319,24 @@
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-**** TODO XML/XSLT
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-
-**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
-     - http://www.seleniumhq.org/
-     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
-     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
 
        
 
@@ -355,21 +350,6 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
-**** TODO Developer Force.com
-     - Step 1. http://developer.force.com
-     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
-     - Step 3. Go to Tutorials Trailhead
-     - Step 4. Select Course of Study
-
-**** TODO Windows Enterprise Server Administration
-     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
-     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-
-**** TODO Visual Studio and .NET CSharp etc... 
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-**** TODO Concept of Workflow Automation
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
@@ -385,6 +365,29 @@ peed SQL Query.exe"
      - JIRA https://www.atlassian.com/software/jira/try Free for first month.
      - https://theagileadmin.com/what-is-devops/
      - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
+
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+
+**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
+     - http://www.seleniumhq.org/
+     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
+     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
+**** TODO Developer Force.com
+     - Step 1. http://developer.force.com
+     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
+     - Step 3. Go to Tutorials Trailhead
+     - Step 4. Select Course of Study
+
+**** TODO Windows Enterprise Server Administration
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+
+**** TODO Visual Studio and .NET CSharp etc... 
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+**** TODO Concept of Workflow Automation
 
 **** TODO Powershell
      - Type Powershell on cmdline (storing history in bin)
@@ -589,13 +592,14 @@ call 800-874-8822
    - Talked to Counselor
    - Got information for Networking
    - Need to sign-up for ETR Activities
-   - [X] Went for Introductory session Seminar <2016-02-22 Mon> at 9:30 AM
-   - [X] Mandatory RESEA Meeting <2016-03-01 Tue>
-   - [X] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
-   - [X] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
-   - [X] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
-   - [X] Initiated TOPs <2016-05-09 Mon> Might be too late.
-   - [X] Now assigned to Career Advisor Joyce K
+   - [ ] Sign up Before 5/19/2017 See file://C:/Users/Ray/Downloads/UI%20Online%20-%20Doc_20170501094435.pdf
+   - [ ] Went for Introductory session Seminar <2016-02-22 Mon> at 9:30 AM
+   - [ ] Mandatory RESEA Meeting <2016-03-01 Tue>
+   - [ ] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
+   - [ ] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
+   - [ ] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
+   - [ ] Initiated TOPs <2016-05-09 Mon> Might be too late.
+   - [ ] Now assigned to Career Advisor Joyce K
 
 
 

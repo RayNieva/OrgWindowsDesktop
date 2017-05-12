@@ -7,11 +7,12 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
+** TODO Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
-**** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
+*** DONE GTD Stuff
+**** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
+    - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
     - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
     - More about Org-mode [[Learn-Org-Mode]]
     - http://gettingthingsdone.com/2015/06/podcast-05-gtd-and-daily-habits/  Podcast #5 – GTD and Daily Habits
@@ -36,7 +37,6 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-<<<<<<< HEAD
 ** TODO Mind and Body Rituals, Health and Attitude Development
 
 *** TODO IBS
@@ -133,11 +133,11 @@
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
-   * Thunderbird (shell-command "start thunderbird.exe")
+   - Thunderbird (shell-command "start thunderbird.exe")
      * Need to address certificate issue! RESOLVED BY RE-INSTALL <2016-05-31 Tue>
      * Have configured Live Mail, rgnterprises mail and Comcast
-   * Check Sidekick https://app.getsidekick.com/stream/all
-   * LG Phone http://web.airdroid.com/
+   - Check Sidekick https://app.getsidekick.com/stream/all
+   - LG Phone http://web.airdroid.com/
      * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
 
 *** TODO Check Texting on Landline
@@ -185,7 +185,7 @@
 * DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  Last year was 2016-02-10
@@ -211,7 +211,7 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
@@ -270,14 +270,21 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
-**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+
+**** DONE Visual Studio and .NET CSharp etc... 
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+**** DONE Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
+***** TODO http://ergoemacs.org/emacs/elisp_basics.html
 ***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
 ***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
 ***** TODO Install and Learn Yasnippet
@@ -382,11 +389,6 @@ peed SQL Query.exe"
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-
-**** TODO Visual Studio and .NET CSharp etc... 
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
 **** TODO Concept of Workflow Automation
 
 **** TODO Powershell

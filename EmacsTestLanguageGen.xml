@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="EmacsTestLanguageGen.xslt"?>
+
+<rootnode>
+
+
+
+
+** <!--printing-->
+<message>(message "hello world")
+<sample id="1">(message "My list is: %S" (list 8 2 3))</sample>
+</message>
+
+<calculation>
+    <list>(list 82 3 4 5)</list>
+    
+    <arithmetic>
+    (+ 3 4 5)
+    (- 9 2 3)
+    (* 2 3 2)
+    (/ 7 2.0)
+    (% 7 2)
+    (expt 2 3) 
+    <note>WARNING: single digit decimal number such as 2. needs a zero after the dot, like this: 2.0. For example, (/ 7 2.) returns 3, not 3.5.
+    Also note that lisp calculations do not seem to work in nXML mode.
+    </note> 
+
+    ;; 3. is a integer, 3.0 is a float
+    (integerp 3.) ; returns t
+    (floatp 3.) ; returns nil
+    (floatp 3.0) ; returns t
+    <note>Function names that end with a “p” often means it return either true or false. (The “p” stands for “predicate”) t means true; nil means false. 
+    </note>
+    </arithmetic>
+ 
+  </calculation>
+
+** <!--Branching And Decison Making-->
+
+<if>(if (> 4 6)                               ; if-part
+
+         (message "4 falsely greater than 5!") ; then-part
+       (message "4 is not greater than 5!"))   ; else-part</if>
+
+
+
+** <!--Loops and Recursion-->
+
+</rootnode>

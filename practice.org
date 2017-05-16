@@ -7,7 +7,7 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
+** DONE Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
 *** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
@@ -129,7 +129,9 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** TODO Check Email and Communications
+** DONE Check Email and Communications
+*** TODO Activate new phone
+*** DONE Mail and Other stuff:
    [[https://gmail.com][- gmail]]
 
    - https://rgnterprises.net:2096 Webmail
@@ -156,8 +158,8 @@
 
 
 ** TODO Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
+*** TODO Take Dog out feed animals
+*** TODO Clean Cat Box
 
 *** TODO Brush Teeth and Oral Hygiene
 
@@ -165,13 +167,13 @@
 
 *** TODO Take shower
 
-*** DONE Kitchen Clean-up
+*** TODO Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** DONE Cut Lawn
-*** DONE Take Out Trash and/or Recycling
+*** TODO Cut Lawn
+*** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 
 
@@ -185,7 +187,7 @@
 * DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  Last year was 2016-02-10
@@ -270,18 +272,39 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+
+**** DONE ROR Ruby on Rails <<Ruby-on-Rails>>
+     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - file://c:/users/ray/bin/practice.rb
+     - http://ruby.bastardsbook.com/chapters/loops/
+     - http://ruby.bastardsbook.com/chapters/methods/
+
+***** DONE http://installfest.railsbridge.org/installfest/windows
+
+***** DONE http://railsapps.github.io/installing-rails.html
+
+***** DONE http://railsapps.github.io/what-is-ruby-rails.html
+      
+***** TODO Ruby on Rails Tutorial [0/1]
+      1. [ ] https://www.railstutorial.org/book/beginning
+
+***** TODO http://railsinstaller.org/en RailsInstaller
+
+***** TODO http://guides.rubyonrails.org/getting_started.html
+
+***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
 **** TODO XML/XSLT
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 
-**** DONE Visual Studio and .NET CSharp etc... 
+**** TODO Visual Studio and .NET CSharp etc (including C)... 
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-**** DONE Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
 
 ***** TODO http://ergoemacs.org/emacs/elisp_basics.html
@@ -326,6 +349,13 @@
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+
+**** TODO Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
+     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+     - Chocolatey
+     - http://www.powershellmagazine.com/
 **** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
      - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
@@ -390,12 +420,6 @@ peed SQL Query.exe"
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 **** TODO Concept of Workflow Automation
-
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-     - Chocolatey
 
 
 
@@ -480,27 +504,6 @@ peed SQL Query.exe"
      - https://www.youtube.com/watch?v=vNHpsC5ng_E Design Patterns
      - http://phrogz.net/programmingruby/frameset.html Great Overview of Ruby Objects
      - http://www.tentackle.org/html/en/t_rails.html Tentackle
-
-**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
-     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
-     - file://c:/users/ray/bin/practice.rb
-     - http://ruby.bastardsbook.com/chapters/loops/
-     - http://ruby.bastardsbook.com/chapters/methods/
-
-***** DONE http://installfest.railsbridge.org/installfest/windows
-
-***** DONE http://railsapps.github.io/installing-rails.html
-
-***** DONE http://railsapps.github.io/what-is-ruby-rails.html
-      
-***** TODO Ruby on Rails Tutorial [0/1]
-      1. [ ] https://www.railstutorial.org/book/beginning
-
-***** TODO http://railsinstaller.org/en RailsInstaller
-
-***** TODO http://guides.rubyonrails.org/getting_started.html
-
-***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 **** TODO Spiceworks
      - http://www.spiceworks.com (login company is RGNterprises.net)
 
@@ -564,12 +567,13 @@ peed SQL Query.exe"
 
 * TODO Car Maintenance						   :Car:Home:
 
-** TODO Snow Tires
+** TODO Get Copy of Auto Policy to Raymond  
+** DONE Need to get copy of Extended Warranty from Toyota Finance
+call 800-874-8822
+** DONE Snow Tires
 
 ** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
 ** DONE Accident Report
-** TODO Need to get copy of Extended Warranty from Toyota Finance
-call 800-874-8822
 
 * TODO Grocery Shopping and Run Errands					:Car:
    - [ ] Coffee 
@@ -655,8 +659,10 @@ call 800-874-8822
 
   
 
-* DONE Joan Time						   :Home:Car:
+* TODO Joan Time						   :Home:Car:
 
+** TODO Get Associate Membership info for Joan   
+** TODO Hang Curtain Rods
 ** TODO Power Pressure Cooker
 
 ** DONE Light Bulbs in Bathroom

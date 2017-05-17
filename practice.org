@@ -7,7 +7,7 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** DONE Time Management
+** TODO Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
 *** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
@@ -39,9 +39,8 @@
 
 ** TODO Mind and Body Rituals, Health and Attitude Development
 
-*** TODO IBS
-
-    
+*** TODO Health Insurance
+*** TODO IBS    
 *** TODO Meditate
 [[  - https://youtube.com]]
   - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
@@ -129,7 +128,7 @@
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
-** DONE Check Email and Communications
+** TODO Check Email and Communications
 *** TODO Activate new phone
 *** DONE Mail and Other stuff:
    [[https://gmail.com][- gmail]]
@@ -146,7 +145,7 @@
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
 ** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -158,21 +157,21 @@
 
 
 ** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
-*** TODO Take shower
+*** DONE Take shower
 
-*** TODO Kitchen Clean-up
+*** DONE Kitchen Clean-up
 *** TODO Do Laundry
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** TODO Cut Lawn
+*** DONE Cut Lawn
 *** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 
@@ -190,22 +189,23 @@
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
-    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2016-02-10 Wed>  Last year was 2016-02-10
+    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2017-04-18 Tue>  Last year was 2016-02-10
     - https://www.resumerabbit.com/go/login
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true
     - https://www.flexjobs.com/
     - http://www.careerbuilder.com/
     - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
     - https://my.indeed.com/resume
+    - https://managementconsulted.com/ Professional Jobseeking at a very "High Level".
     - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
     - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
     - Create Persuasive Cover Letter Template(s)
     - Job request ID 11978529
-    - Mandatory Introductory Seminar on <2016-02-22 Mon 09:30>
+    - Mandatory Introductory Seminar on <2017-05-16 Tue 09:30>
     - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
     - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - Mandatory RESEA Meeting <2016-03-01 Tue>
+    - Mandatory RESEA Meeting <2017-05-24 Wed>
     - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
     - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
     - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
@@ -272,10 +272,11 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
 **** DONE ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - file://c:/users/ray/documents/projects/ruby
      - file://c:/users/ray/bin/practice.rb
      - http://ruby.bastardsbook.com/chapters/loops/
      - http://ruby.bastardsbook.com/chapters/methods/
@@ -306,7 +307,7 @@
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
 **** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
-
+      - file://c:/users/ray/documents/projects/lisp
 ***** TODO http://ergoemacs.org/emacs/elisp_basics.html
 ***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
 ***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
@@ -593,8 +594,8 @@ call 800-874-8822
    - [ ] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
 ** TODO Return Bottles
 ** DONE Doctors Appointment
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
-   - Registered in Jobquest
+* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+   - [ ]Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
    - Need to sign-up for ETR Activities

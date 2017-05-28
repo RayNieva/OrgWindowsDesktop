@@ -7,9 +7,9 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** TODO Time Management
+** DONE [#A] Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
@@ -108,7 +108,7 @@
 
 *** TODO Routine System Operation to Optimize systems
 
-*** TODO Work on Other Computer
+*** DONE Work on Other Computer/Devices (Phone and Tablet too)
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
@@ -129,7 +129,7 @@
 
 *** DONE Printer
     - [X] Make sure printer is off after finally using.
-** TODO Check Email and Communications
+** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
    [[https://gmail.com][- gmail]]
 
@@ -144,7 +144,7 @@
 
 *** TODO Check Texting on Landline
     - [[http://my.xfinity.com/?cid=cust][Comcast]]
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
 *** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
@@ -157,11 +157,11 @@
     
 
 
-** TODO Household, Health and Hygiene
-*** TODO Take Dog out feed animals
-*** TODO Clean Cat Box
+** DONE Household, Health and Hygiene
+*** DONE Take Dog out feed animals
+*** DONE Clean Cat Box
 
-*** TODO Brush Teeth and Oral Hygiene
+*** DONE Brush Teeth and Oral Hygiene
 
 *** TODO Prescription Medicine
 
@@ -174,11 +174,11 @@
 
 *** TODO Bathroom Clean-up
 *** TODO Vacuum Floor
-*** TODO Cut Lawn
+*** DONE Cut Lawn
 *** TODO Take Out Trash and/or Recycling
 *** TODO Clean-up Shoveling
 
-** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 
 ** End Task
 
@@ -214,7 +214,14 @@
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 
-**** DONE Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
+**** TODO Training Opportunities Program
+**** TODO Using Age to Advantage			     :Framingham:Car:
+     DEADLINE: <2017-05-24 Wed> at 9:15 AM Need to reschedule
+**** TODO Ace the Interview				     :Framingham:Car:
+     DEADLINE: <2017-06-01 Thu> at 9:15 AM
+
+**** DONE Developing Self Marketing Pitch		:Framingham:Car:Home:
+**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
     - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
     - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
     - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
@@ -235,21 +242,15 @@
       - [ ] Twitter
       - [ ] Facebook
       - [ ] Article Directories
-**** TODO Training Opportunities Program
+**** TODO ETRCC Meeting on Resumes 			     :Framingham:Car:
+     DEADLINE: <2017-06-01 Thu> at 9:15 AM
 
-**** TODO ETRR Meeting on Resumes			     :Framingham:Car:
-     DEADLINE: <2016-03-22 Tue> at 9:15 AM
-
-**** TODO ETRR Meeting on Cover Letters			     :Framingham:Car:
-     DEADLINE: <2016-03-24 Thu> at 9:15 AM
-**** TODO Electronice Resume 
-     DEADLINE: <2016-04-12 Tue> at 9:15 AM  Need to reschedule this workshop.
+**** TODO ETRCC Meeting on Cover Letters 		     :Framingham:Car:
+     DEADLINE: <2017-06-01 Thu> at 9:15 AM
+**** TODO Electronics Resume 
+     DEADLINE: <2017-06-01 Thu> at 9:15 AM  Need to reschedule this workshop.
 **** TODO Avoiding Black Hole 
-     DEADLINE: <2016-06-06 Mon> at 9:15 AM 
-**** TODO Using Age to Advantage
-     DEADLINE: <2016-06-08 Wed> at 9:15 AM Need to reschedule
-**** TODO Ace the Interview
-     DEADLINE: <2016-06-15 Wed> at 9:15 AM
+     DEADLINE: <2017-06-01 Thu> at 9:15 AM 
 
 *** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
@@ -275,9 +276,11 @@
     - https://resources.biznessapps.com/h/
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
-       
 
-**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
+
+
 ***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
      1. runas /user:raynieva2\admin cmd
      2. services.msc (in new admin command shell) start appropriate service for SQL Server
@@ -288,8 +291,18 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
+**** TODO Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - http://www.flowgorithm.org/
 
-**** TODO XML/XSLT
+**** TODO Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
+     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+     - Chocolatey
+     - http://www.powershellmagazine.com/
+
+**** TODO XML/XSLT, JSON and YAML
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
@@ -369,13 +382,6 @@ peed SQL Query.exe"
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-     - Chocolatey
-     - http://www.powershellmagazine.com/
 **** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
      - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
@@ -556,7 +562,7 @@ peed SQL Query.exe"
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
-*** DONE Freelance Research Top Ideas and Recreation.
+*** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Sexual Energy Sublimation (Also related to NLP Anchoring?)
@@ -568,17 +574,34 @@ peed SQL Query.exe"
 
 
 *** End Task
+     
 
-* TODO Car Maintenance						   :Car:Home:
+  
 
-** TODO Get Copy of Auto Policy to Raymond  
-** DONE Have Brian Check tire
-** DONE Need to get copy of Extended Warranty from Toyota Finance
-call 800-874-8822
-** DONE Snow Tires
+* TODO Joan Time						   :Home:Car:
 
-** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
-** DONE Accident Report
+** TODO Get Associate Membership info for Joan   
+** TODO Hang Curtain Rods
+** TODO Bird Feeder Bracket
+** TODO Power Pressure Cooker
+
+** DONE Light Bulbs in Bathroom
+
+** DONE Go to Maine with Joan					  :Car:Maine:
+
+** DONE Prepare for Appraisal
+** DONE Birthdays Help Joan
+   - [X] Kelly and Pam
+   - [X] Frederick (Spent 2 days almost all weekend on this)
+   - [X] Kim
+
+** DONE Upstairs Consolidate Boxes
+** DONE Send Message to Raymond  http://comcast.net 
+** DONE Breakdown cellphone bill - make a spreadsheet and need to write letter
+** DONE Easter
+** DONE Doctors Appt with Joan
+** DONE Go to Bank with Joan
+** DONE Help Joan with Taxes
 
 * TODO Grocery Shopping and Run Errands					:Car:
    - [ ] Coffee 
@@ -598,8 +621,19 @@ call 800-874-8822
    - [ ] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
 ** TODO Return Bottles
 ** DONE Doctors Appointment
+
+* TODO Car Maintenance						   :Car:Home:
+
+** TODO Get Copy of Auto Policy to Raymond  
+** DONE Have Brian Check tire
+** DONE Need to get copy of Extended Warranty from Toyota Finance
+call 800-874-8822
+** DONE Snow Tires
+
+** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
+** DONE Accident Report
 * TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
-   - [ ]Registered in Jobquest
+   - [X]Registered in Jobquest
    - Talked to Counselor
    - Got information for Networking
    - Need to sign-up for ETR Activities
@@ -660,34 +694,6 @@ call 800-874-8822
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-     
-
-  
-
-* TODO Joan Time						   :Home:Car:
-
-** TODO Get Associate Membership info for Joan   
-** TODO Hang Curtain Rods
-** TODO Bird Feeder Bracket
-** TODO Power Pressure Cooker
-
-** DONE Light Bulbs in Bathroom
-
-** DONE Go to Maine with Joan					  :Car:Maine:
-
-** DONE Prepare for Appraisal
-** DONE Birthdays Help Joan
-   - [X] Kelly and Pam
-   - [X] Frederick (Spent 2 days almost all weekend on this)
-   - [ ] Kim
-
-** DONE Upstairs Consolidate Boxes
-** DONE Send Message to Raymond  http://comcast.net 
-** DONE Breakdown cellphone bill - make a spreadsheet and need to write letter
-** DONE Easter
-** DONE Doctors Appt with Joan
-** DONE Go to Bank with Joan
-** DONE Help Joan with Taxes
 * TODO Family Time						   :Home:Car:
 ** TODO Christmas
     -  http://www.worldmarket.com/category/gifts-accessories/gift-wrap/create-a-gift.do     

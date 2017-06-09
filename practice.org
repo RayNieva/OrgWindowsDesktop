@@ -124,8 +124,9 @@
 
 *** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
-    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
+    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2017-04-18 Tue>  Last year was 2016-02-10
+    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org
     - https://www.resumerabbit.com/go/login
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true
     - https://www.flexjobs.com/
@@ -144,7 +145,6 @@
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org
 *** End Task
 * TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
 ** TODO Private file://c:/users/ray/appdata/roaming/org/network.org

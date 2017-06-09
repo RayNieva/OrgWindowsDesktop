@@ -37,47 +37,10 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Mind and Body Rituals, Health and Attitude Development
+** DONE Mind/Body Rituals, Health and Attitude Development
 
-*** TODO Health Insurance
-*** TODO Meditate
-[[  - https://youtube.com]]
-  - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
-[[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][  - Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
-[[https://www.youtube.com/watch?v=tOQaVSX-N4c][  - CALMING OUR MINDS: Relaxing mindful life & RELAXATION]]
-[[https://www.youtube.com/watch?v=uPWqs8hOzmQ][  - Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
-   - https://www.youtube.com/watch?v=iCJkTXS4LoA  Powerful: Confidence Spoken Affirmations with binaural tones for Healthy Self-esteem
-*** TODO IBS    
+*** Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
-*** TODO Learning About Chi (Can be a feeling of Empowerment too!
-    - https://www.youtube.com/watch?v=dfy2Tn52sxU  Power of Meditation: Qigong Master Chi Energy
-    - https://www.youtube.com/watch?v=Wqdg3i3QsBk  Part 1- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy video series
-    - [[https://www.youtube.com/watch?v=Wg3uZgx6f4g&ebc=ANyPxKp3_CnvhYZNsXif1CouZ3K2H2Ms316jBl2w12p6redN7tOp-W4ol0wgJFuE-RvN2BZfVkGbWwYrjOQQ-yLMBTdy_FHwlw#t=293.123061][Part 4- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy]]    
-    - [[https://www.youtube.com/watch?v=pLAg2pV2qMU][Part 6- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy]]    
-
-*** TODO Look at NLP and Psychological training
-    - [[https://www.youtube.com/watch?v=f81dxIXADfc][NLP Techniques: How to eliminate unwanted thoughts ]]
-    - [[https://www.youtube.com/watch?v=LJkwbq8Nsw8][How to get really good at anything - a powerful NLP "meta strategy" ]]
-    - [[https://www.youtube.com/watch?v=MldFdYzyIuk][How To Hypnotize Anyone Secretly]]
-    - [[https://www.youtube.com/watch?v=y1m_Jgkrz_A][How to Breakthrough a Limiting Belief in 6 Steps using Neuro Linguistic Programming ]]
-    - https://www.youtube.com/watch?v=EWqjUQrxCKo NLP Techniques: Embedded Commands & Suggestions How To Do Them
-    - https://www.youtube.com/watch?v=S-mo9r2tMwo Hypnotic Language Patterns that Work? - Covert Hypnosis - Kevin Hogan
-    - https://www.youtube.com/watch?v=67--22ys1S4 7 Magic Phrases of Persuasion with Kevin Hogan
-    - https://www.youtube.com/watch?v=YOzuun3dgX4 NLP - Power Reading and Power Writing
-    - https://www.youtube.com/watch?v=jaGJNxCxB-s Persuasive Writing
-    - Anchoring and added more research in the Swish pattern.
-    - https://www.youtube.com/watch?v=M3szqVVeNzw Self Help - How Self-Help Can Revolutionize Your Entire Life
-    - https://www.youtube.com/watch?v=FoYs1YqQI7w  The Power Of Routines - How Your Daily Routine Holds You Back From Your Dreams
-    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-
-*** TODO http://www.catb.org/~esr/faqs/hacker-howto.html  How To Become a Hacker
-    - file://C:/Users/Ray/Downloads/Teach%20Yourself%20Programming%20in%20Ten%20Years.htm
-
-*** TODO http://adam.nz/library/in_the_beginning_was_the_command_line
-
-*** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
-*** TODO SuperMemory
-    -  http://www.super-memory.com/
 ** DONE Have Coffee [1/3]
    - [X] 1st cup
    - [ ] 2nd cup
@@ -86,6 +49,7 @@
 
      
 ** DONE System and Network Administration and Personal Desktop Support
+   - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
    - http://www.tecmint.com/18-tar-command-examples-in-linux/
@@ -108,7 +72,7 @@
 
 *** TODO Routine System Operation to Optimize systems
 
-*** DONE Work on Other Computer/Devices (Phone and Tablet too)
+*** TODO Work on Other Computer/Devices (Phone and Tablet too)
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
@@ -130,20 +94,8 @@
 *** DONE Printer
     - [X] Make sure printer is off after finally using.
 ** DONE Check Email and Communications
-*** TODO Mail and Other stuff:
-   [[https://gmail.com][- gmail]]
-
-   - https://rgnterprises.net:2096 Webmail
-   - Thunderbird (shell-command "start thunderbird.exe")
-     * Need to address certificate issue! RESOLVED BY RE-INSTALL <2016-05-31 Tue>
-     * Have configured Live Mail, rgnterprises mail and Comcast
-   - Check Sidekick https://app.getsidekick.com/stream/all
-   - LG Phone http://web.airdroid.com/
-     * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
-*** DONE Activate new phone
-
-*** TODO Check Texting on Landline
-    - [[http://my.xfinity.com/?cid=cust][Comcast]]
+*** DONE Mail and Other stuff:
+**** Private Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** DONE Check Accounts and Budget
 
 *** DONE Budgeting and Bills
@@ -151,43 +103,26 @@
 
 
 [[https://www.wcu.com/home/home][WCU]]
+     
+
+  
+
+** DONE Private Planning
+*** Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 
 
 
     
 
 
-** DONE Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
-
-*** DONE Brush Teeth and Oral Hygiene
-
-*** TODO Prescription Medicine
-
-*** TODO Take shower
-
-*** TODO Kitchen Clean-up
-
-*** TODO Kitchen Tile Project
-*** TODO Do Laundry
-
-*** TODO Bathroom Clean-up
-*** TODO Vacuum Floor
-*** DONE Cut Lawn
-*** TODO Take Out Trash and/or Recycling
-*** TODO Clean-up Shoveling
-
-** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
-
 ** End Task
 
 
  
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS 		       :Home:
 
 
-*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
     - [http://www.etrcc.com] Initial visit to Framingham ETRR<2017-04-18 Tue>  Last year was 2016-02-10
@@ -274,10 +209,29 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
 
-**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE Visual Studio and .NET CSharp etc (including C)... 
+     - file://c:/users/ray/documents/projects/c
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+
+**** TODO Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
+     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
+     - https://www.codykonior.com/
+     - Chocolatey
+     - http://www.powershellmagazine.com/
+**** TODO Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - Local installed program http://www.flowgorithm.org/
+     - In Reverse  https://code2flow.com/app
+
+**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
 
 
@@ -291,16 +245,6 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
-**** TODO Learning Flowgorithm and other VPLs
-     - https://en.wikipedia.org/wiki/Flowgorithm
-     - http://www.flowgorithm.org/
-
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-     - Chocolatey
-     - http://www.powershellmagazine.com/
 
 **** TODO XML/XSLT, JSON and YAML
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
@@ -350,13 +294,6 @@ peed SQL Query.exe"
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-
-**** TODO Visual Studio and .NET CSharp etc (including C)... 
-     - file://c:/users/ray/documents/projects/c
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
 
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
@@ -574,85 +511,22 @@ peed SQL Query.exe"
 
 
 *** End Task
-     
-
-  
-
-* TODO Joan Time						   :Home:Car:
-
-** TODO Get Associate Membership info for Joan   
-** TODO Hang Curtain Rods
-** TODO Bird Feeder Bracket
-** TODO Power Pressure Cooker
-
-** DONE Light Bulbs in Bathroom
-
-** DONE Go to Maine with Joan					  :Car:Maine:
-
-** DONE Prepare for Appraisal
-** DONE Birthdays Help Joan
-   - [X] Kelly and Pam
-   - [X] Frederick (Spent 2 days almost all weekend on this)
-   - [X] Kim
-
-** DONE Upstairs Consolidate Boxes
-** DONE Send Message to Raymond  http://comcast.net 
-** DONE Breakdown cellphone bill - make a spreadsheet and need to write letter
-** DONE Easter
-** DONE Doctors Appt with Joan
-** DONE Go to Bank with Joan
-** DONE Help Joan with Taxes
-
-* TODO Grocery Shopping and Run Errands					:Car:
-   - [ ] Coffee 
-   - [ ] Creamer
-   - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
-   - [ ] Chuck roast, Pop corn butter 
-   - [ ] Chicago Hotdogs: Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
-   - [ ] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
-   - [ ] Cat litter 
-   - [ ] Sundry Items: Toilet Tissue, mouthwash, detergent, fabric softener
-   - [ ] Italian Sausages and French Bread
-   - [ ] Tempura: Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
-   - [ ] Propane?
-   - [ ] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
-   - [ ] Stuff for Tikki Masala plus, naan bread, greek style yogurt, coriander, nutmeg, cumin, ginger, cardoman, tomato puree, dishwasher liquid
-   - [ ] Stuff for Indian Soup, Reuben Sandwich and Coffee, creamer
-   - [ ] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
-** TODO Return Bottles
-** DONE Doctors Appointment
-
-* TODO Car Maintenance						   :Car:Home:
-
-** TODO Get Copy of Auto Policy to Raymond  
-** DONE Have Brian Check tire
-** DONE Need to get copy of Extended Warranty from Toyota Finance
-call 800-874-8822
-** DONE Snow Tires
-
-** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
-** DONE Accident Report
 * TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
-   - [X]Registered in Jobquest
-   - Talked to Counselor
-   - Got information for Networking
-   - Need to sign-up for ETR Activities
-   - [ ] Sign up Before 5/19/2017 See file://C:/Users/Ray/Downloads/UI%20Online%20-%20Doc_20170501094435.pdf
-   - [ ] Went for Introductory session Seminar <2016-02-22 Mon> at 9:30 AM
-   - [ ] Mandatory RESEA Meeting <2016-03-01 Tue>
-   - [ ] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
-   - [ ] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
-   - [ ] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
-   - [ ] Initiated TOPs <2016-05-09 Mon> Might be too late.
-   - [ ] Now assigned to Career Advisor Joyce K
+** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
-*** DONE Heat Sukiyaki
+** DONE Made Sukiyaki 
+   - Used Bobby Flay's recipe
+     - 1/2 cup soy sauce
+     - 1 to 1 1/2 cup broth (made from Udon Mix)
+     - 1/4 cup Mirin
+      
+
+
 *** DONE Dinner Made Stir Fry and fried rice
 *** DONE Made Leftovers into Lo Mein (Hot and Spicy)
 *** DONE Heated up on Turbo and then Nuwave Chicken and Brocoli with Tortellini soup
@@ -689,65 +563,14 @@ call 800-874-8822
 *** DONE From Leftover Chicken Tenkatsu made Chicken Supreme (Sauce converted from Bechamel Sauce and Home made chicken stock)
 
 *** DONE Chinese Leftover Smorkasbork with Thai Lo mein creation with shrimp.
-*** TODO Washed Dishes
-*** DONE Returned Bottles
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Family Time						   :Home:Car:
-** TODO Christmas
-    -  http://www.worldmarket.com/category/gifts-accessories/gift-wrap/create-a-gift.do     
-*** TODO Patience
-    - [ ] Large Gift Box
-    - [ ] Ribbon
-    - [ ] Check Stuff out
-        
-    
-*** TODO Babies
-    - [ ] 2 Large Gift Boxes
-    - [ ] Ribbons
-    - [ ] Check Stuff out
-    
-*** TODO Joan
-    - [ ] Home Depot Card - received
-    - [ ] Macy's Card - received
-    - [ ] Wine
-    - [ ] Yankee Candles
-*** TODO Ashley
-    - [ ] Beats and/or Gift card for Wireless Beats
-*** TODO Dan
-    - [ ] Received Callaway Gift Card
-*** TODO Tiffany and Family
-    - [ ] Phantom Gourmet Gift Card
-    - [ ] Check stuff out for baby
-*** TODO Raymond
-*** TODO XMas Eve Party
-
-
-** TODO [#A] Babies Birthday					   :Home:Car:
-*** DONE Make List
-    - [X] Idea Clothes for babies
-    - [X] Baskets for babies
-    - [X] Toys for babies
-    - [X] Easter theme?
-*** DONE Birthday Party and Prep
-    - [X] Make Baskets
-    - [X] Go to Party
-** TODO Family Visiting
     
       
 
 * TODO Go Home							   :Car:Home:
 
-** DONE Made Sukiyaki = Time Marker for initial visit to ETRR
-   - Used Bobby Flay's recipe
-     - 1/2 cup soy sauce
-     - 1 to 1 1/2 cup broth (made from Udon Mix)
-     - 1/4 cup Mirin
-     - 
-
-   DEADLINE: <2016-02-10 Wed>
-<<<<<<< HEAD
 * TODO Continue Working at Home Projects/Tasks 			       :Home:
 
 

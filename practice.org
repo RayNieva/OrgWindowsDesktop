@@ -125,7 +125,6 @@
 *** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
-    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2017-04-18 Tue>  Last year was 2016-02-10
     - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org
     - https://www.resumerabbit.com/go/login
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true

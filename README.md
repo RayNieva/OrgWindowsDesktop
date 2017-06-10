@@ -45,3 +45,9 @@ Another quote based on *Getting Things Done* and interpreted by Author: Francisc
 
 The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don't laugh! with the extension of these two single inventions the computer has become the single most powerful tool that is changing the face of the earth as we speak. Speaking more fundamentally what these are essentially is memory and the ability of computers to communicate with each other.
 
+### Some Tools:
+
+[binSnippets Repository](https://github.com/RayNieva/binSnippets)
+
+- [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb) is also an example of Excel VBA writing more VBA for Outlook too (output is automatically created in debug.print) Using code to write code.
+

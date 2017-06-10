@@ -38,3 +38,5 @@ The one item supporting _automation_ that is important:
 
 Another quote based on *Getting Things Done* and interpreted by Author: Francisco Saez
 [Keep Nothing in Your Head](https://facilethings.com/blog/en/habits)
+
+###So How Do I do this? You ask. (A Study in Automation)

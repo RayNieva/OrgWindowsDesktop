@@ -1,6 +1,6 @@
 # OrgWindowsDesktop
 ### EXPERIMENTAL - OrgWindowsDesktop - A Practical Study of integrated-multiplatform fat client/cloud server automation.
-
+![desktop](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/0128171145a.jpg)
 ### Manifesto
 
 I'm quoting a recently upvoted story from Quora

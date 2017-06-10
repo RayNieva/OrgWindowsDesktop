@@ -43,5 +43,5 @@ Another quote based on *Getting Things Done* and interpreted by Author: Francisc
 
 ### So How Do I do this? You ask. (A Study in Automation)
 
-The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don't laugh! with the extension of these two single inventions the computer has become the single most powerful tool that is changing the face of the earth as we speak. Speaking more fundamentally what these are essentially memory and the ability of computers to communicate with each other.
+The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don't laugh! with the extension of these two single inventions the computer has become the single most powerful tool that is changing the face of the earth as we speak. Speaking more fundamentally what these are essentially is memory and the ability of computers to communicate with each other.
 

@@ -4,6 +4,7 @@
 ### Manifesto
 
 I'm quoting a recently upvoted story from Quora
+=begin
 #### "How can I become a very good programmer?
 #### Paul Kolozsvari
 Paul Kolozsvari, worked at Motorola
@@ -30,6 +31,8 @@ code to get it to compile and run. If you¡¦re only working on someone else¡¦
 
 106.2k Views ¡P 1,120 Upvotes ¡P View Timeline"
 
+=end
+
 The one item supporting automation that is important: 
-"You won¡¦t become a good programmer by memorising code and algorithms. Programming is about thinking not about remembering. You can have the best memory, but if you¡¦re not thinking for yourself you¡¦ll NEVER be a good programmer i.e. we have computers and the internet to remember things for us, so there¡¦s no need for you to remember anything - you just need to know where and how to find the information you need."
+&nbsp;&nbsp;"You won¡¦t become a good programmer by memorising code and algorithms. Programming is about thinking not about &nbsp;&nbsp;remembering. You can have the best memory, but if you¡¦re not thinking for yourself you¡¦ll NEVER be a good &nbsp;&nbsp;programmer i.e. we have computers and the internet to remember things for us, so there¡¦s no need for you to &nbsp;&nbsp;remember anything - you just need to know where and how to find the information you need."
 

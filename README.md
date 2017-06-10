@@ -28,4 +28,8 @@ It is only through the process and struggle of bringing your own idea to life th
 
 code to get it to compile and run. If you¡¦re only working on someone else¡¦s code, or only reading books etc. you will lose your motivation very quickly and you will never find or utilize your talent."
 
-106.2k Views ¡P 1,120 Upvotes ¡P View Timeline
+106.2k Views ¡P 1,120 Upvotes ¡P View Timeline"
+
+The one item supporting automation that is important: 
+"You won¡¦t become a good programmer by memorising code and algorithms. Programming is about thinking not about remembering. You can have the best memory, but if you¡¦re not thinking for yourself you¡¦ll NEVER be a good programmer i.e. we have computers and the internet to remember things for us, so there¡¦s no need for you to remember anything - you just need to know where and how to find the information you need."
+

@@ -50,5 +50,6 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 [binSnippets Repository](https://github.com/RayNieva/binSnippets)
 
 - [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb)Developed at when I was at DA is also an example of Excel VBA writing more VBA for Outlook too (output is automatically created in debug.print) Using code to write code. Code generation don't write code twice to do essentially the same thing.
-- [Contacts Class](https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb) Also developed when I was at DA, Object Oriented (Ruby) essentially enables creating code that can be reused by another script.
+- [Contacts Class](https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb) Also developed when I was at DA, Object Oriented (Ruby) essentially enables creating code that can be reused by another script. [Aname.rb](https://github.com/RayNieva/binSnippets/blob/master/aname.rb) is a script that calls the methods in the Contacts class, but once created the Contacts class can be used in any script I can decide to create going forward in virtually any relevant application.
+
 

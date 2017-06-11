@@ -53,4 +53,5 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 - [Contacts Class](https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb) Also developed when I was at DA, Object Oriented (Ruby) essentially enables creating code that can be reused by another script. [Aname.rb](https://github.com/RayNieva/binSnippets/blob/master/aname.rb) is a script that calls the methods in the Contacts class, but once created the Contacts class can be used in any script I can decide to create going forward in virtually any relevant application.
 
 [Synergy](https://symless.com/synergy) 
+
 Creates the ultimate fat client. The computers in the photo above are two dual-boot Linux/Windows 7/Windows 10 computers. They can be mix and matched in any mode(Linux to Windows, Linux to Linux and Windows to Windows) and still share keyboard, mouse AND CLIPBOARD!  Futhermore if Synergy fails, the back-up is a hardware KVM. This is all possible thru the magic of _network protocols_ that even allows _memory sharing_ between two or more computers!

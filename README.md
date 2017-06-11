@@ -49,5 +49,5 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 [binSnippets Repository](https://github.com/RayNieva/binSnippets)
 
-- [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb) is also an example of Excel VBA writing more VBA for Outlook too (output is automatically created in debug.print) Using code to write code.
+- [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb) is also an example of Excel VBA writing more VBA for Outlook too (output is automatically created in debug.print) Using code to write code. Code generation don't write code twice to do essentially the same thing.
 

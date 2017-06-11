@@ -109,7 +109,6 @@
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
-[[https://www.wcu.com/home/home][WCU]]
 
 
 ** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]

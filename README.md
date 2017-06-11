@@ -58,6 +58,6 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 [Airdroid](https://www.airdroid.com/)
 
-[WebAirDroidwithAirMirror](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/AirDroid-Mirror.jpg)
+![WebAirDroidwithAirMirror](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/AirDroid-Mirror.jpg)
 
 - Not to leave devices out (BYOD) the tablet shown in the workstation image and my cellphone (above) join the party using Airdroid.

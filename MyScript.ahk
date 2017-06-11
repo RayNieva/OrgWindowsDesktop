@@ -2,12 +2,12 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
-::nm::Ray Nieva
-::strt::10 Winter St.
-::cty::Clinton, MA 01752
-::eml::raynieva@gmail.com
-::tel::978-365-7585
-::cel::978-763-5277
+::nm::Joe Blow
+::strt::10 Main St.
+::cty::Sometown, US 00000
+::eml::joeblow@gmail.com
+::tel::999-999-9999
+::cel::999-999-9999
 ::btw::
 MsgBox You typed "btw"
 return

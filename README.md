@@ -60,4 +60,4 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 ![WebAirDroidwithAirMirror](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/AirDroid-Mirror.jpg)
 
-- Not to leave devices out (BYOD) the tablet shown in the workstation image and my cellphone (above) join the party using Airdroid.
+- Not to leave devices out (BYOD) the tablet shown in the workstation image and my cellphone (above) join the party using Airdroid. Remote control your device using Airmirror without rooting your phone! Also using the Chrome ecosystem via Web.Airdroid.com (works in Linux and Windows). Share your Android storage, chat on your keyboard etc...

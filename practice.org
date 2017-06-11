@@ -103,9 +103,9 @@
 ** TODO Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Communications file://c:/users/ray/appdata/roaming/org/communications.org
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 

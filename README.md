@@ -54,4 +54,4 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 [Synergy](https://symless.com/synergy) 
 
-Creates the ultimate fat client. The computers in the photo above are two dual-boot Linux/Windows 7/Windows 10 computers. They can be mix and matched in any mode(Linux to Windows, Linux to Linux and Windows to Windows) and still share keyboard, mouse AND CLIPBOARD!  Futhermore if Synergy fails, the back-up is a hardware KVM. This is all possible thru the magic of _network protocols_ that even allows _memory sharing_ between two or more computers!
+- Creates the ultimate fat client. The computers in the photo above are two dual-boot Linux/Windows 7/Windows 10 computers. They can be mix and matched in any mode(Linux to Windows, Linux to Linux and Windows to Windows) and still share keyboard, mouse AND CLIPBOARD!  Futhermore if Synergy fails, the back-up is a hardware KVM. This is all possible thru the magic of _network protocols_ that even allows _memory sharing_ between two or more computers!

@@ -66,3 +66,8 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 ![WebAirDroidwithAirMirror](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/AirDroid-Mirror.jpg)
 
 - Not to leave devices out (BYOD) the tablet shown in the workstation image and my cellphone (above) join the party using Airdroid. Remote control your device using Airmirror without rooting your phone! Also using the Chrome ecosystem via Web.Airdroid.com (works in Linux and Windows). Share your Android storage, chat on your keyboard etc...
+
+### Ok.. So What is OrgWindows?
+
+- Org comes from Orgmode in Emacs. Windows (obviously is for the Windows platform) An OrgLinux version is
+planned for the near future. As I'm writing this README it's almost effortlessly edited/updated on Github via EMACS in Evil-mode. (See  my .emacs) The core or main planning guide (and how I remember things) is a dynamically changing document called practice.org. (So called as I used it to practice both VI and EMACS keystrokes for months on this document. (this is one of the few things I memorize). You only have have to ask around (on the internet) to find out about the power of EMACS and/or Orgmode.

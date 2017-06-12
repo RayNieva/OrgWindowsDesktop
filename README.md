@@ -69,5 +69,6 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 ### Ok.. So What is OrgWindows?
 
-- Org comes from Orgmode in Emacs. Windows (obviously is for the Windows platform) An OrgLinux version is
-planned for the near future. As I'm writing this README it's almost effortlessly edited/updated on Github via EMACS in Evil-mode. (See  my .emacs) The core or main planning guide (and how I remember things) is a dynamically changing document called practice.org. (So called as I used it to practice both VI and EMACS keystrokes for months on this document. (this is one of the few things I memorize). You only have have to ask around (on the internet) to find out about the power of EMACS and/or Orgmode.
+- Org comes from [Orgmode](http://orgmode.org/) in [Emacs](https://en.wikipedia.org/wiki/Emacs). Windows (obviously is for the Windows platform) An OrgLinux version is planned for the near future. As I'm writing this README it's almost effortlessly edited/updated on Github via EMACS in [Evil-mode](http://wikemacs.org/wiki/Evil). (See  my [.emacs](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/.emacs)) The core or main planning guide (and how I remember things) is a dynamically changing document called practice.org. (So called as I used it to practice both VI and EMACS keystrokes for months on this document. (this is one of the few things I memorize). You only have have to ask around (on the internet) to find out about the power of EMACS and/or Orgmode.
+
+- [Practice.org](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/practice.org) (a list of lists) is a main planning (and remembering) tool based on the spirit of David Allen's GTD ([Getting Things Done](http://gettingthingsdone.com/)). Empty your mind!

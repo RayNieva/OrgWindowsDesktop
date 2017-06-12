@@ -72,3 +72,9 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 - Org comes from [Orgmode](http://orgmode.org/) in [Emacs](https://en.wikipedia.org/wiki/Emacs). Windows (obviously is for the Windows platform) An OrgLinux version is planned for the near future. As I'm writing this README it's almost effortlessly edited/updated on Github via EMACS in [Evil-mode](http://wikemacs.org/wiki/Evil). (See  my [.emacs](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/.emacs)) The core or main planning guide (and how I remember things) is a dynamically changing document called practice.org. (So called as I used it to practice both VI and EMACS keystrokes for months on this document. (this is one of the few things I memorize). You only have have to ask around (on the internet) to find out about the power of EMACS and/or Orgmode. _Desktop_ refers to your complete work environment of computers/servers/cloud resources/attached devices, virtual and network resources. This concept favors a sort of peer to peer relationship between a _very fat client and connection to that supercomputer we call the internet_.
 
 - [Practice.org](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/practice.org) (a list of lists) is a main planning (and remembering) tool based on the spirit of David Allen's GTD ([Getting Things Done](http://gettingthingsdone.com/)). Empty your mind!
+
+### Automatic Code Generation
+
+#### XML
+
+![Helpdesk Console](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/helpdesk.jpg)

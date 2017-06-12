@@ -49,7 +49,10 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 [binSnippets Repository](https://github.com/RayNieva/binSnippets)
 
+- In _system administration_ tasks quite often cloud applications (GUI based) do not have a command line interface that can be automated/scripted, also connections sometimes break. This is where a robust clipboard manager (cut and paste on steroids) like Ditto (SQLite backend) is quite useful especially for extensive onboarding. At DA there was an Exchange provider, VOIP (phone system) provider, a cloud storage provider and team virtualization provider all with GUI interfaces (no command line).
+
 - [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb)Developed at when I was at DA is also an example of Excel VBA writing more VBA for Outlook too (output is automatically created in debug.print, actually output could have been any language not just VB) Using code to write code. Code generation.. don't re-write code twice to do essentially the same thing.
+
 - [Contacts Class](https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb) Also developed when I was at DA, Object Oriented (Ruby) essentially enables creating code that can be reused by another script. [Aname.rb](https://github.com/RayNieva/binSnippets/blob/master/aname.rb) is a script that calls the methods in the Contacts class, but once created the Contacts class can be used in any script I can decide to create going forward in virtually any relevant application.
 
 [Synergy](https://symless.com/synergy) 

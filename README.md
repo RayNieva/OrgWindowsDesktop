@@ -75,6 +75,6 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 ### Automatic Code Generation
 
-#### XML
+#### XML Code Generation
 
 ![Helpdesk Console](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/helpdesk.jpg)

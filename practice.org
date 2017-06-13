@@ -49,7 +49,7 @@
 
 
      
-** DONE System and Network Administration and Personal Desktop Support
+** TODO System and Network Administration and Personal Desktop Support
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -99,13 +99,13 @@
   
 
 ** DONE Private Planning
-*** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** TODO Check Email and Communications
-*** TODO Mail and Other stuff:
-**** TODO Private Communications file://c:/users/ray/appdata/roaming/org/communications.org
-** DONE Check Accounts and Budget
+*** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
+** DONE Check Email and Communications
+*** DONE Mail and Other stuff:
+**** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
+** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -465,7 +465,7 @@ peed SQL Query.exe"
      
 
 *** End Task
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
 ** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
 
 

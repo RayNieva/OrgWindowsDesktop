@@ -35,7 +35,7 @@ code to get it to compile and run. If you¡¦re only working on someone else¡¦
 
 =end
 
-The one point of emphasis that supports my primary focus which is_automation_ that is very important: 
+The one point of emphasis that supports my primary focus which is _automation_ that is very important: 
 *"You won¡¦t become a good programmer by memorising code and algorithms. Programming is about thinking not about  remembering. You can have the best memory, but if you¡¦re not thinking for yourself you¡¦ll NEVER be a good  programmer i.e. we have computers and the internet to remember things for us, so there¡¦s no need for you to remember anything - you just need to know where and how to find the information you need."*
 
 Another quote based on *Getting Things Done* and interpreted by Author: Francisco Saez
@@ -73,9 +73,9 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 - [Practice.org](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/practice.org) (a list of lists) is a main planning (and remembering) tool based on the spirit of David Allen's GTD ([Getting Things Done](http://gettingthingsdone.com/)). Empty your mind!
 
-### Automatic Code Generation
+### Automatic Code Generation (or using the computer to generate your code instead of you and avoiding Carpal Tunnel Syndrome)
 
-#### XML Code Generation (Custom Developed Console using Microsoft MMC)
+#### XML Code Generation (Custom Developed Console using Microsoft MMC Snap-ins)
 
 ![Helpdesk Console](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/helpdesk.jpg)
 

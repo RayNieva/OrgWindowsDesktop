@@ -465,7 +465,7 @@ peed SQL Query.exe"
      
 
 *** End Task
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
 ** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
 
 

@@ -38,7 +38,7 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Mind/Body Rituals, Health and Attitude Development
+** DONE Mind/Body Rituals, Health and Attitude Development
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
@@ -49,7 +49,7 @@
 
 
      
-** TODO System and Network Administration and Personal Desktop Support
+** DONE System and Network Administration and Personal Desktop Support
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -105,13 +105,13 @@
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
 
 
-** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 
 ** End Task
 
@@ -465,7 +465,7 @@ peed SQL Query.exe"
      
 
 *** End Task
-* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
 ** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
 
 

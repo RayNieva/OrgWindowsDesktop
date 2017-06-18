@@ -50,6 +50,8 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 - [Contacts Class](https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb) Also developed when I was at DA, Object Oriented (Ruby) essentially enables creating code that can be reused by another script. [Aname.rb](https://github.com/RayNieva/binSnippets/blob/master/aname.rb) is a script that calls the methods in the Contacts class, but once created the Contacts class can be used in any script I decide to create going forward in virtually any relevant application.
 
+#### Why [Fat Client](https://en.wikipedia.org/wiki/Fat_client)?
+
 [Synergy](https://symless.com/synergy) 
 
 ![SynergyServerConfig](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/SynergyServerConfig.jpg)

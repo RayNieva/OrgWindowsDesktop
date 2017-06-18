@@ -38,7 +38,7 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Mind/Body Rituals, Health and Attitude Development
+** TODO Mind/Body Rituals, Health and Attitude Development
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
@@ -98,9 +98,9 @@
 
   
 
-** DONE Private Planning
-*** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** DONE Check Email and Communications
+** TODO Private Planning
+*** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
+** TODO Check Email and Communications
 *** DONE Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
@@ -111,7 +111,7 @@
 
 
 
-** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
 
 ** End Task
 
@@ -167,12 +167,61 @@
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
 
+**** TODO Concept of Workflow Automation
+**** DONE Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - http://powershelltutorial.net/home/Introduction-to-Powershell
+     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
+     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
+     - Chocolatey Package Manager for Windows  https://chocolatey.org/
+     - http://www.powershellmagazine.com/
+     - AutoIT https://www.autoitscript.com/site/autoit/
+     - AutoHotKey https://autohotkey.com/
+
 **** TODO Visual Studio and .NET CSharp etc (including C)... 
      - file://c:/users/ray/documents/projects/c
      - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
+     - https://theagileadmin.com/what-is-devops/
+
+     - https://automatetheboringstuff.com/ In Python
+   
+     - http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
+       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
+       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
+       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
+       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
+     - ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
+
+     - https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
+
+     - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
+
+       - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
+
+       - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
+
+     - https://aws.amazon.com/
+       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
+       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
+       - http://aws.amazon.com/free/
+     
+
+     - https://azure.microsoft.com/en-us/pricing/
+       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
+     
+     - https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
+     - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
+     - https://docs.puppet.com/puppet/latest/reference/man/apply.html
+     - https://puppet.com/product/emulator#
+     - https://learn.chef.io/learn-the-basics/windows/get-set-up/
+     - https://www.nagios.org/
+     - http://www.geekride.com/hard-link-vs-soft-link/
+     - https://github.com/chef-cookbooks/webpi
+     - https://en.wikipedia.org/wiki/Web_Platform_Installer
 
 **** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
@@ -191,13 +240,6 @@ peed SQL Query.exe"
 **** TODO Learning Flowgorithm and other VPLs
      - https://en.wikipedia.org/wiki/Flowgorithm
      - http://www.flowgorithm.org/
-
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-     - Chocolatey
-     - http://www.powershellmagazine.com/
 
 **** TODO XML/XSLT, JSON and YAML
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
@@ -319,7 +361,6 @@ peed SQL Query.exe"
 **** TODO Windows Enterprise Server Administration
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-**** TODO Concept of Workflow Automation
 
 
 
@@ -327,44 +368,6 @@ peed SQL Query.exe"
 **** TODO IPython
      - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
      - file://C://Users/ray/bin/practice.py
-**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
-     - https://theagileadmin.com/what-is-devops/
-
-     - https://automatetheboringstuff.com/ In Python
-   
-     - http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
-       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
-       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
-       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
-       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
-     - ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
-
-     - https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
-
-     - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
-
-       - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
-
-       - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
-
-     - https://aws.amazon.com/
-       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
-       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
-       - http://aws.amazon.com/free/
-     
-
-     - https://azure.microsoft.com/en-us/pricing/
-       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
-     
-     - https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
-     - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
-     - https://docs.puppet.com/puppet/latest/reference/man/apply.html
-     - https://puppet.com/product/emulator#
-     - https://learn.chef.io/learn-the-basics/windows/get-set-up/
-     - https://www.nagios.org/
-     - http://www.geekride.com/hard-link-vs-soft-link/
-     - https://github.com/chef-cookbooks/webpi
-     - https://en.wikipedia.org/wiki/Web_Platform_Installer
 **** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
      - Develop Epic (Norm Heckman has outline)
@@ -465,7 +468,7 @@ peed SQL Query.exe"
      
 
 *** End Task
-* DONE Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
 ** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
 
 

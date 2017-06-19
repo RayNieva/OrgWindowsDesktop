@@ -52,7 +52,7 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 #### Why [Fat Client](https://en.wikipedia.org/wiki/Fat_client)?
 
-- As a contrast to the growing trend of cloud based app development and minimal thin clients (ie..your smartphone!), there still is a merit to having powerful peer-to-peer client-servers (servents). If you are a developer that needs world class tools or a sysadmin/devops person with the ability to remotely control multiple on-premises or hybrid cloud resources using the relatively new objected oriented shell language like [Powershell](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/PowerShellTestCommands.ps1) which can still support CMD and if you install Cygwin will run POSIX commands too.(now ported to Linux too).
+- As a contrast to the growing trend of cloud based app development and minimal thin clients (ie..your smartphone!), there still is a merit to having powerful peer-to-peer client-servers (servents). If you are a developer that needs world class tools or a sysadmin/devops person with the requirement to remotely control multiple on-premises or hybrid cloud resources using the relatively new objected oriented shell language [Powershell](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/PowerShellTestCommands.ps1) which will support [CMD](https://en.wikipedia.org/wiki/Cmd.exe) and if you install [Cygwin](https://en.wikipedia.org/wiki/Cygwin) will run [POSIX](https://en.wikipedia.org/wiki/POSIX) commands too.(now ported to Linux also).
 
 [Synergy](https://symless.com/synergy) 
 

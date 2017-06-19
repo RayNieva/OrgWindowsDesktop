@@ -1,27 +1,28 @@
 ﻿<#
 To Start will be testing all originally Doskey generated commands.
-  before compiling useful powershell commands
+  before compiling list of useful powershell commands
 #>
-start "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
 
-start "C:\Program Files\AutoHotkey\AutoHotkey.exe"
-start "C:\Program Files\Ditto\Ditto.exe"
+copy-item C:\Users\RayN\Documents\PowerShellTestCommands.ps1 -Destination C:\Users\Ray\Desktop\PowerShellTestCommands.ps1
+
+start-process "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+
+start-process "C:\Program Files\AutoHotkey\AutoHotkey.exe"
+start-process "C:\Program Files\Ditto\Ditto.exe"
 # "C:\Program Files\Git\git-bash.exe" --cd-to-home
 # "C:\Users\admin\Desktop\Spiceworks Help Desk.lnk"
 
 # Does not like this =>start %windir%\system32\mspaint.exe
-start mspaint.exe
+start-process mspaint.exe
 # %windir%\sysWOW64\WindowsPowerShell\v1.0\PowerShell_ISE.exe
 start C:\Ch\bin\putty.exe
 #C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-start C:\Users\Ray\Desktop\MyScript.ahk
-C:\Users\Ray\Desktop\PC-DCL.lnk
+start-process C:\Users\Ray\Desktop\MyScript.ahk
+start-process C:\Users\Ray\Desktop\PC-DCL.lnk
 #C:\Users\Ray\Desktop\SandboxieControl.lnk
-C:\Users\Ray\Downloads\ConEmuPack.170402\ConEmu64.exe
-C:\Users\Ray\Downloads\Console1Helpdesk1.msc
-C:\Users\Ray\Downloads\Emacs\ntemacs24\bin\emacs.exe
-C:\Users\Ray\Downloads\ntemacs24-bin-20120825-06-29-16\ntemacs24\bin\emacs.exe
-cat h*
+#start C:\Users\Ray\Downloads\Emacs\ntemacs24\bin\emacs.exe
+start-process C:\Users\Ray\Downloads\ntemacs24-bin-20120825-06-29-16\ntemacs24\bin\emacs.exe
+#cat h*
 
 #region
 cd \users\ray
@@ -36,7 +37,7 @@ cat history02-10-16.txt | grep ConEmu
 #endregion
 
 
-cat hom*
+
 cd ..
 cd /
 cd \sites
@@ -50,18 +51,26 @@ cd RailsInstaller
 cd workspace
 cp history02-10-16.txt C:\Users\Ray\bin
 cp history02-10-16.txt C:\Users\Ray\desktop
-cygstart cmd
-doskey /h
+cygstart cmd # this Cygwin
 
+<#
+Doskey commands do not seem to execute in Powershell
+Use the history command instead also cannot spawn into 
+a separate cmd shell using redirection as it has no meaning.
+
+doskey /h
 doskey /h > history01-26-16.txt
 doskey /h > history02-10-16.txt
 doskey /h >> history02-10-16.txt
+#>
+
+start cmd echo hello
 explorer
-expr 1 + 2
+cygstart cmd /k expr 1 + 2
 grep -i "conemu" history02-10-16.txt
 grep "ConEmu" history02-10-16.txt
 
-help
+start-process cmd
 help runas
 history
 home
@@ -81,7 +90,7 @@ rails server
 rdcman
 
 #remotepageflex
-remoterayk55a
+start-process remoterayk55a
 runas /?
 runas /user:raynieva2\admin cmd
 start taskmgr

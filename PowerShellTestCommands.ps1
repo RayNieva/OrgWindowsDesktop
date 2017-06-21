@@ -1,6 +1,7 @@
 ﻿<#
 To Start will be testing all originally Doskey generated commands.
-  before compiling list of useful powershell commands
+  before compiling list of useful powershell commands.
+  Then conversion to Powershell Commands.
 #>
 
 copy-item C:\Users\RayN\Documents\PowerShellTestCommands.ps1 -Destination C:\Users\Ray\Desktop\PowerShellTestCommands.ps1
@@ -15,7 +16,7 @@ start-process "C:\Program Files\Ditto\Ditto.exe"
 # Does not like this =>start %windir%\system32\mspaint.exe
 start-process mspaint.exe
 # %windir%\sysWOW64\WindowsPowerShell\v1.0\PowerShell_ISE.exe
-start C:\Ch\bin\putty.exe
+start-process C:\Ch\bin\putty.exe
 #C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
 start-process C:\Users\Ray\Desktop\MyScript.ahk
 start-process C:\Users\Ray\Desktop\PC-DCL.lnk
@@ -25,30 +26,30 @@ start-process C:\Users\Ray\Downloads\ntemacs24-bin-20120825-06-29-16\ntemacs24\b
 #cat h*
 
 #region
-cd \users\ray
-cat history01--16.txt
-cat history01-26-16.txt
-cat history01-26-16.txt | grep ConEmu
+set-location \users\ray
+get-content history01--16.txt
+get-content history01-26-16.txt
+get-content history01-26-16.txt | grep ConEmu
 
-cat history01-26-16.txt | sort
+get-content history01-26-16.txt | sort
 
-cat history02-10-16.txt
-cat history02-10-16.txt | grep ConEmu
+get-content history02-10-16.txt
+get-content history02-10-16.txt | grep ConEmu
 #endregion
 
 
 
-cd ..
-cd /
-cd \sites
-cd \users\ray
-cd ~
-cd C:\Users\Ray\SkyDrive\Documents
-cd hello_app
-cd railbridge
-cd railsbridge
-cd RailsInstaller
-cd workspace
+set-location ..
+set-location /
+#set-location \sites
+set-location c:\users\ray
+set-location ~
+set-location C:\Users\Ray\SkyDrive\Documents
+#cd hello_app
+#cd railbridge
+#cd railsbridge
+#cd RailsInstaller
+#cd workspace
 cp history02-10-16.txt C:\Users\Ray\bin
 cp history02-10-16.txt C:\Users\Ray\desktop
 cygstart cmd # this Cygwin
@@ -103,9 +104,9 @@ ssh -L 5901:127.0.0.1:5901 -N -f -l ray@ray-K55A 195.168.1.5
 ssh ray@ray-K55A
 ssh ray@ray-K55A
 ssh ray@ray-K55A
-start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse
-start cmd
-start emacs
+#start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse
+start-process cmd
+start-process emacs
 
 
 start firefox
@@ -115,7 +116,7 @@ start firefox http://localhost
 
 start firefox http://localhost:8080
 
-start firefox http://rgnterprises.net
+start-process firefox http://rgnterprises.net
 start firefox http://rgnterprises.net/drupal
 start firefox http://rgnterprises.net/joomla
 

@@ -26,15 +26,17 @@ start-process C:\Users\Ray\Downloads\ntemacs24-bin-20120825-06-29-16\ntemacs24\b
 #cat h*
 
 #region
-set-location \users\ray
+set-location c:\users\ray
+ls | grep hist
 get-content history01--16.txt
 get-content history01-26-16.txt
 get-content history01-26-16.txt | grep ConEmu
 
 get-content history01-26-16.txt | sort
 
-get-content history02-10-16.txt
-get-content history02-10-16.txt | grep ConEmu
+get-content history04-12-17.txt
+get-content history04-12-17.txt | grep ConEmu
+get-content history04-12-17.txt | sort
 #endregion
 
 
@@ -52,7 +54,7 @@ set-location C:\Users\Ray\SkyDrive\Documents
 #cd workspace
 cp history02-10-16.txt C:\Users\Ray\bin
 cp history02-10-16.txt C:\Users\Ray\desktop
-cygstart cmd # this Cygwin
+cygstart cmd # this is Cygwin
 
 <#
 Doskey commands do not seem to execute in Powershell
@@ -65,11 +67,13 @@ doskey /h > history02-10-16.txt
 doskey /h >> history02-10-16.txt
 #>
 
-start cmd echo hello
+#region Command Not using Powershell
+cygstart cmd echo hello # Cygwin
 explorer
-cygstart cmd /k expr 1 + 2
+cygstart cmd /k expr 1 + 2 # Cygwin
 grep -i "conemu" history02-10-16.txt
 grep "ConEmu" history02-10-16.txt
+#endregion
 
 start-process cmd
 help runas
@@ -77,24 +81,26 @@ history
 home
 ls
 
-
+#region Mixing Powershell with Cygwin
+set-location C:\Users\Ray\skydrive\Documents 
 ls | grep '.07-..-16\.pdf'
 ls | grep Grocery
 ls | grep history
 ls | grep Restaurant
 ls | grep shower
+#endregion
 
 mstsc /v: 192.168.1.86
 mstsc /v:10.0.0.1
 mstsc v:/10.0.0.1
-rails server
+#rails server
 rdcman
 
 #remotepageflex
 start-process remoterayk55a
-runas /?
-runas /user:raynieva2\admin cmd
-start taskmgr
+#runas /?
+#runas /user:raynieva2\admin cmd
+start-process taskmgr
 Scan11-05-16a.pdf - Grocery.lnk
 Scan11-05-16b.pdf - TifsShower.lnk
 Scan11-06-16.pdf - Restaurant.lnk

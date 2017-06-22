@@ -42,9 +42,9 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 ### Some Tools:
 
-[binSnippets Repository](https://github.com/RayNieva/binSnippets)
+[binSnippets Repository](https://github.com/RayNieva/binSnippets) - Data Entry Automation
 
-- In _system administration_ tasks quite often _cloud applications_ (GUI based) do not have a command line interface that can be automated/scripted, also connections sometimes break. This is where a robust _clipboard manager_ (cut and paste on steroids) like _Ditto (SQLite backend)_ is quite useful especially for extensive onboarding. At DA there was an Exchange provider, VOIP (phone system) provider, a cloud storage provider and team virtualization (Webex)provider all with GUI interfaces (no command line).
+- In _system administration_ tasks quite often _cloud applications_ (GUI based) do not have a command line interface that can be automated/scripted, also connections sometimes break. This is where a robust _clipboard manager_ (cut and paste on steroids) like _Ditto (SQLite backend)_ is quite useful especially for extensive onboarding. At DA there was an Exchange provider, VOIP (phone system) provider, a cloud storage provider and team virtualization (Webex)provider all with GUI interfaces (no command line). I'm not including Salesforce.com itself which in its "Clicks not Code" philosophy is still data entry oriented with a plethora of text boxes that need to be filled out.
 
 - [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb)Developed when I was at DA is also an example of Excel VBA (scripted dataentry) writing more VBA for Outlook too (output is automatically created in debug.print, actually output could have been any language not just VB) Using code to write code. Code generation.. don't re-write code twice to do essentially the same thing.
 
@@ -106,3 +106,5 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 #### [web_scraping_and_web_automation_project](https://github.com/RayNieva/web_scraping_and_web_automation_project) or Grabbing Data and Code from the Supercomputer called "the internet"
 
 - More to come soom
+
+

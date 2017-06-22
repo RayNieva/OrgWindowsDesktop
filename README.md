@@ -60,6 +60,11 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 - Creates the ultimate fat client. The computers in the photo above are two dual-boot Linux/Windows 7/Windows 10 computers. They can be mix and matched in any mode(Linux to Windows, Linux to Linux and Windows to Windows) and still share keyboard, mouse AND CLIPBOARD!  Futhermore if Synergy fails, the back-up is a hardware KVM. This is all possible thru the magic of _network protocols_ that even allows _memory sharing_ between two or more computers!
 
+[X-forwarding](https://docstore.mik.ua/orelly/networking_2ndEd/ssh/ch09_03.htm) from Ubuntu Linux  using X-window on Windows 10
+
+![xforwarding](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Xforwarding.jpg)
+
+
 [Airdroid](https://www.airdroid.com/)
 
 ![WebAirDroidwithAirMirror](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/AirDroid-Mirror.jpg)

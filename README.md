@@ -62,6 +62,8 @@ The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don'
 
 [X-forwarding](https://docstore.mik.ua/orelly/networking_2ndEd/ssh/ch09_03.htm) from Ubuntu Linux  using X-window on Windows 10
 
+- The X-window system allows applications to be "forwarded" virtually onto the host computer the X server. So with my computers which are all dual-boot Linux/Windows I can share the Linux computer resources and "forward"  them to the Windows 10 system all on a multi-monitor/multi-desktop environment. The above is done using Cygwin and SSH tunneling instead of Xming (to set up the X Server as opposed to the X-forwarding link describing the X-window system.)
+
 ![xforwarding](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Xforwarding.jpg)
 
 

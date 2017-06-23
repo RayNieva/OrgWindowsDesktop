@@ -110,7 +110,7 @@ With this line, you can bully the dude who can execute 100 billion instructions 
 
 - More to come soon ...
 
-#### Flowgorithm Programming
+#### VPLs_and_Flowgorithm
 
 - More to come soon ...
 

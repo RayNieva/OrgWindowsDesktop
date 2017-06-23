@@ -7,9 +7,9 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** TODO [#A] Time Management
+** DONE [#A] Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - The 3 Habits to Get Things Done https://facilethings.com/blog/en/habits
@@ -168,7 +168,7 @@
 
 
 **** TODO Concept of Workflow Automation
-**** DONE Powershell
+**** TODO Powershell
      - Type Powershell on cmdline (storing history in bin)
      - http://powershelltutorial.net/home/Introduction-to-Powershell
      - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
@@ -455,7 +455,7 @@ peed SQL Query.exe"
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")

@@ -40,11 +40,23 @@ Another quote based on *Getting Things Done* and interpreted by Author: Francisc
 
 The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don't laugh! with the extension of these two single inventions the computer has become the single most powerful tool that is changing the face of the earth as we speak. Speaking more fundamentally what these are essentially is memory and the ability of computers to communicate with each other.
 
+Also another cool quote from Quora:
+"_What's the most powerful line of code ever written?
+Nadh Poduri
+Nadh Poduri, Programmer|Entrepreneur|Dad
+Answered May 25
+
+while (1) ;
+
+With this line, you can bully the dude who can execute 100 billion instructions per second.
+
+Loop is the most powerful aspect of the computer programming. It takes care of the most boring part of our lives: Repetition!_"
+
 ### Some Tools:
 
 [binSnippets Repository](https://github.com/RayNieva/binSnippets) - Data Entry Automation
 
-- In _system administration_ tasks quite often _cloud applications_ (GUI based) do not have a command line interface that can be automated/scripted, also connections sometimes break. This is where a robust _clipboard manager_ (cut and paste on steroids) like _Ditto (SQLite backend)_ is quite useful especially for extensive onboarding. At DA there was an Exchange provider, VOIP (phone system) provider, a cloud storage provider and team virtualization (Webex)provider all with GUI interfaces (no command line). I'm not including Salesforce.com itself which in its "Clicks not Code" philosophy is still data entry oriented with a plethora of text boxes that need to be filled out.
+- In _system administration_ tasks quite often _cloud applications_ (GUI based) do not have a command line interface that can be automated/scripted, also connections sometimes break. This is where a robust _clipboard manager_ (cut and paste on steroids) like _Ditto (SQLite backend)_ is quite useful especially for extensive onboarding. At DA there was an Exchange provider, VOIP (phone system) provider, a cloud storage provider and team virtualization (Webex)provider all with GUI interfaces (no command line). I'm not even including Salesforce.com itself which in its "Clicks not Code" philosophy is still data entry oriented with a plethora of text boxes that need to be filled out.
 
 - [Sheet2 Code](https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb)Developed when I was at DA is also an example of Excel VBA (scripted dataentry) writing more VBA for Outlook too (output is automatically created in debug.print, actually output could have been any language not just VB) Using code to write code. Code generation.. don't re-write code twice to do essentially the same thing.
 

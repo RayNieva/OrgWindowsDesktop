@@ -41,16 +41,17 @@ Another quote based on *Getting Things Done* and interpreted by Author: Francisc
 The 2 greatest computer discoveries are 1) Cut and Paste,  2) the internet. Don't laugh! with the extension of these two single inventions the computer has become the single most powerful tool that is changing the face of the earth as we speak. Speaking more fundamentally what these are essentially is memory and the ability of computers to communicate with each other.
 
 Also another cool quote from Quora:
-"_What's the most powerful line of code ever written?
+
+"What's the most _powerful_ line of code ever written?
 Nadh Poduri
 Nadh Poduri, Programmer|Entrepreneur|Dad
 Answered May 25
 
-while (1) ;
+_while_ (1) ;
 
 With this line, you can bully the dude who can execute 100 billion instructions per second.
 
-Loop is the most powerful aspect of the computer programming. It takes care of the most boring part of our lives: Repetition!_"
+**_Loop_** is the most _powerful_ aspect of the computer programming. It takes care of the most boring part of our lives: Repetition!"
 
 ### Some Tools:
 

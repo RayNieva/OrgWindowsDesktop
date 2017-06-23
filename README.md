@@ -104,7 +104,7 @@ With this line, you can bully the dude who can execute 100 billion instructions 
 
 ![SSIS](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/SSIS.png)
 
-- [Autogenerates XML code]https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Package.dtsx) So far has generated almost 200 hundred lines, but is still under development. With Microsoft now providing the Pro version of SQL Server for free this opens up a whole new world of file and data automation. (not just for SQL Server automation!)
+- [Autogenerates XML code](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Package.dtsx) So far has generated almost 200 hundred lines, but is still under development. With Microsoft now providing the Pro version of SQL Server for free this opens up a whole new world of file and data automation. (not just for SQL Server automation!)
 
 #### SQL Server and Fly Speed SQL Query Code Generation
 

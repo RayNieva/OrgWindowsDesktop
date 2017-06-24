@@ -67,9 +67,9 @@ With this line, you can bully the dude who can execute 100 billion instructions 
 
 - As a contrast to the growing trend of cloud based app development and minimal thin clients (ie..your smartphone!), there still is a merit to having powerful peer-to-peer client-servers (servents). If you are a developer that needs world class tools or a sysadmin/devops person with the requirement to remotely control multiple on-premises or hybrid cloud resources using the relatively new objected oriented shell language [Powershell](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/PowerShellTestCommands.ps1) which will support [CMD](https://en.wikipedia.org/wiki/Cmd.exe) and if you install [Cygwin](https://en.wikipedia.org/wiki/Cygwin) will run [POSIX](https://en.wikipedia.org/wiki/POSIX) commands too.(now ported to Linux also).
 
-Powershell_ISE
+**Powershell_ISE**
 
-(https://github.com/RayNieva/OrgWindowsDesktop/blob/master/PowerISE.jpg)
+![PowershellISE](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/PowerISE.jpg)
 
 [Synergy](https://symless.com/synergy) 
 

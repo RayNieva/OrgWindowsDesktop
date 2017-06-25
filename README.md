@@ -114,9 +114,11 @@ With this line, you can bully the dude who can execute 100 billion instructions 
 
 - More to come soon ...
 
-#### VPLs_and_Flowgorithm_Project
+#### [VPLs_and_Flowgorithm_Project](https://github.com/RayNieva/VPLs_and_Flowgorithm_Project)
 
-- More to come soon ...
+- [XML code generating other computer language(s) code](https://github.com/RayNieva/VPLs_and_Flowgorithm_Project/blob/master/BudgetAndBilling.fprg)
+
+- C++, C#, Java, Javascript, Lua, Perl, Python, Ruby, VB.NET, and VBA
 
 #### [XML_XSLT_ProgrammableResume_Project](https://github.com/RayNieva/XML_XSLT_ProgrammableResume_Project/blob/master/README.md)
 

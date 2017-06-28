@@ -38,11 +38,11 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Mind/Body Rituals, Health and Attitude Development
+** TODO Mind/Body Rituals, Health and Attitude Development
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
-** TODO Have Coffee [1/3]**
+** DONE Have Coffee [1/3]**
    - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
@@ -100,12 +100,12 @@
 
 ** TODO Private Planning
 *** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** DONE Check Email and Communications
+** TODO Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 

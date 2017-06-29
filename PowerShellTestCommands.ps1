@@ -76,7 +76,7 @@ grep "ConEmu" history02-10-16.txt
 #endregion
 
 start-process cmd
-help runas
+#help runas
 history
 home
 ls
@@ -101,53 +101,96 @@ start-process remoterayk55a
 #runas /?
 #runas /user:raynieva2\admin cmd
 start-process taskmgr
-Scan11-05-16a.pdf - Grocery.lnk
-Scan11-05-16b.pdf - TifsShower.lnk
-Scan11-06-16.pdf - Restaurant.lnk
-ssh 
-ssh -L 5901:127.0.0.1:5901 -N -f -l ray@ray-K55A 195.168.1.5
 
-ssh ray@ray-K55A
-ssh ray@ray-K55A
-ssh ray@ray-K55A
+#region
+set-location c:\
+set-location c:\users\ray\skydrive
+get-location
+Get-ChildItem
+ls | grep Grocery
+#.\"Scan11-05-16a.pdf - Grocery.lnk" Does not work because uses real user path
+.\Scan11-05-16a.pdf
+
+#endregion
+
+
+#Scan11-05-16b.pdf - TifsShower.lnk
+#Scan11-06-16.pdf - Restaurant.lnk
+#ssh 
+#ssh -L 5901:127.0.0.1:5901 -N -f -l ray@ray-K55A 195.168.1.5
+
+#ssh ray@ray-K55A
+
 #start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse
 start-process cmd
 start-process emacs
 
 
-start firefox
+start-process firefox
 
 
-start firefox http://localhost
+start-process firefox http://localhost
 
 start firefox http://localhost:8080
 
 start-process firefox http://rgnterprises.net
-start firefox http://rgnterprises.net/drupal
-start firefox http://rgnterprises.net/joomla
+start-process firefox http://drupal.rgnterprises.net
+start-process firefox http://joomla.rgnterprises.net
 
-start firefox http://rgnterprises.net/wordpress
+start-process firefox http://wordpress.rgnterprises.net
 taskmgr
-timeout 5
-vpnui
-xlaunch
-start C:\Users\Ray\Documents\DatabaseJobsearch.accdb
-start vs
-start sqlserver
-start C:\Users\Ray\Documents\DatabaseJobsearch.accdb
-start sqlserver
-start access2016
-doskey
-doskey /h
-cat history04-12-17.txt
-doskey /h >> history04-12-17.txt
+#timeout 5
+#vpnui
+#cygstart xlaunch or start-process in this account?
+#start-process C:\Users\Ray\Documents\DatabaseJobsearch.accdb
+start-process vs
+#start-process sqlserver (have to resolve cannot connect to db)
+#C:\Users\Ray\Documents\DatabaseJobsearch.accdb
+#start sqlserver
+#doskey
+#doskey /h
+get-content c:\users\ray\history04-12-17.txt
+#doskey /h >> history04-12-17.txt
 "C:\Users\Ray\Desktop\Spiceworks Desktop.lnk"
-doskey /h
-doskey /h >> history04-12-17.txt
-start flow
-doskey /h
-doskey /h >> history04-12-17.txt
-sqlcmd
-tar cvzf Documents05-28-17.tar.gz C:\Users\Ray\Documents 
-doskey /h
-doskey /h >> history04-12-17.txt
+#doskey /h
+#doskey /h >> history04-12-17.txt
+start-process flow
+#doskey /h
+#doskey /h >> history04-12-17.txt
+#start-process cmd /k sqlcmd
+#tar cvzf Documents05-28-17.tar.gz C:\Users\Ray\Documents believe this needs to be contained in a batch file
+#doskey /h
+#doskey /h >> history04-12-17.txt
+
+
+# Commands Start-Process and Invoke-Item are similar
+
+#region 
+#10 most important
+
+Get-Help Get-Member -Examples
+
+Get-Member
+
+Set-Location
+
+Get-Content
+
+Out-File
+
+Get-WmiObject
+
+New-Object
+
+Select-Object
+
+Foreach-Object
+
+Where-Object 
+
+ 
+
+
+#endregion
+
+

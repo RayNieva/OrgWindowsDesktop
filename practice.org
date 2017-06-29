@@ -7,9 +7,9 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** TODO [#A] Time Management
+** DONE [#A] Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - The 3 Habits to Get Things Done https://facilethings.com/blog/en/habits
@@ -98,12 +98,12 @@
 
   
 
-** TODO Private Planning
-*** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** TODO Check Email and Communications
+** DONE Private Planning
+*** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
+** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
-** TODO Check Accounts and Budget
+** DONE Check Accounts and Budget
 
 *** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org

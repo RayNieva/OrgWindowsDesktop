@@ -193,4 +193,16 @@ Where-Object
 
 #endregion
 
+<#
+Powershell for FileSystem to list the file files
+
+PowerShell script to list the DLL files under the system32 folder
+#>
+
+#region
+# PowerShell script to list the DLL files under the system32 folder
+$Dir = get-childitem C:\windows\system32 
+$List = $Dir | where {$_.extension -eq ".dll"}
+$List 
+#endregion
 

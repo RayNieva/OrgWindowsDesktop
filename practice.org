@@ -38,18 +38,18 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Mind/Body Rituals, Health and Attitude Development
+** TODO Mind/Body Rituals, Health and Attitude Development
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
-** TODO Have Coffee [1/3]**
+** DONE Have Coffee [1/3]**
    - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
 
 
      
-** TODO System and Network Administration and Personal Desktop Support
+** DONE System and Network Administration and Personal Desktop Support
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -84,8 +84,9 @@
     - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
     - http://xmonad.org/manpage.html
 
-*** TODO Cloud Computer
+*** TODO Cloud Computer(s)
     - https://c9.io/raynieva
+    - http://sdf.org/
 *** DONE Fixed Computer Cooling Issue
     - Keep on cool hard surface
     - Use freeze pak to cool down
@@ -164,7 +165,7 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
 
 **** DONE Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
@@ -314,7 +315,7 @@ peed SQL Query.exe"
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-**** DONE Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
+**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
 
      - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
      - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
@@ -455,7 +456,7 @@ peed SQL Query.exe"
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")

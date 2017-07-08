@@ -7,9 +7,9 @@
 * DONE Wake Up Projects/Tasks					       :Home:
 [[go-to-bottom]]
 
-** TODO [#A] Time Management
+** DONE [#A] Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - The 3 Habits to Get Things Done https://facilethings.com/blog/en/habits
@@ -38,7 +38,7 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Mind/Body Rituals, Health and Attitude Development
+** DONE Mind/Body Rituals, Health and Attitude Development
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
@@ -69,6 +69,8 @@
    - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
    - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
+   - https://community.spiceworks.com/how_to/23479-spiceworks-tutorial-for-beginners
+   - https://community.spiceworks.com/university/tutorials
 
 
 *** TODO Routine System Operation to Optimize systems
@@ -84,9 +86,11 @@
     - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
     - http://xmonad.org/manpage.html
 
-*** TODO Cloud Computer(s)
+*** DONE Cloud Computer(s)
     - https://c9.io/raynieva
     - http://sdf.org/
+    - http://www.twenex.org/
+    - https://aws.amazon.com/
 *** DONE Fixed Computer Cooling Issue
     - Keep on cool hard surface
     - Use freeze pak to cool down
@@ -101,7 +105,7 @@
 
 ** DONE Private Planning
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** TODO Check Email and Communications
+** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
@@ -124,9 +128,10 @@
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. Starting with National Grid.
     - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
-    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org
-    - https://www.resumerabbit.com/go/login
+    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - http://retirementjobs.com/
+    - https://www.resumerabbit.com/go/login
     - https://www.flexjobs.com/
     - http://www.careerbuilder.com/
     - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
@@ -188,6 +193,21 @@
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
+     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
+     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
+     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
+       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
+       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
+       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
+       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
+       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
+       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
+       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
+       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
+       - 
+     - http://www.meetup.com/WorcesterClub/
+     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
 **** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
      - https://theagileadmin.com/what-is-devops/
 
@@ -417,21 +437,6 @@ peed SQL Query.exe"
 
 **** TODO Source Making
      - https://sourcemaking.com/ 
-**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
-     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
-     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
-     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
-       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
-       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
-       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
-       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
-       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
-       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
-       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
-       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
-       - 
-     - http://www.meetup.com/WorcesterClub/
-     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
 
 **** TODO Eclipse and Java
      - Upgraded to Eclipse RCP (How to use RCP?)
@@ -469,12 +474,19 @@ peed SQL Query.exe"
      
 
 *** End Task
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
+  
+ 
+
+* TODO Go to Network and or Interview/[[Opportunity-activities]] Meetings. :Car:Framingham:
 ** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
+    
+      
+
+* TODO Go Home							   :Car:Home:
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 ** DONE Made Sukiyaki 
@@ -524,10 +536,6 @@ peed SQL Query.exe"
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-    
-      
-
-* TODO Go Home							   :Car:Home:
 
 * TODO Continue Working at Home Projects/Tasks 			       :Home:
 
@@ -539,6 +547,7 @@ peed SQL Query.exe"
 
    - See Journal and Opportunities orgs
    - Continued work from morning
+
 ** TODO Reviewing Internet Marketing
 
 ** TODO Org-Mode
@@ -560,6 +569,3 @@ peed SQL Query.exe"
 
 * End Task
 <<go-to-bottom>>
-  
- 
-

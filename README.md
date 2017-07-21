@@ -55,6 +55,10 @@ With this line, you can bully the dude who can execute 100 billion instructions 
 
 ### Some Tools:
 
+[CONEMU](http://conemu.github.io/) The command line is still by far the best and most effective way of interfacing with the computer and the internet. Here is a compelling argument for [Conemu](https://www.hanselman.com/blog/ConEmuTheWindowsTerminalConsolePromptWeveBeenWaitingFor.aspx) as the best console interface.
+
+- More to come soon
+
 [binSnippets Repository](https://github.com/RayNieva/binSnippets) - Data Entry Automation
 
 - In _system administration_ tasks quite often _cloud applications_ (GUI based) do not have a command line interface that can be automated/scripted, also connections sometimes break. This is where a robust _clipboard manager_ (cut and paste on steroids) like _Ditto (SQLite backend)_ is quite useful especially for extensive onboarding. At DA there was an Exchange provider, VOIP (phone system) provider, a cloud storage provider and team virtualization (Webex)provider all with GUI interfaces (no command line). I'm not even including Salesforce.com itself which in its "Clicks not Code" philosophy is still data entry oriented with a plethora of text boxes that need to be filled out.

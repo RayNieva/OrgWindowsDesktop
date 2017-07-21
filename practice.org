@@ -10,7 +10,7 @@
 ** DONE [#A] Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
 *** DONE GTD Stuff
-**** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
+**** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - The 3 Habits to Get Things Done https://facilethings.com/blog/en/habits
     - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
@@ -71,6 +71,8 @@
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
    - https://community.spiceworks.com/how_to/23479-spiceworks-tutorial-for-beginners
    - https://community.spiceworks.com/university/tutorials
+   - http://conemu.github.io/
+   - https://www.lifewire.com/list-of-command-prompt-commands-4092302
 
 
 *** TODO Routine System Operation to Optimize systems
@@ -86,7 +88,7 @@
     - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
     - http://xmonad.org/manpage.html
 
-*** DONE Cloud Computer(s)
+*** TODO Cloud Computer(s)
     - https://c9.io/raynieva
     - http://sdf.org/
     - http://www.twenex.org/
@@ -105,12 +107,12 @@
 
 ** DONE Private Planning
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** DONE Check Email and Communications
+** TODO Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -122,7 +124,7 @@
 
 
  
-* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
@@ -173,10 +175,27 @@
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
 
-**** DONE Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
-**** TODO Learning Flowgorithm and other VPLs
-     - https://en.wikipedia.org/wiki/Flowgorithm
-     - http://www.flowgorithm.org/
+**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+**** TODO XML/XSLT, JSON and YAML
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Powershell
      - Type Powershell on cmdline (storing history in bin)
      - http://powershelltutorial.net/home/Introduction-to-Powershell
@@ -186,6 +205,51 @@
      - http://www.powershellmagazine.com/
      - AutoIT https://www.autoitscript.com/site/autoit/
      - AutoHotKey https://autohotkey.com/
+**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
+      - file://c:/users/ray/documents/projects/lisp
+***** TODO http://ergoemacs.org/emacs/elisp_basics.html
+***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
+***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
+***** TODO Install and Learn Yasnippet
+      - [file:/C:\Users\Ray\Documents\scratch1.org]
+***** TODO Install and Learn Icicles
+***** TODO Practice Check Boxes [100%]
+      - [X] Checkbox 1
+      - [X] Checkbox 2
+      - [X] Checkbox 3
+      - [X] Checkbox 4
+      
+***** TODO Another Tutorial on Org-Mode
+      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
+      + Use Git to synchronize
+      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
+      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
+
+***** TODO Emacs for Writers
+      - [https://www.youtube.com/watch?v=FtieBc3KptU]
+***** TODO Learning more about Capture-mode Emacs
+      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
+      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
+
+***** TODO Learn Bookmark and Bookmark Plus
+      - https://www.emacswiki.org/emacs/BookMarks
+
+***** TODO Learn Abbrev Mode
+      - Learned about the 
+       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
+
+***** DONE Install and Learn Evil
+      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
+      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
+
+***** TODO Learn Vim
+      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
+      - http://vim.wikia.com/wiki/Moving_around
+
+***** TODO Learn Babel
+
+***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
 
 **** TODO Visual Studio and .NET CSharp etc (including C)... 
      - file://c:/users/ray/documents/projects/c
@@ -193,6 +257,11 @@
      - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
      - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+
+**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
+**** TODO Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - http://www.flowgorithm.org/
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
@@ -262,55 +331,6 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** TODO XML/XSLT, JSON and YAML
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
-**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
-[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
-      - file://c:/users/ray/documents/projects/lisp
-***** TODO http://ergoemacs.org/emacs/elisp_basics.html
-***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
-***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
-***** TODO Install and Learn Yasnippet
-      - [file:/C:\Users\Ray\Documents\scratch1.org]
-***** TODO Install and Learn Icicles
-***** TODO Practice Check Boxes [100%]
-      - [X] Checkbox 1
-      - [X] Checkbox 2
-      - [X] Checkbox 3
-      - [X] Checkbox 4
-      
-***** TODO Another Tutorial on Org-Mode
-      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
-      + Use Git to synchronize
-      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
-      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
-
-***** TODO Emacs for Writers
-      - [https://www.youtube.com/watch?v=FtieBc3KptU]
-***** TODO Learning more about Capture-mode Emacs
-      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
-      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
-
-***** TODO Learn Bookmark and Bookmark Plus
-      - https://www.emacswiki.org/emacs/BookMarks
-
-***** TODO Learn Abbrev Mode
-      - Learned about the 
-       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
-
-***** DONE Install and Learn Evil
-      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
-      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
-
-***** TODO Learn Vim
-      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
-      - http://vim.wikia.com/wiki/Moving_around
-
-***** TODO Learn Babel
-
-***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
      - file://c:/users/ray/documents/projects/ruby
@@ -335,24 +355,6 @@ peed SQL Query.exe"
 
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
-     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
        - https://guides.github.com/features/mastering-markdown/
@@ -461,7 +463,7 @@ peed SQL Query.exe"
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
-*** DONE Freelance Research Top Ideas and Recreation.
+*** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")
@@ -486,7 +488,7 @@ peed SQL Query.exe"
 
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 ** DONE Made Sukiyaki 

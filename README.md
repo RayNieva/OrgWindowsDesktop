@@ -55,7 +55,11 @@ With this line, you can bully the dude who can execute 100 billion instructions 
 
 ### Some Tools:
 
-[CONEMU](http://conemu.github.io/) The command line is still by far the best and most effective way of interfacing with the computer and the internet. Here is a compelling argument for [Conemu](https://www.hanselman.com/blog/ConEmuTheWindowsTerminalConsolePromptWeveBeenWaitingFor.aspx) as the best console interface.
+[CONEMU](http://conemu.github.io/) The command line is still by far the best and most effective way of interfacing with the computer and the internet. Here is a compelling argument for [Conemu](https://www.hanselman.com/blog/ConEmuTheWindowsTerminalConsolePromptWeveBeenWaitingFor.aspx) as the best Windows console interface. (Linux favorite is KDE's Konsole)
+
+- The command line is easy to automate. 
+
+- The command line remembers what you just did.
 
 - More to come soon
 

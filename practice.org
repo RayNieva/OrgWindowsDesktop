@@ -49,7 +49,7 @@
 
 
      
-** DONE System and Network Administration and Personal Desktop Support
+** TODO System and Network Administration and Personal Desktop Support
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -73,6 +73,11 @@
    - https://community.spiceworks.com/university/tutorials
    - http://conemu.github.io/
    - https://www.lifewire.com/list-of-command-prompt-commands-4092302
+   - http://certifiedtricks.net/run-command-list-for-windows-10/
+   - http://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/
+   - Metro Apps https://stackoverflow.com/questions/26244759/opening-a-file-in-a-metro-app-from-command-line
+   - http://windowsitpro.com/windows-8/opening-windows-8-apps-command-prompt-or-script
+   - https://superuser.com/questions/1225113/running-metro-app-minimized-from-command-line
 
 
 *** TODO Routine System Operation to Optimize systems
@@ -107,7 +112,7 @@
 
 ** DONE Private Planning
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** TODO Check Email and Communications
+** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
@@ -124,7 +129,7 @@
 
 
  
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
@@ -172,8 +177,32 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
+
+**** DONE Visual Studio and .NET CSharp etc (including C and C++)... 
+     - file://c:/users/ray/documents/projects/c
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - http://www.cplusplus.com/doc/tutorial/classes/
+
+**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
+     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
+
+
+***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell) start appropriate service for SQL Server
+     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
+***** TODO MYSQL
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell)
+     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
+peed SQL Query.exe"
 
 **** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
@@ -251,13 +280,6 @@
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
 
-**** TODO Visual Studio and .NET CSharp etc (including C)... 
-     - file://c:/users/ray/documents/projects/c
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-
 **** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
 **** TODO Learning Flowgorithm and other VPLs
      - https://en.wikipedia.org/wiki/Flowgorithm
@@ -315,21 +337,6 @@
      - http://www.geekride.com/hard-link-vs-soft-link/
      - https://github.com/chef-cookbooks/webpi
      - https://en.wikipedia.org/wiki/Web_Platform_Installer
-
-**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
-     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
-
-
-***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell) start appropriate service for SQL Server
-     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
-VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
-***** TODO MYSQL
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell)
-     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
-peed SQL Query.exe"
 
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
@@ -463,7 +470,7 @@ peed SQL Query.exe"
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")

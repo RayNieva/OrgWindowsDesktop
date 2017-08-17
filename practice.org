@@ -10,14 +10,14 @@
 ** DONE [#A] Time Management
    - https://calendar.google.com/calendar/render?tab=mc#main_7
 *** DONE GTD Stuff
-**** TODO GTD Revisit Cyborganized Video and other stuff (Execution Loop)
+**** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
+    - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
+    - http://gettingthingsdone.com/2017/04/10-tips-for-success-with-gtd/
     - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - The 3 Habits to Get Things Done https://facilethings.com/blog/en/habits
-    - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
-    - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
+    - Cyborganize Workflow Mgmt http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  
     - More about Org-mode [[Learn-Org-Mode]]
     - Podcast #5 – GTD and Daily Habits http://gettingthingsdone.com/2015/06/podcast-05-gtd-and-daily-habits/  
-    - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/ JTD Journaling to Done
     - file://C:/Users/Ray/AppData/Roaming/org/gtdActionables.org
     - file://C:/Users/Ray/AppData/Roaming/org/jtdjournal.org
       - or on bitbucket https://bitbucket.org/RayNieva/org/src/201727ffebaaa368215101c27de8224862eff61b/org/jtdJournal.org?at=master&fileviewer=file-view-default
@@ -40,7 +40,7 @@
 
 ** DONE Mind/Body Rituals, Health and Attitude Development
 
-*** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
+*** DONE Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
 ** DONE Have Coffee [1/3]**
    - [X] 1st cup
@@ -117,7 +117,7 @@
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 
 
@@ -133,23 +133,23 @@
 
 
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - For Networking meeting put together (5) companies. Starting with National Grid.
+    - For Networking meeting put together (5) companies. 
     - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
     - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - https://jobquest.detma.org/JobQuest/Default.aspx
     - http://retirementjobs.com/
-    - https://www.resumerabbit.com/go/login
     - https://www.flexjobs.com/
     - http://www.careerbuilder.com/
     - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
     - https://my.indeed.com/resume
-    - https://managementconsulted.com/ Professional Jobseeking at a very "High Level".
+    - Professional Jobseeking at a very "High Level". https://managementconsulted.com/ 
+    - https://www.resumerabbit.com/go/login
     - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
-    - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
     - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
     - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
+    - Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume https://www.youtube.com/watch?v=jETH9SI2zNQ 
     - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
     - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
@@ -177,18 +177,23 @@
     - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
 
 
-**** DONE Visual Studio and .NET CSharp etc (including C and C++)... 
-     - file://c:/users/ray/documents/projects/c
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-     - http://www.cplusplus.com/doc/tutorial/classes/
+**** DONE Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - http://www.flowgorithm.org/
+**** TODO [#A] Eclipse, Java and Acceleo
+     - file://C:\Users\Ray\eclipse\modeling-oxygen\eclipse\eclipse.exe
+     - Was -Upgraded to Eclipse RCP (How to use RCP?)
+     - Was - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
 
-**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+***** DONE Eclipse/Java Tutorial Lessons
+     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
+     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
+
+**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
      - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
 
@@ -204,41 +209,26 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
-     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
-**** TODO XML/XSLT, JSON and YAML
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - http://powershelltutorial.net/home/Introduction-to-Powershell
-     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
-     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
-     - Chocolatey Package Manager for Windows  https://chocolatey.org/
-     - http://www.powershellmagazine.com/
-     - AutoIT https://www.autoitscript.com/site/autoit/
-     - AutoHotKey https://autohotkey.com/
+**** TODO Squeak and Smalltalk
+**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
+     - file://c:/users/ray/documents/projects/c
+     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - http://www.cplusplus.com/doc/tutorial/classes/
+     - http://programming.guide/java/macros-in-java-source-files.html
 **** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
 [[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
       - file://c:/users/ray/documents/projects/lisp
-***** TODO http://ergoemacs.org/emacs/elisp_basics.html
+      - https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html
+
+***** DONE http://www.defmacro.org/ramblings/lisp.html
+      - Lisp is executable XML with a friendlier syntax.
 ***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
+***** TODO http://ergoemacs.org/emacs/elisp_basics.html
 ***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
 ***** TODO Install and Learn Yasnippet
       - [file:/C:\Users\Ray\Documents\scratch1.org]
@@ -279,11 +269,39 @@ peed SQL Query.exe"
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+**** TODO XML/XSLT, JSON and YAML
+     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+
+**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+**** TODO Powershell
+     - Type Powershell on cmdline (storing history in bin)
+     - http://powershelltutorial.net/home/Introduction-to-Powershell
+     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
+     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
+     - Chocolatey Package Manager for Windows  https://chocolatey.org/
+     - http://www.powershellmagazine.com/
+     - AutoIT https://www.autoitscript.com/site/autoit/
+     - AutoHotKey https://autohotkey.com/
 
 **** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
-**** TODO Learning Flowgorithm and other VPLs
-     - https://en.wikipedia.org/wiki/Flowgorithm
-     - http://www.flowgorithm.org/
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
@@ -446,14 +464,6 @@ peed SQL Query.exe"
 
 **** TODO Source Making
      - https://sourcemaking.com/ 
-
-**** TODO Eclipse and Java
-     - Upgraded to Eclipse RCP (How to use RCP?)
-     - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
-
-***** DONE Eclipse/Java Tutorial Lessons
-     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
-     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
 
 **** DONE Pageflex Mastery
@@ -476,8 +486,17 @@ peed SQL Query.exe"
     - Youtube Research (this can be very "free lance")
     - Football
     - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.2713&rep=rep1&type=pdf
+    - http://dl.acm.org/citation.cfm?id=1698208&dl=ACM&coll=DL&CFID=968875798&CFTOKEN=12301577
+    - https://pdfs.semanticscholar.org/f4fd/fe92cdd10f8d073b8335007b2373db80c7a8.pdf
     - https://www.lively-kernel.org/
+    - https://github.com/LivelyKernel
     - https://www.packtpub.com/account/my-ebooks
+    - Anywhere you see a "Bubble Economy there is a problem!"
+      - Real Estate (now commercial RE)
+      - Higher Education
+      - Medical Insurance
+    - The key to instant wealth is legally performing bankruptcy without affecting personal credit ("the free lunch/Trump method")
+    
 
 
      
@@ -542,6 +561,8 @@ peed SQL Query.exe"
 *** DONE From Leftover Chicken Tenkatsu made Chicken Supreme (Sauce converted from Bechamel Sauce and Home made chicken stock)
 
 *** DONE Chinese Leftover Smorkasbork with Thai Lo mein creation with shrimp.
+
+*** DONE Tapas
 *** TODO Clean-out & Organize Frig
 
 ** End Task

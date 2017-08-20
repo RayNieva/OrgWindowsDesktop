@@ -112,7 +112,7 @@
 
 ** DONE Private Planning
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** DONE Check Email and Communications
+** TODO Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 ** TODO Check Accounts and Budget
@@ -132,98 +132,13 @@
 * DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - For Networking meeting put together (5) companies. 
-    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
-    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
-    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
-    - https://jobquest.detma.org/JobQuest/Default.aspx
-    - http://retirementjobs.com/
-    - https://www.flexjobs.com/
-    - http://www.careerbuilder.com/
-    - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
-    - https://my.indeed.com/resume
-    - Professional Jobseeking at a very "High Level". https://managementconsulted.com/ 
-    - https://www.resumerabbit.com/go/login
-    - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
-    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
-    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
-    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume https://www.youtube.com/watch?v=jETH9SI2zNQ 
-    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
-    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
-    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
-    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
-    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
-    - Login to PWS
-    - cpanel
-      [[https://cloud8.hostgator.com:2083/][cpanel]]
-    - [X] Was able to change by going to "settings" and putting the correct nameservers
-      also found the error when using mxtoolbox.
-    - [X] Removed Fetch Mail as cannot set-up SSL
-    - [X] Originally set-up Under Construction Website now using a redirector to LinkedIN via .htaccess
-
-**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
-    - http://rgnterprises.net This is currently using a redirector via .htaccess.
-    - http://rgnterprises.net/wordpress/wp-login.php
-    - http://rgnterprises.net/joomla
-    - http://rgnterprises.net/drupal
-    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
-    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
-    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
-    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
-    - http://www.apps4rent.com/affiliate-program.html
-    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
-    - http://ezgif.com/
-    - https://resources.biznessapps.com/h/
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
 
-**** DONE Learning Flowgorithm and other VPLs
-     - https://en.wikipedia.org/wiki/Flowgorithm
-     - http://www.flowgorithm.org/
-**** TODO [#A] Eclipse, Java and Acceleo
-     - file://C:\Users\Ray\eclipse\modeling-oxygen\eclipse\eclipse.exe
-     - Was -Upgraded to Eclipse RCP (How to use RCP?)
-     - Was - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
-
-***** DONE Eclipse/Java Tutorial Lessons
-     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
-     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
-
-**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
-     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
-     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
-     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
-
-
-***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell) start appropriate service for SQL Server
-     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
-VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
-***** TODO MYSQL
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell)
-     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
-peed SQL Query.exe"
-
-
-**** TODO Squeak and Smalltalk
-**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
-     - file://c:/users/ray/documents/projects/c
-     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-     - http://www.cplusplus.com/doc/tutorial/classes/
-     - http://programming.guide/java/macros-in-java-source-files.html
-**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
-[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
+**** DONE Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+      - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
+      - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
       - file://c:/users/ray/documents/projects/lisp
-      - https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html
 
 ***** DONE http://www.defmacro.org/ramblings/lisp.html
       - Lisp is executable XML with a friendlier syntax.
@@ -269,6 +184,49 @@ peed SQL Query.exe"
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+**** DONE [#A] Eclipse, Java and Acceleo
+     - http://www.wideskills.com/java-tutorial
+     - file://C:\Users\Ray\eclipse\modeling-oxygen\eclipse\eclipse.exe
+     - Was -Upgraded to Eclipse RCP (How to use RCP?)
+     - Was - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
+
+***** DONE Eclipse/Java Tutorial Lessons
+     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
+     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
+
+**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
+**** TODO Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - http://www.flowgorithm.org/
+
+**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
+     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
+     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
+
+
+***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell) start appropriate service for SQL Server
+     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
+***** TODO MYSQL
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell)
+     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
+peed SQL Query.exe"
+
+
+**** TODO Squeak and Smalltalk
+**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
+     - file://c:/users/ray/documents/projects/c
+     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - http://www.cplusplus.com/doc/tutorial/classes/
+     - http://programming.guide/java/macros-in-java-source-files.html
 **** TODO XML/XSLT, JSON and YAML
      - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
@@ -300,8 +258,6 @@ peed SQL Query.exe"
      - http://www.powershellmagazine.com/
      - AutoIT https://www.autoitscript.com/site/autoit/
      - AutoHotKey https://autohotkey.com/
-
-**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
@@ -479,8 +435,53 @@ peed SQL Query.exe"
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
+*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+    - For Networking meeting put together (5) companies. 
+    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
+    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
+    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - https://jobquest.detma.org/JobQuest/Default.aspx
+    - http://retirementjobs.com/
+    - https://www.flexjobs.com/
+    - http://www.careerbuilder.com/
+    - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
+    - https://my.indeed.com/resume
+    - Professional Jobseeking at a very "High Level". https://managementconsulted.com/ 
+    - https://www.resumerabbit.com/go/login
+    - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
+    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
+    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
+    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
+    - Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume https://www.youtube.com/watch?v=jETH9SI2zNQ 
+    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
+    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
+    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
+    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
+    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
+*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
+    - Login to PWS
+    - cpanel
+      [[https://cloud8.hostgator.com:2083/][cpanel]]
+    - [X] Was able to change by going to "settings" and putting the correct nameservers
+      also found the error when using mxtoolbox.
+    - [X] Removed Fetch Mail as cannot set-up SSL
+    - [X] Originally set-up Under Construction Website now using a redirector to LinkedIN via .htaccess
 
-*** DONE Freelance Research Top Ideas and Recreation.
+**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
+    - http://rgnterprises.net This is currently using a redirector via .htaccess.
+    - http://rgnterprises.net/wordpress/wp-login.php
+    - http://rgnterprises.net/joomla
+    - http://rgnterprises.net/drupal
+    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
+    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
+    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
+    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
+    - http://www.apps4rent.com/affiliate-program.html
+    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
+    - http://ezgif.com/
+    - https://resources.biznessapps.com/h/
+
+*** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")

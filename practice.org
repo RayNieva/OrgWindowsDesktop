@@ -49,7 +49,7 @@
 
 
      
-** TODO System and Network Administration and Personal Desktop Support
+** DONE System and Network Administration and Personal Desktop Support
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -119,7 +119,7 @@
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 ** TODO Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 ** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
@@ -132,50 +132,10 @@
 * DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
 
 
-**** DONE Windows Enterprise Server Administration
-     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
-     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-**** DONE DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
-     * https://theagileadmin.com/what-is-devops/
-
-     * (start-process "AWS" "FirefoxProcessBuffer" "ff" "https://aws.amazon.com/")
-       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
-       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
-       - http://aws.amazon.com/free/
-   
-     * https://azure.microsoft.com/en-us/pricing/
-       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
-     * https://automatetheboringstuff.com/ In Python
-
-     * http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
-       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
-       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
-       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
-       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
-
-     * ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
-
-     * https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
-     
-     * https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
-       - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
-       - https://docs.puppet.com/puppet/latest/reference/man/apply.html
-       - https://puppet.com/product/emulator#
-       - https://learn.chef.io/learn-the-basics/windows/get-set-up/
-       - https://www.nagios.org/
-       - http://www.geekride.com/hard-link-vs-soft-link/
-       - https://github.com/chef-cookbooks/webpi
-       - https://en.wikipedia.org/wiki/Web_Platform_Installer
-     
-       - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
-
-	 - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
-
-	 - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
-**** TODO [#A] Eclipse, Java and Acceleo
+**** DONE [#A] Eclipse, Java and Acceleo
      - http://www.wideskills.com/java-tutorial
      - file://C:\Users\Ray\eclipse\modeling-oxygen\eclipse\eclipse.exe
      - Was -Upgraded to Eclipse RCP (How to use RCP?)
@@ -186,28 +146,7 @@
      - Companion Document file://C:\Users\Ray\Downloads\Total_Beginner_Companion_Document.pdf
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - Eclipse and Java  by Alex Tayor https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False 
-
-**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
-     - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
-     - file://c:/users/ray/documents/projects/c
-     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-     - http://www.cplusplus.com/doc/tutorial/classes/
-     - http://programming.guide/java/macros-in-java-source-files.html
-**** TODO Powershell
-     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
-     - Type Powershell on cmdline (storing history in bin)
-     - http://powershelltutorial.net/home/Introduction-to-Powershell
-     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
-     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
-     - Chocolatey Package Manager for Windows  https://chocolatey.org/
-     - http://www.powershellmagazine.com/
-     - AutoIT https://www.autoitscript.com/site/autoit/
-     - AutoHotKey https://autohotkey.com/
-**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+**** DONE Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
       - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
       - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
       - file://c:/users/ray/documents/projects/lisp
@@ -258,13 +197,13 @@
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+**** DONE XML/XSLT, JSON and YAML
+     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
+       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 
-**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
-**** TODO Learning Flowgorithm and other VPLs
-     - https://en.wikipedia.org/wiki/Flowgorithm
-     - http://www.flowgorithm.org/
-
-**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
      - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
@@ -280,12 +219,94 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
+**** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
+     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
+     - Develop Epic (Norm Heckman has outline)
+     - https://asana.com/
+     - file://C:/Users/Ray/Downloads/
+     - http://github.com/mikec964
+     - https://github.com/mikec964/chelmbigstock/wiki
+     - Hadoop, AWS, Kaggle, Hortonworks, Docker?
+       - https://aws.amazon.com/
+
+       - http://hortonworks.com/
+
+	 - https://en.wikipedia.org/wiki/Hortonworks
+
+       - https://www.kaggle.com/
+
+       - https://www.docker.com/products/docker
+
+       - http://www.geocreepy.com/
+**** TODO Windows Enterprise Server Administration
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
+     * https://theagileadmin.com/what-is-devops/
+
+     * (start-process "AWS" "FirefoxProcessBuffer" "ff" "https://aws.amazon.com/")
+       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
+       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
+       - http://aws.amazon.com/free/
+   
+     * https://azure.microsoft.com/en-us/pricing/
+       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
+     * https://automatetheboringstuff.com/ In Python
+
+     * http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
+       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
+       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
+       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
+       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
+
+     * ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
+
+     * https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
+     
+     * https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
+       - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
+       - https://docs.puppet.com/puppet/latest/reference/man/apply.html
+       - https://puppet.com/product/emulator#
+       - https://learn.chef.io/learn-the-basics/windows/get-set-up/
+       - https://www.nagios.org/
+       - http://www.geekride.com/hard-link-vs-soft-link/
+       - https://github.com/chef-cookbooks/webpi
+       - https://en.wikipedia.org/wiki/Web_Platform_Installer
+     
+       - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
+
+	 - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
+
+	 - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
+
+**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
+     - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
+     - file://c:/users/ray/documents/projects/c
+     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - http://www.cplusplus.com/doc/tutorial/classes/
+     - http://programming.guide/java/macros-in-java-source-files.html
+**** TODO Powershell
+     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
+     - Type Powershell on cmdline (storing history in bin)
+     - http://powershelltutorial.net/home/Introduction-to-Powershell
+     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
+     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
+     - Chocolatey Package Manager for Windows  https://chocolatey.org/
+     - http://www.powershellmagazine.com/
+     - AutoIT https://www.autoitscript.com/site/autoit/
+     - AutoHotKey https://autohotkey.com/
+
+**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
+**** TODO Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - http://www.flowgorithm.org/
 
 
 **** TODO Squeak and Smalltalk
-**** TODO XML/XSLT, JSON and YAML
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 
 **** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
@@ -377,25 +398,6 @@ peed SQL Query.exe"
 **** TODO IPython
      - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
      - file://C://Users/ray/bin/practice.py
-**** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
-     - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
-     - Develop Epic (Norm Heckman has outline)
-     - https://asana.com/
-     - file://C:/Users/Ray/Downloads/
-     - http://github.com/mikec964
-     - https://github.com/mikec964/chelmbigstock/wiki
-     - Hadoop, AWS, Kaggle, Hortonworks, Docker?
-       - https://aws.amazon.com/
-
-       - http://hortonworks.com/
-
-	 - https://en.wikipedia.org/wiki/Hortonworks
-
-       - https://www.kaggle.com/
-
-       - https://www.docker.com/products/docker
-
-       - http://www.geocreepy.com/
 
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
@@ -440,7 +442,7 @@ peed SQL Query.exe"
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
-*** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
     - For Networking meeting put together (5) companies. 
     - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
     - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
@@ -520,7 +522,7 @@ peed SQL Query.exe"
 
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 ** DONE Made Sukiyaki 

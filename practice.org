@@ -50,6 +50,8 @@
 
      
 ** DONE System and Network Administration and Personal Desktop Support
+   - https://www.tenforums.com/tutorials/5472-view-windows-update-history-windows-10-a.html
+   - https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -59,6 +61,7 @@
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
    - System File checker command "sfc /scannow"
+   - https://www.microsoft.com/en-us/software-download/windows10/
    - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
    - http://www.duplicati.com/howtos
    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
@@ -78,12 +81,14 @@
    - Metro Apps https://stackoverflow.com/questions/26244759/opening-a-file-in-a-metro-app-from-command-line
    - http://windowsitpro.com/windows-8/opening-windows-8-apps-command-prompt-or-script
    - https://superuser.com/questions/1225113/running-metro-app-minimized-from-command-line
+   - https://www.quora.com/Why-do-some-developers-love-Windows-and-hate-Linux
 
 
 *** DONE Fixed Computer Cooling Issue
     - Keep on cool hard surface
     - Use freeze pak to cool down
     - Turn off computer at night
+    - http://www.laptopinventory.com/LaptopInventory.php/Toshiba/Satellite/L775/Fan
 *** TODO Routine System Operation to Optimize systems
 
 *** TODO Work on Other Computer/Devices (Phone and Tablet too)
@@ -119,7 +124,7 @@
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 ** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 ** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
@@ -129,13 +134,94 @@
 
 
  
-* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
-*** DONE [#A] PROJECTS: Skills/Subjects Mastery
+*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+    - Using the Feynman Technique: https://www.youtube.com/watch?v=_f-qkGJBPts
 
 
-**** DONE [#A] Eclipse, Java and Acceleo
+**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
+     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
+     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
+     - https://search.yahoo.com/yhs/search?p=emacs+sql+server&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+
+
+***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell) start appropriate service for SQL Server
+     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
+***** TODO MYSQL
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell)
+     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
+peed SQL Query.exe"
+
+**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
+     - https://www.quora.com/Will-software-developers-continue-to-be-in-high-demand-in-the-future
+
+**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.quora.com/Are-Single-Page-Applications-the-future-of-Web
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+
+**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
+     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - https://www.quora.com/Is-Ruby-on-Rails-useful-for-a-single-page-application
+     - file://c:/users/ray/documents/projects/ruby
+     - file://c:/users/ray/bin/practice.rb
+     - http://ruby.bastardsbook.com/chapters/loops/
+     - http://ruby.bastardsbook.com/chapters/methods/
+
+***** DONE http://installfest.railsbridge.org/installfest/windows
+
+***** DONE http://railsapps.github.io/installing-rails.html
+
+***** DONE http://railsapps.github.io/what-is-ruby-rails.html
+      
+***** TODO Ruby on Rails Tutorial [0/1]
+      1. [ ] https://www.railstutorial.org/book/beginning
+
+***** TODO http://railsinstaller.org/en RailsInstaller
+
+***** TODO http://guides.rubyonrails.org/getting_started.html
+
+***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
+**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+     - Github Account https://github.com/RayNieva
+     - GitLab Account https://gitlab.com/raynieva
+       - https://guides.github.com/features/mastering-markdown/
+     - BitBucket Account https://bitbucket.org/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - Heroku https://id.heroku.com/login
+     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
+     - https://theagileadmin.com/what-is-devops/
+     - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
+
+**** TODO [#A] Eclipse, Java and Acceleo
      - http://www.wideskills.com/java-tutorial
      - file://C:\Users\Ray\eclipse\modeling-oxygen\eclipse\eclipse.exe
      - Was -Upgraded to Eclipse RCP (How to use RCP?)
@@ -146,7 +232,7 @@
      - Companion Document file://C:\Users\Ray\Downloads\Total_Beginner_Companion_Document.pdf
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - Eclipse and Java  by Alex Tayor https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False 
-**** DONE Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
       - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
       - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
       - file://c:/users/ray/documents/projects/lisp
@@ -197,28 +283,11 @@
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-**** DONE XML/XSLT, JSON and YAML
+**** TODO XML/XSLT, JSON and YAML
      * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
      * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
        - file://C:\Users\Ray\Documents\Projects\XML-XSLT
 ***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
-
-**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
-     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
-     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
-     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
-
-
-***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell) start appropriate service for SQL Server
-     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
-VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
-***** TODO MYSQL
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell)
-     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
-peed SQL Query.exe"
 **** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
      - Develop Epic (Norm Heckman has outline)
@@ -299,33 +368,12 @@ peed SQL Query.exe"
      - http://www.powershellmagazine.com/
      - AutoIT https://www.autoitscript.com/site/autoit/
      - AutoHotKey https://autohotkey.com/
-
-**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
 **** TODO Learning Flowgorithm and other VPLs
      - https://en.wikipedia.org/wiki/Flowgorithm
      - http://www.flowgorithm.org/
 
 
 **** TODO Squeak and Smalltalk
-
-**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
-     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
@@ -342,45 +390,8 @@ peed SQL Query.exe"
      - http://www.meetup.com/WorcesterClub/
      - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
 
-**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
-     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
-     - file://c:/users/ray/documents/projects/ruby
-     - file://c:/users/ray/bin/practice.rb
-     - http://ruby.bastardsbook.com/chapters/loops/
-     - http://ruby.bastardsbook.com/chapters/methods/
-
-***** DONE http://installfest.railsbridge.org/installfest/windows
-
-***** DONE http://railsapps.github.io/installing-rails.html
-
-***** DONE http://railsapps.github.io/what-is-ruby-rails.html
-      
-***** TODO Ruby on Rails Tutorial [0/1]
-      1. [ ] https://www.railstutorial.org/book/beginning
-
-***** TODO http://railsinstaller.org/en RailsInstaller
-
-***** TODO http://guides.rubyonrails.org/getting_started.html
-
-***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
-
 **** TODO Learn Vimperator
      - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
-     - Github Account https://github.com/RayNieva
-       - https://guides.github.com/features/mastering-markdown/
-     - BitBucket Account https://bitbucket.org/RayNieva
-     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-     - file://C:/Users/Ray/Desktop/history03-11-16.txt
-     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
-     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
-     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - Heroku https://id.heroku.com/login
-     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
-     - https://theagileadmin.com/what-is-devops/
-     - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
 
 **** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
      - http://www.seleniumhq.org/
@@ -402,6 +413,7 @@ peed SQL Query.exe"
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
      - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
+
      - https://potentpages.com/web-crawler-tutorials/python/
      - http://ruby.bastardsbook.com/chapters/html-parsing/ Nokogiri
      - http://irobotsoft.com/
@@ -488,7 +500,7 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")
@@ -522,7 +534,7 @@ peed SQL Query.exe"
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
+* DONE Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 ** DONE Made Sukiyaki 

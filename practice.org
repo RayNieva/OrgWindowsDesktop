@@ -52,6 +52,7 @@
 ** DONE System and Network Administration and Personal Desktop Support
    - https://www.tenforums.com/tutorials/5472-view-windows-update-history-windows-10-a.html
    - https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
+   - System File checker command "sfc /scannow"
    - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
@@ -60,7 +61,6 @@
    - https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
-   - System File checker command "sfc /scannow"
    - https://www.microsoft.com/en-us/software-download/windows10/
    - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
    - http://www.duplicati.com/howtos
@@ -120,8 +120,8 @@
 
   
 
-** DONE Private Planning
-*** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
+** TODO Private Planning
+*** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 ** TODO Check Accounts and Budget
 
 *** TODO Budgeting and Bills
@@ -134,11 +134,37 @@
 
 
  
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
+*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+    - For Networking meeting put together (5) companies. 
+    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
+    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
+    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - https://jobquest.detma.org/JobQuest/Default.aspx
+    - http://retirementjobs.com/
+    - https://www.flexjobs.com/
+    - http://www.careerbuilder.com/
+    - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
+    - https://my.indeed.com/resume
+    - Professional Jobseeking at a very "High Level". https://managementconsulted.com/ 
+    - https://www.resumerabbit.com/go/login
+    - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
+    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
+    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
+    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
+    - Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume https://www.youtube.com/watch?v=jETH9SI2zNQ 
+    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
+    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
+    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
+    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
+    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
     - Using the Feynman Technique: https://www.youtube.com/watch?v=_f-qkGJBPts
+    - Unbelievable Resource http://www.techtutorials.net/index.html
+
+
 
 
 **** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
@@ -159,8 +185,122 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
 
-**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
-     - https://www.quora.com/Will-software-developers-continue-to-be-in-high-demand-in-the-future
+**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+      - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
+      - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
+      - file://c:/users/ray/documents/projects/lisp
+      - (list-system-processes)
+      - (process-attributes 0)
+
+***** TODO https://tkf.github.io/emacs-ipython-notebook/
+
+***** DONE http://www.defmacro.org/ramblings/lisp.html
+      - Lisp is executable XML with a friendlier syntax.
+***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
+***** TODO http://ergoemacs.org/emacs/elisp_basics.html
+***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
+***** TODO Install and Learn Yasnippet
+      - [file:/C:\Users\Ray\Documents\scratch1.org]
+***** TODO Install and Learn Icicles
+***** TODO Practice Check Boxes [100%]
+      - [X] Checkbox 1
+      - [X] Checkbox 2
+      - [X] Checkbox 3
+      - [X] Checkbox 4
+      
+***** TODO Another Tutorial on Org-Mode
+      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
+      + Use Git to synchronize
+      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
+      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
+
+***** TODO Emacs for Writers
+      - [https://www.youtube.com/watch?v=FtieBc3KptU]
+***** TODO Learning more about Capture-mode Emacs
+      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
+      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
+
+***** TODO Learn Bookmark and Bookmark Plus
+      - https://www.emacswiki.org/emacs/BookMarks
+
+***** TODO Learn Abbrev Mode
+      - Learned about the 
+       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
+
+***** DONE Install and Learn Evil
+      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
+      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
+
+***** TODO Learn Vim
+      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
+      - http://vim.wikia.com/wiki/Moving_around
+
+***** TODO Learn Babel
+
+***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+**** TODO IPython
+     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
+     - file://C://Users/ray/bin/practice.py
+
+
+**** TODO XML/XSLT, JSON and YAML
+     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
+       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
+     * https://theagileadmin.com/what-is-devops/
+
+     * https://en.wikipedia.org/wiki/Build_automation
+
+     * At Pageflex used Deployment Wizard (automation) https://en.wikipedia.org/wiki/Software_deployment
+
+     * (start-process "AWS" "FirefoxProcessBuffer" "ff" "https://aws.amazon.com/")
+       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
+       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
+       - http://aws.amazon.com/free/
+   
+     * https://azure.microsoft.com/en-us/pricing/
+       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
+     * https://automatetheboringstuff.com/ In Python
+
+     * http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
+       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
+       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
+       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
+       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
+
+     * ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
+
+     * https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
+     
+     * https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
+
+       - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
+       - https://docs.puppet.com/puppet/latest/reference/man/apply.html
+       - https://puppet.com/product/emulator#
+       - https://learn.chef.io/learn-the-basics/windows/get-set-up/
+       - https://www.nagios.org/
+       - http://www.geekride.com/hard-link-vs-soft-link/
+       - https://github.com/chef-cookbooks/webpi
+       - https://en.wikipedia.org/wiki/Web_Platform_Installer
+     
+       - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
+
+	 - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
+
+	 - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
+
+       - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
+
+       - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
+**** TODO Windows Enterprise Server Administration
+     - https://search.yahoo.com/yhs/search?p=vmware+tutorial&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+     - Beginner VMWare 6 Tutorial https://www.youtube.com/watch?v=kccuObts1ZM
+     - http://www.techtutorials.net/tutorials/virtualization/vmware.html
+     - VMWare Series Tutorial https://www.youtube.com/watch?list=PLKkAmtk-hgfdyqhjJci5Bki73Q5bcgPTR&v=a-zqbAPKgX8
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
 **** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
@@ -181,6 +321,9 @@ peed SQL Query.exe"
      - https://www.npmjs.com/ Javascript Package Manager
      - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
      - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+
+**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
+     - https://www.quora.com/Will-software-developers-continue-to-be-in-high-demand-in-the-future
 
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
@@ -232,62 +375,6 @@ peed SQL Query.exe"
      - Companion Document file://C:\Users\Ray\Downloads\Total_Beginner_Companion_Document.pdf
      - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
      - Eclipse and Java  by Alex Tayor https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False 
-**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
-      - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
-      - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
-      - file://c:/users/ray/documents/projects/lisp
-      - (list-system-processes)
-      - (process-attributes 0)
-
-***** DONE http://www.defmacro.org/ramblings/lisp.html
-      - Lisp is executable XML with a friendlier syntax.
-***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
-***** TODO http://ergoemacs.org/emacs/elisp_basics.html
-***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
-***** TODO Install and Learn Yasnippet
-      - [file:/C:\Users\Ray\Documents\scratch1.org]
-***** TODO Install and Learn Icicles
-***** TODO Practice Check Boxes [100%]
-      - [X] Checkbox 1
-      - [X] Checkbox 2
-      - [X] Checkbox 3
-      - [X] Checkbox 4
-      
-***** TODO Another Tutorial on Org-Mode
-      + [[https://www.youtube.com/watch?v=oJTwQvgfgMM][Video]]
-      + Use Git to synchronize
-      + [[https://www.youtube.com/watch?v=1-dUkyn_fZA][Emacs + org-mode + python in reproducible research; SciPy 2013 Presentation ]]
-      + [[https://www.youtube.com/watch?v=dljNabciEGg][Literate Devops with Emacs ]]
-
-***** TODO Emacs for Writers
-      - [https://www.youtube.com/watch?v=FtieBc3KptU]
-***** TODO Learning more about Capture-mode Emacs
-      - [[http://orgmode.org/manual/Capture-templates.html#Capture-templates]
-      - [[https://www.youtube.com/watch?v=KdcXu_RdKI0]
-
-***** TODO Learn Bookmark and Bookmark Plus
-      - https://www.emacswiki.org/emacs/BookMarks
-
-***** TODO Learn Abbrev Mode
-      - Learned about the 
-       	;;;(add-to-list 'load-path "~/.emacs.d/elpa/yasnippet-0.8.0")
-
-***** DONE Install and Learn Evil
-      - [[https://www.youtube.com/watch?v=JWD1Fpdd4Pc][Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs ]]
-      - [[https://www.youtube.com/watch?v=_NUO4JEtkDw&list=PLR3yE6GYBLQDbn52K8F8eOusiqbB94ZDa][Learning Vim in a Week]]
-
-***** TODO Learn Vim
-      - M-X Shell  then type "start cmd" in spawned DOS shell navigate using "gotovim" then "vimtutor" in working directory as I have learned emacs does not always like heavy shell commands inside its process.
-      - http://vim.wikia.com/wiki/Moving_around
-
-***** TODO Learn Babel
-
-***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-**** TODO XML/XSLT, JSON and YAML
-     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
-       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
      - Develop Epic (Norm Heckman has outline)
@@ -307,46 +394,6 @@ peed SQL Query.exe"
        - https://www.docker.com/products/docker
 
        - http://www.geocreepy.com/
-**** TODO Windows Enterprise Server Administration
-     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
-     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
-     * https://theagileadmin.com/what-is-devops/
-
-     * (start-process "AWS" "FirefoxProcessBuffer" "ff" "https://aws.amazon.com/")
-       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
-       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
-       - http://aws.amazon.com/free/
-   
-     * https://azure.microsoft.com/en-us/pricing/
-       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
-     * https://automatetheboringstuff.com/ In Python
-
-     * http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
-       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
-       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
-       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
-       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
-
-     * ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
-
-     * https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
-     
-     * https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
-       - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
-       - https://docs.puppet.com/puppet/latest/reference/man/apply.html
-       - https://puppet.com/product/emulator#
-       - https://learn.chef.io/learn-the-basics/windows/get-set-up/
-       - https://www.nagios.org/
-       - http://www.geekride.com/hard-link-vs-soft-link/
-       - https://github.com/chef-cookbooks/webpi
-       - https://en.wikipedia.org/wiki/Web_Platform_Installer
-     
-       - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
-
-	 - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
-
-	 - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
 
 **** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
      - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
@@ -403,13 +450,6 @@ peed SQL Query.exe"
      - Step 3. Go to Tutorials Trailhead
      - Step 4. Select Course of Study
 
-
-
-
-**** TODO IPython
-     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
-     - file://C://Users/ray/bin/practice.py
-
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
      - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
@@ -454,29 +494,6 @@ peed SQL Query.exe"
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
-*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - For Networking meeting put together (5) companies. 
-    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
-    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
-    - http://www.monster.com/account/homepage/?re=swoop&fwr=true
-    - https://jobquest.detma.org/JobQuest/Default.aspx
-    - http://retirementjobs.com/
-    - https://www.flexjobs.com/
-    - http://www.careerbuilder.com/
-    - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
-    - https://my.indeed.com/resume
-    - Professional Jobseeking at a very "High Level". https://managementconsulted.com/ 
-    - https://www.resumerabbit.com/go/login
-    - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
-    - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
-    - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
-    - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume https://www.youtube.com/watch?v=jETH9SI2zNQ 
-    - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
-    - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
-    - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
-    - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
-    - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
 *** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
     - cpanel
@@ -534,7 +551,7 @@ peed SQL Query.exe"
 
 
 
-* DONE Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
 ** DONE Made Sukiyaki 

@@ -8,20 +8,21 @@
 [[go-to-bottom]]
 
 ** DONE [#A] Time Management
-   - https://calendar.google.com/calendar/render?tab=mc#main_7
+   - (start-process "MyCalendar" "FirefoxProcessBuffer" "ff" "https://calendar.google.com/calendar/render?tab=mc#main_7")
 *** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
-    - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
     - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
-    - http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  Cyborganize Workflow Mgmt
+    - http://gettingthingsdone.com/2017/04/10-tips-for-success-with-gtd/
+    - https://www.youtube.com/watch?v=JhmZhTXN4as   GTD explained in minutes
+    - The 3 Habits to Get Things Done https://facilethings.com/blog/en/habits
+    - Cyborganize Workflow Mgmt http://www.cyborganize.org/clarity/fast-start/execution-loop-demo-with-video/  
     - More about Org-mode [[Learn-Org-Mode]]
-    - http://gettingthingsdone.com/2015/06/podcast-05-gtd-and-daily-habits/  Podcast #5 – GTD and Daily Habits
-    - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/ JTD Journaling to Done
+    - Podcast #5 – GTD and Daily Habits http://gettingthingsdone.com/2015/06/podcast-05-gtd-and-daily-habits/  
     - file://C:/Users/Ray/AppData/Roaming/org/gtdActionables.org
     - file://C:/Users/Ray/AppData/Roaming/org/jtdjournal.org
       - or on bitbucket https://bitbucket.org/RayNieva/org/src/201727ffebaaa368215101c27de8224862eff61b/org/jtdJournal.org?at=master&fileviewer=file-view-default
     - Browser History as a Journal (shell-command "start firefox") or Alt-Tab to see if existing task.
-    - https://www.youtube.com/watch?v=g9FsTrVSg1w To-Do Lists Are Evil (And What To Do About It In Only 4 Steps)
+    - To-Do Lists Are Evil (And What To Do About It In Only 4 Steps) https://www.youtube.com/watch?v=g9FsTrVSg1w 
 
 
 *** TODO Other Time Management Stuff
@@ -37,48 +38,11 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** TODO Mind and Body Rituals, Health and Attitude Development
+** DONE Mind/Body Rituals, Health and Attitude Development
 
-*** TODO Health Insurance
-*** TODO Meditate
-[[  - https://youtube.com]]
-  - https://www.youtube.com/watch?v=WYP_W49o1vQ Guided Morning Meditation (10 minutes to kick start your day) 
-[[https://www.youtube.com/watch?v=1vx8iUvfyCY&list=PLO9OtUmChpP_I3ALG2Zl_LcR53um6zSyu][  - Guided Meditation for Detachment From Over-Thinking (Anxiety / OCD / Depression) ]]
-[[https://www.youtube.com/watch?v=tOQaVSX-N4c][  - CALMING OUR MINDS: Relaxing mindful life & RELAXATION]]
-[[https://www.youtube.com/watch?v=uPWqs8hOzmQ][  - Coping with Anxiety, stress & tension: Positive Affirmations to Help Ease Anxiety & Calm The Mind ]]
-   - https://www.youtube.com/watch?v=iCJkTXS4LoA  Powerful: Confidence Spoken Affirmations with binaural tones for Healthy Self-esteem
-*** TODO IBS    
+*** DONE Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
-*** TODO Learning About Chi (Can be a feeling of Empowerment too!
-    - https://www.youtube.com/watch?v=dfy2Tn52sxU  Power of Meditation: Qigong Master Chi Energy
-    - https://www.youtube.com/watch?v=Wqdg3i3QsBk  Part 1- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy video series
-    - [[https://www.youtube.com/watch?v=Wg3uZgx6f4g&ebc=ANyPxKp3_CnvhYZNsXif1CouZ3K2H2Ms316jBl2w12p6redN7tOp-W4ol0wgJFuE-RvN2BZfVkGbWwYrjOQQ-yLMBTdy_FHwlw#t=293.123061][Part 4- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy]]    
-    - [[https://www.youtube.com/watch?v=pLAg2pV2qMU][Part 6- Power of KI (気) or CHI (氣) or "QI" known as Internal Energy]]    
-
-*** TODO Look at NLP and Psychological training
-    - [[https://www.youtube.com/watch?v=f81dxIXADfc][NLP Techniques: How to eliminate unwanted thoughts ]]
-    - [[https://www.youtube.com/watch?v=LJkwbq8Nsw8][How to get really good at anything - a powerful NLP "meta strategy" ]]
-    - [[https://www.youtube.com/watch?v=MldFdYzyIuk][How To Hypnotize Anyone Secretly]]
-    - [[https://www.youtube.com/watch?v=y1m_Jgkrz_A][How to Breakthrough a Limiting Belief in 6 Steps using Neuro Linguistic Programming ]]
-    - https://www.youtube.com/watch?v=EWqjUQrxCKo NLP Techniques: Embedded Commands & Suggestions How To Do Them
-    - https://www.youtube.com/watch?v=S-mo9r2tMwo Hypnotic Language Patterns that Work? - Covert Hypnosis - Kevin Hogan
-    - https://www.youtube.com/watch?v=67--22ys1S4 7 Magic Phrases of Persuasion with Kevin Hogan
-    - https://www.youtube.com/watch?v=YOzuun3dgX4 NLP - Power Reading and Power Writing
-    - https://www.youtube.com/watch?v=jaGJNxCxB-s Persuasive Writing
-    - Anchoring and added more research in the Swish pattern.
-    - https://www.youtube.com/watch?v=M3szqVVeNzw Self Help - How Self-Help Can Revolutionize Your Entire Life
-    - https://www.youtube.com/watch?v=FoYs1YqQI7w  The Power Of Routines - How Your Daily Routine Holds You Back From Your Dreams
-    - https://www.youtube.com/watch?v=nu5I85_YAak Daily Habits of Successful People: It's All About Routine 
-
-*** TODO http://www.catb.org/~esr/faqs/hacker-howto.html  How To Become a Hacker
-    - file://C:/Users/Ray/Downloads/Teach%20Yourself%20Programming%20in%20Ten%20Years.htm
-
-*** TODO http://adam.nz/library/in_the_beginning_was_the_command_line
-
-*** TODO http://www.paulgraham.com/avg.html  Interesting Article on Lisp
-*** TODO SuperMemory
-    -  http://www.super-memory.com/
-** DONE Have Coffee [1/3]
+** DONE Have Coffee [1/3]**
    - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
@@ -86,6 +50,10 @@
 
      
 ** DONE System and Network Administration and Personal Desktop Support
+   - https://www.tenforums.com/tutorials/5472-view-windows-update-history-windows-10-a.html
+   - https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
+   - System File checker command "sfc /scannow"
+   - Powrshell ISE file://c:/cygwin64/PowrshISE86.bat
    - Document/Receipt Scanning using file://c:/users/ray/downloads/Console1Helpdesk1.msc
    - file://C:/Users/Ray/AppData/Roaming/.emacs and then copy to file://C:/Users/Ray/Desktop (for public git upload) for private git upload see org.
    - http://www.tecmint.com/18-tar-command-examples-in-linux/
@@ -93,7 +61,7 @@
    - https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/
    - file://C:/Users/Ray/history02-10-16.txt  and then copy to file://C:/Users/Ray/Desktop or file://C:/Users/Ray/bin
    - (yas-load-directory "~/.emacs.d/plugins/yasnippet/snippets/yasnippet-snippets")
-   - System File checker command "sfc /scannow"
+   - https://www.microsoft.com/en-us/software-download/windows10/
    - https://www.youtube.com/watch?v=k6dosJ9phWY Eli the Computer Guy Back-up Systems
    - http://www.duplicati.com/howtos
    - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
@@ -104,11 +72,26 @@
    - http://www.infoworld.com/article/2609165/web-browsers/10-reasons-the-browser-is-becoming-the-universal-os.html
    - http://www.howtogeek.com/196158/how-to-create-and-run-virtual-machines-with-hyper-v/
    - http://www.howtogeek.com/142146/how-to-use-google-chrome-to-remotely-access-your-computer/
+   - https://community.spiceworks.com/how_to/23479-spiceworks-tutorial-for-beginners
+   - https://community.spiceworks.com/university/tutorials
+   - http://conemu.github.io/
+   - https://www.lifewire.com/list-of-command-prompt-commands-4092302
+   - http://certifiedtricks.net/run-command-list-for-windows-10/
+   - http://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/
+   - Metro Apps https://stackoverflow.com/questions/26244759/opening-a-file-in-a-metro-app-from-command-line
+   - http://windowsitpro.com/windows-8/opening-windows-8-apps-command-prompt-or-script
+   - https://superuser.com/questions/1225113/running-metro-app-minimized-from-command-line
+   - https://www.quora.com/Why-do-some-developers-love-Windows-and-hate-Linux
 
 
+*** DONE Fixed Computer Cooling Issue
+    - Keep on cool hard surface
+    - Use freeze pak to cool down
+    - Turn off computer at night
+    - http://www.laptopinventory.com/LaptopInventory.php/Toshiba/Satellite/L775/Fan
 *** TODO Routine System Operation to Optimize systems
 
-*** DONE Work on Other Computer/Devices (Phone and Tablet too)
+*** TODO Work on Other Computer/Devices (Phone and Tablet too)
     - http://lifehacker.com/5403100/dual-boot-windows-7-and-ubuntu-in-perfect-harmony
     - Trying to increase files space, but blue screen of death issues. RESOLVED
     - Need to think of alternative boot options first. RESOLVED
@@ -119,66 +102,33 @@
     - http://www.tweaking4all.com/software/linux-software/use-xrdp-remote-access-ubuntu-14-04/
     - http://xmonad.org/manpage.html
 
-*** TODO Cloud Computer
+*** TODO Cloud Computer(s)
     - https://c9.io/raynieva
-*** DONE Fixed Computer Cooling Issue
-    - Keep on cool hard surface
-    - Use freeze pak to cool down
-    - Turn off computer at night
+    - http://sdf.org/
+    - http://www.twenex.org/
+    - https://aws.amazon.com/
 *** DONE Keyboard Issue
 
 *** DONE Printer
     - [X] Make sure printer is off after finally using.
-** DONE Check Email and Communications
-*** TODO Mail and Other stuff:
-   [[https://gmail.com][- gmail]]
 
-   - https://rgnterprises.net:2096 Webmail
-   - Thunderbird (shell-command "start thunderbird.exe")
-     * Need to address certificate issue! RESOLVED BY RE-INSTALL <2016-05-31 Tue>
-     * Have configured Live Mail, rgnterprises mail and Comcast
-   - Check Sidekick https://app.getsidekick.com/stream/all
-   - LG Phone http://web.airdroid.com/
-     * (shell-command "C:/Users/Ray/bin/mobilePhone.bat")
-*** DONE Activate new phone
 
-*** TODO Check Texting on Landline
-    - [[http://my.xfinity.com/?cid=cust][Comcast]]
+
+
+** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+     
+
+  
+
+** TODO Private Planning
+*** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 ** DONE Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
-
-
-[[https://www.wcu.com/home/home][WCU]]
-
-
-
-    
-
-
-** DONE Household, Health and Hygiene
-*** DONE Take Dog out feed animals
-*** DONE Clean Cat Box
-
-*** DONE Brush Teeth and Oral Hygiene
-
-*** TODO Prescription Medicine
-
-*** TODO Take shower
-
-*** TODO Kitchen Clean-up
-
-*** TODO Kitchen Tile Project
-*** TODO Do Laundry
-
-*** TODO Bathroom Clean-up
-*** TODO Vacuum Floor
-*** DONE Cut Lawn
-*** TODO Take Out Trash and/or Recycling
-*** TODO Clean-up Shoveling
-
-** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** DONE Check Email and Communications
+*** TODO Mail and Other stuff:
+**** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 
 ** End Task
 
@@ -188,97 +138,40 @@
 
 
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
-    - For Networking meeting put together (5) companies. Starting with National Grid.
-    - file://C:/Users/Ray/Desktop/scratch19.org  Job Search Workflow
-    - [http://www.etrcc.com] Initial visit to Framingham ETRR<2017-04-18 Tue>  Last year was 2016-02-10
-    - https://www.resumerabbit.com/go/login
+    - For Networking meeting put together (5) companies. 
+    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
+    - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true
+    - https://jobquest.detma.org/JobQuest/Default.aspx
+    - http://retirementjobs.com/
     - https://www.flexjobs.com/
     - http://www.careerbuilder.com/
     - https://accounts.careerbuilder.com/share/login.aspx?next=https%3a%2f%2faccounts.careerbuilder.com%2fshare%2foauth2%2fauth.aspx%3fnlui%3dtrue%26client_id%3d81d4d612%26redirect_uri%3dhttps%25253a%25252f%25252fm.careerbuilder.com%25252fsingle-sign-on%25252fgateway%25253fnext%25253dhttp%2525253A%2525252F%2525252Fbeta.careerbuilder.com%2525252Fresumes%26response_type%3did_token&nlui=true
     - https://my.indeed.com/resume
-    - https://managementconsulted.com/ Professional Jobseeking at a very "High Level".
+    - Professional Jobseeking at a very "High Level". https://managementconsulted.com/ 
+    - https://www.resumerabbit.com/go/login
     - https://amylynnandrews.com/how-to-become-a-virtual-assistant/
-    - [https://jobquest.detma.org/JobQuest/Default.aspx]
     - [file:/c:/Users/Ray/Documents/UnemploymentGuidelines.org]
-    - Create Persuasive Cover Letter Template(s)
-    - Job request ID 11978529
-    - Mandatory Introductory Seminar on <2017-05-16 Tue 09:30>
     - Ditto Outputs Automated Data-Entry  M-X Shell  then type "start cmd" in spawned DOS shell type "start ditto"
     - YAML to produce "My Way or the Highway Format" http://www.convertcsv.com/yaml-to-csv.htm
-    - Mandatory RESEA Meeting <2017-05-24 Wed>
-    - https://www.youtube.com/watch?v=jETH9SI2zNQ Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume
+    - Resume Writing Tips - The Secret Mindset For Writing a Perfect Resume https://www.youtube.com/watch?v=jETH9SI2zNQ 
     - https://www.youtube.com/watch?v=xFngomrq58o How Recruiters Read Your Resume ... in 7 Seconds!
     - https://www.youtube.com/watch?v=_0fjkKCsM1w  How to Write a Winning Resume, with Ramit Sethi
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-
-**** TODO Training Opportunities Program
-**** TODO Using Age to Advantage			     :Framingham:Car:
-     DEADLINE: <2017-05-24 Wed> at 9:15 AM Need to reschedule
-**** TODO Ace the Interview				     :Framingham:Car:
-     DEADLINE: <2017-06-01 Thu> at 9:15 AM
-
-**** DONE Developing Self Marketing Pitch		:Framingham:Car:Home:
-**** TODO Sort of related need to build on-line presence LinkedIn, GitHub, Spiceworks and FaceBook.
-    - http://www.job-hunt.org/social-networking/LinkedIn-job-search/linkedin-keywords.shtml
-    - https://www.youtube.com/watch?v=1EqJegxUnPA How to use LinkedIn Projects to highlight and link to your products and services.
-    - https://azurecollier.com/2013/03/12/make-your-linkedin-profile-stand-out-by-adding-projects/
-    - https://www.linkedin.com/pulse/20130721012242-52594-stop-don-t-send-that-resume
-    - http://thenextweb.com/apps/2012/11/26/linkedin-quietly-discontinues-github-app-to-better-invest-resources-into-other-projects/#gref
-    - On-line Presence
-      - [X] LinkedIn http://www.linkedin.com MAKING CONNECTIONS! and adding Projects, Groups etc...
-	- http://www.meetup.com/automation-mastermind/
-      - [ ] RGNterprises.NET http://rgnterprises.net
-	- [ ] Wordpress http://rgnterprises.net/wordpress
-	- [ ] Joomla http://rgnterprises.net/joomla
-	- [ ] Drupal http://rgnterprises.net/drupal
-      - [ ] https://rgnterprises.cloudappsportal.com Sharepoint Site Secured portal
-      - [X] Github
-      - [ ] Github.io https://pages.github.com/
-      - [ ] Hosted Sharepoint Site https://rgnterprises.cloudappsportal.com 
-      - [ ] Hubpages
-      - [ ] Twitter
-      - [ ] Facebook
-      - [ ] Article Directories
-**** TODO ETRCC Meeting on Resumes 			     :Framingham:Car:
-     DEADLINE: <2017-06-01 Thu> at 9:15 AM
-
-**** TODO ETRCC Meeting on Cover Letters 		     :Framingham:Car:
-     DEADLINE: <2017-06-01 Thu> at 9:15 AM
-**** TODO Electronics Resume 
-     DEADLINE: <2017-06-01 Thu> at 9:15 AM  Need to reschedule this workshop.
-**** TODO Avoiding Black Hole 
-     DEADLINE: <2017-06-01 Thu> at 9:15 AM 
-
-*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
-    - Login to PWS
-    - cpanel
-      [[https://cloud8.hostgator.com:2083/][cpanel]]
-    - [X] Was able to change by going to "settings" and putting the correct nameservers
-      also found the error when using mxtoolbox.
-    - [X] Removed Fetch Mail as cannot set-up SSL
-    - [X] Originally set-up Under Construction Website now using a redirector to LinkedIN via .htaccess
-
-**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
-    - http://rgnterprises.net This is currently using a redirector via .htaccess.
-    - http://rgnterprises.net/wordpress/wp-login.php
-    - http://rgnterprises.net/joomla
-    - http://rgnterprises.net/drupal
-    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
-    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
-    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
-    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
-    - http://www.apps4rent.com/affiliate-program.html
-    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
-    - http://ezgif.com/
-    - https://resources.biznessapps.com/h/
 *** TODO [#A] PROJECTS: Skills/Subjects Mastery
+    - Using the Feynman Technique: https://www.youtube.com/watch?v=_f-qkGJBPts
+    - Unbelievable Resource http://www.techtutorials.net/index.html
 
 
-**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+
+
+**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
+     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
+     - https://search.yahoo.com/yhs/search?p=emacs+sql+server&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
 
 
 ***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
@@ -291,25 +184,20 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
-**** TODO Learning Flowgorithm and other VPLs
-     - https://en.wikipedia.org/wiki/Flowgorithm
-     - http://www.flowgorithm.org/
 
-**** TODO Powershell
-     - Type Powershell on cmdline (storing history in bin)
-     - https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022 10 Basic Powershell Commands and how to output data to CSV formatting
-     - https://www.youtube.com/watch?v=yKstEJKdc4o PowerShell with a focus on automation (HD) 
-     - Chocolatey
-     - http://www.powershellmagazine.com/
-
-**** TODO XML/XSLT, JSON and YAML
-     - Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
-[[https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b][Watch Video]]
+      - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
+      - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
       - file://c:/users/ray/documents/projects/lisp
-***** TODO http://ergoemacs.org/emacs/elisp_basics.html
+      - (list-system-processes)
+      - (process-attributes 0)
+
+***** TODO https://tkf.github.io/emacs-ipython-notebook/
+
+***** DONE http://www.defmacro.org/ramblings/lisp.html
+      - Lisp is executable XML with a friendlier syntax.
 ***** DONE Learn Emacs Lisp https://learnxinyminutes.com/docs/elisp/
+***** TODO http://ergoemacs.org/emacs/elisp_basics.html
 ***** TODO LispyScript A javascript With Lispy Syntax And Macros! http://lispyscript.com/     
 ***** TODO Install and Learn Yasnippet
       - [file:/C:\Users\Ray\Documents\scratch1.org]
@@ -350,16 +238,96 @@ peed SQL Query.exe"
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
+**** TODO IPython
+     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
+     - file://C://Users/ray/bin/practice.py
 
-**** TODO Visual Studio and .NET CSharp etc (including C)... 
-     - file://c:/users/ray/documents/projects/c
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+
+**** TODO XML/XSLT, JSON and YAML
+     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
+       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
+     * https://theagileadmin.com/what-is-devops/
+
+     * https://en.wikipedia.org/wiki/Build_automation
+
+     * At Pageflex used Deployment Wizard (automation) https://en.wikipedia.org/wiki/Software_deployment
+
+     * (start-process "AWS" "FirefoxProcessBuffer" "ff" "https://aws.amazon.com/")
+       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
+       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
+       - http://aws.amazon.com/free/
+   
+     * https://azure.microsoft.com/en-us/pricing/
+       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
+     * https://automatetheboringstuff.com/ In Python
+
+     * http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
+       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
+       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
+       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
+       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
+
+     * ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
+
+     * https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
+     
+     * https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
+
+       - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
+       - https://docs.puppet.com/puppet/latest/reference/man/apply.html
+       - https://puppet.com/product/emulator#
+       - https://learn.chef.io/learn-the-basics/windows/get-set-up/
+       - https://www.nagios.org/
+       - http://www.geekride.com/hard-link-vs-soft-link/
+       - https://github.com/chef-cookbooks/webpi
+       - https://en.wikipedia.org/wiki/Web_Platform_Installer
+     
+       - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
+
+	 - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
+
+	 - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
+
+       - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
+
+       - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
+**** TODO Windows Enterprise Server Administration
+     - https://search.yahoo.com/yhs/search?p=vmware+tutorial&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+     - Beginner VMWare 6 Tutorial https://www.youtube.com/watch?v=kccuObts1ZM
+     - http://www.techtutorials.net/tutorials/virtualization/vmware.html
+     - VMWare Series Tutorial https://www.youtube.com/watch?list=PLKkAmtk-hgfdyqhjJci5Bki73Q5bcgPTR&v=a-zqbAPKgX8
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+
+**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.quora.com/Are-Single-Page-Applications-the-future-of-Web
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
+
+**** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
+     - https://www.quora.com/Will-software-developers-continue-to-be-in-high-demand-in-the-future
 
 **** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
      - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - https://www.quora.com/Is-Ruby-on-Rails-useful-for-a-single-page-application
      - file://c:/users/ray/documents/projects/ruby
      - file://c:/users/ray/bin/practice.rb
      - http://ruby.bastardsbook.com/chapters/loops/
@@ -379,29 +347,9 @@ peed SQL Query.exe"
 ***** TODO http://guides.rubyonrails.org/getting_started.html
 
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
-
-**** TODO Learn Vimperator
-     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
-**** TODO Javascript, JQuery, AngularJS, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
-     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
+     - GitLab Account https://gitlab.com/raynieva
        - https://guides.github.com/features/mastering-markdown/
      - BitBucket Account https://bitbucket.org/RayNieva
      - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
@@ -416,65 +364,17 @@ peed SQL Query.exe"
      - https://theagileadmin.com/what-is-devops/
      - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
 
-**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
-     - http://www.seleniumhq.org/
-     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
-     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
-**** TODO Developer Force.com
-     - Step 1. http://developer.force.com
-     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
-     - Step 3. Go to Tutorials Trailhead
-     - Step 4. Select Course of Study
+**** TODO [#A] Eclipse, Java and Acceleo
+     - http://www.wideskills.com/java-tutorial
+     - file://C:\Users\Ray\eclipse\modeling-oxygen\eclipse\eclipse.exe
+     - Was -Upgraded to Eclipse RCP (How to use RCP?)
+     - Was - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
 
-**** TODO Windows Enterprise Server Administration
-     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
-     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-**** TODO Concept of Workflow Automation
-
-
-
-
-**** TODO IPython
-     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
-     - file://C://Users/ray/bin/practice.py
-**** TODO DevOps (Workflow Automation Related), Puppet, Chef (Also Powershell in Separate category )
-     - https://theagileadmin.com/what-is-devops/
-
-     - https://automatetheboringstuff.com/ In Python
-   
-     - http://www.seascapewebdesign.com/blog/part-1-getting-started-vagrant-windows-7-and-8
-       - "C:\Program Files\Oracle\VirtualBox\VirtualBox.exe"
-       - C:\HashiCorp\Vagrant\bin\vagrant up :: Note, need to migrate to this directory to establish environment
-       - C:\Ch\bin\putty.exe :: login using 127.0.0.1:2222 ; username: "vagrant"; password: "vagrant";
-       - https://www.vagrantup.com/docs/cli/halt.html  vagrant halt
-     - ssh ray@ray-K55A  (secure login) :: on other machine need to start sshd server
-
-     - https://www.howtoforge.com/tutorial/ubuntu-vagrant-install-and-getting-started/
-
-     - https://www.youtube.com/watch?v=CDxaRfwzFrs&list=PLC71D7CFB6AF935E6 Eli the Computer Guy Servers
-
-       - https://www.youtube.com/watch?v=dIFKmJ4wufc&list=PLJcaPjxegjBVnEN8c6O8w1mNit4WGeAWN More Eli but on Windows Server 2012
-
-       - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
-
-     - https://aws.amazon.com/
-       - https://www.youtube.com/watch?v=N89AffsxS-g Eli the Computer Guy Amazon Web Services.
-       - http://stackoverflow.com/questions/19042025/amazon-ec2-free-tier-how-man-instances-can-i-run
-       - http://aws.amazon.com/free/
-     
-
-     - https://azure.microsoft.com/en-us/pricing/
-       - https://technet.microsoft.com/en-us/virtuallabs?id=f9E0rhsEF74 Technet Microsoft Virtual Labs
-     
-     - https://puppet.com/blog/deploying-puppet-client-server-standalone-and-massively-scaled-environments
-     - https://puppet.com/blog/puppet-your-operating-system-installer-and-you
-     - https://docs.puppet.com/puppet/latest/reference/man/apply.html
-     - https://puppet.com/product/emulator#
-     - https://learn.chef.io/learn-the-basics/windows/get-set-up/
-     - https://www.nagios.org/
-     - http://www.geekride.com/hard-link-vs-soft-link/
-     - https://github.com/chef-cookbooks/webpi
-     - https://en.wikipedia.org/wiki/Web_Platform_Installer
+***** DONE Eclipse/Java Tutorial Lessons
+     - (start-process "TotalBeginnersEclipseJava" "YouTubeProcess" "ff" "https://www.youtube.com/playlist?list=PLv6UtFrA7VEu4PtzJaGHHSeZBi6mdJtwv")
+     - Companion Document file://C:\Users\Ray\Downloads\Total_Beginner_Companion_Document.pdf
+     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
+     - Eclipse and Java  by Alex Tayor https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False 
 **** TODO Data Analytics Big Data/Hadoop (Related to TSSG Group)
      - https://www.youtube.com/watch?v=AZovvBgRLIY  Apache Hadoop & Big Data 101: The Basics
      - Develop Epic (Norm Heckman has outline)
@@ -495,9 +395,65 @@ peed SQL Query.exe"
 
        - http://www.geocreepy.com/
 
+**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
+     - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
+     - file://c:/users/ray/documents/projects/c
+     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - http://www.cplusplus.com/doc/tutorial/classes/
+     - http://programming.guide/java/macros-in-java-source-files.html
+**** TODO Powershell
+     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
+     - Type Powershell on cmdline (storing history in bin)
+     - http://powershelltutorial.net/home/Introduction-to-Powershell
+     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
+     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
+     - Chocolatey Package Manager for Windows  https://chocolatey.org/
+     - http://www.powershellmagazine.com/
+     - AutoIT https://www.autoitscript.com/site/autoit/
+     - AutoHotKey https://autohotkey.com/
+**** TODO Learning Flowgorithm and other VPLs
+     - https://en.wikipedia.org/wiki/Flowgorithm
+     - http://www.flowgorithm.org/
+
+
+**** TODO Squeak and Smalltalk
+**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
+     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
+     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
+     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
+       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
+       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
+       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
+       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
+       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
+       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
+       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
+       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
+       - 
+     - http://www.meetup.com/WorcesterClub/
+     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
+
+**** TODO Learn Vimperator
+     - http://www.thegeekstuff.com/2009/05/firefox-add-on-vimperator-make-firefox-behave-like-vim/
+
+**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
+     - http://www.seleniumhq.org/
+     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
+     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
+**** TODO Developer Force.com
+     - Step 1. http://developer.force.com
+     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
+     - Step 3. Go to Tutorials Trailhead
+     - Step 4. Select Course of Study
+
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
      - https://github.com/scrapy/scrapy/wiki/How-to-Install-Scrapy-0.14-in-a-64-bit-Windows-7-Environment#The_information_below_will_no_longer_be_updated_Please_visit_the_original_page_at_httpsteamforgenetwikiindexphpHow_to_Install_Scrapy_in_64bit_Windows_7
+
      - https://potentpages.com/web-crawler-tutorials/python/
      - http://ruby.bastardsbook.com/chapters/html-parsing/ Nokogiri
      - http://irobotsoft.com/
@@ -523,29 +479,6 @@ peed SQL Query.exe"
 
 **** TODO Source Making
      - https://sourcemaking.com/ 
-**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
-     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
-     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
-     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
-       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
-       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
-       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
-       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
-       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
-       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
-       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
-       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
-       - 
-     - http://www.meetup.com/WorcesterClub/
-     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
-
-**** TODO Eclipse and Java
-     - Upgraded to Eclipse RCP (How to use RCP?)
-     - Command Line "start C:\Users\Ray\Downloads\eclipse-jee-mars-1-win32-x86_64\eclipse\eclipse"
-
-***** DONE Eclipse/Java Tutorial Lessons
-     - http://eclipsetutorial.sourceforge.net/totalbegginer01/lesson01.html
-     - https://www.youtube.com/channel/UCd3Rh81577uByKQcXu10loQ/playlists?nohtml5=False Eclipse and Java  by Alex Tayor
 **** TODO Sidekick/Hubspot
 
 **** DONE Pageflex Mastery
@@ -561,98 +494,74 @@ peed SQL Query.exe"
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
+*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
+    - Login to PWS
+    - cpanel
+      [[https://cloud8.hostgator.com:2083/][cpanel]]
+    - [X] Was able to change by going to "settings" and putting the correct nameservers
+      also found the error when using mxtoolbox.
+    - [X] Removed Fetch Mail as cannot set-up SSL
+    - [X] Originally set-up Under Construction Website now using a redirector to LinkedIN via .htaccess
+
+**** TODO Website Development (Develop Websites to present Web Skill, Content Writing Ability and make money)
+    - http://rgnterprises.net This is currently using a redirector via .htaccess.
+    - http://rgnterprises.net/wordpress/wp-login.php
+    - http://rgnterprises.net/joomla
+    - http://rgnterprises.net/drupal
+    - https://cp.cloudappsportal.com/Default.aspx?pid=Login&ReturnUrl=%2fDefault.aspx%3fpid%3dHome Hosted Sharepoint
+    - file://C:/Users/Ray/Downloads/SharePoint_2013_CP_Setup.pdf
+    - http://www.apps4rent.com/support/kb/article/sharepoint-2013-control-panel
+    - http://www.apps4rent.com/support/kb/article/category/sharepoint/control-panel-sharepoint
+    - http://www.apps4rent.com/affiliate-program.html
+    - http://apps4rent.postaffiliatepro.com/affiliates/login.php#login
+    - http://ezgif.com/
+    - https://resources.biznessapps.com/h/
 
 *** TODO Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
-    - Sexual Energy Sublimation (Also related to NLP Anchoring?)
     - Youtube Research (this can be very "free lance")
     - Football
     - http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.137.2713&rep=rep1&type=pdf
+    - http://dl.acm.org/citation.cfm?id=1698208&dl=ACM&coll=DL&CFID=968875798&CFTOKEN=12301577
+    - https://pdfs.semanticscholar.org/f4fd/fe92cdd10f8d073b8335007b2373db80c7a8.pdf
     - https://www.lively-kernel.org/
+    - https://github.com/LivelyKernel
     - https://www.packtpub.com/account/my-ebooks
+    - Anywhere you see a "Bubble Economy there is a problem!"
+      - Real Estate (now commercial RE)
+      - Higher Education
+      - Medical Insurance
+    - The key to instant wealth is legally performing bankruptcy without affecting personal credit ("the free lunch/Trump method")
+    
 
 
-*** End Task
      
 
+*** End Task
   
+ 
 
-* TODO Joan Time						   :Home:Car:
+* TODO Go to Network and or Interview/[[Opportunity-activities]] Meetings. :Car:Framingham:
+** TODO Private file://c:/users/ray/appdata/roaming/org/network.org
+    
+      
 
-** TODO Get Associate Membership info for Joan   
-** TODO Hang Curtain Rods
-** TODO Bird Feeder Bracket
-** TODO Power Pressure Cooker
-
-** DONE Light Bulbs in Bathroom
-
-** DONE Go to Maine with Joan					  :Car:Maine:
-
-** DONE Prepare for Appraisal
-** DONE Birthdays Help Joan
-   - [X] Kelly and Pam
-   - [X] Frederick (Spent 2 days almost all weekend on this)
-   - [X] Kim
-
-** DONE Upstairs Consolidate Boxes
-** DONE Send Message to Raymond  http://comcast.net 
-** DONE Breakdown cellphone bill - make a spreadsheet and need to write letter
-** DONE Easter
-** DONE Doctors Appt with Joan
-** DONE Go to Bank with Joan
-** DONE Help Joan with Taxes
-
-* TODO Grocery Shopping and Run Errands					:Car:
-   - [ ] Coffee 
-   - [ ] Creamer
-   - [ ] Went to Oriental store in Littleton and purchased Tempura Sauce, Dashi and Rice Seasoning
-   - [ ] Chuck roast, Pop corn butter 
-   - [ ] Chicago Hotdogs: Poppy seeds, spray butter, buns, hotdogs, kosher dill pickles, relish, hamburgers 
-   - [ ] Nabemono: Napa cabbage, green onions, mushrooms, salmon 
-   - [ ] Cat litter 
-   - [ ] Sundry Items: Toilet Tissue, mouthwash, detergent, fabric softener
-   - [ ] Italian Sausages and French Bread
-   - [ ] Tempura: Baking Powder, Kosher Salt, Chicken Wings, Vodka,Sweet Potato and Asparagus for Tempura
-   - [ ] Propane?
-   - [ ] Pizza toppings- Pepperoni, anchovy, mozzarella, mozzarella slices, tomato slices, pizza sauce
-   - [ ] Stuff for Tikki Masala plus, naan bread, greek style yogurt, coriander, nutmeg, cumin, ginger, cardoman, tomato puree, dishwasher liquid
-   - [ ] Stuff for Indian Soup, Reuben Sandwich and Coffee, creamer
-   - [ ] Stuff for Chicken Piccatta and Pork/Chicken Tenkatsu
-** TODO Return Bottles
-** DONE Doctors Appointment
-
-* TODO Car Maintenance						   :Car:Home:
-
-** TODO Get Copy of Auto Policy to Raymond  
-** DONE Have Brian Check tire
-** DONE Need to get copy of Extended Warranty from Toyota Finance
-call 800-874-8822
-** DONE Snow Tires
-
-** DONE Wanted to pay Brian for fixing tire but he did not charge anything.
-** DONE Accident Report
-* TODO Go to Network and or Interview/Opportunity Meetings.  :Car:Framingham:
-   - [X]Registered in Jobquest
-   - Talked to Counselor
-   - Got information for Networking
-   - Need to sign-up for ETR Activities
-   - [ ] Sign up Before 5/19/2017 See file://C:/Users/Ray/Downloads/UI%20Online%20-%20Doc_20170501094435.pdf
-   - [ ] Went for Introductory session Seminar <2016-02-22 Mon> at 9:30 AM
-   - [ ] Mandatory RESEA Meeting <2016-03-01 Tue>
-   - [ ] Went to Resume Development <2016-03-22 Tue> at 9:30 AM
-   - [ ] Went to Coverletter Class <2016-03-24 Thu> at 9:30 AM
-   - [ ] Went to Black Hole Class<2016-04-27 Wed> at 9:30 AM
-   - [ ] Initiated TOPs <2016-05-09 Mon> Might be too late.
-   - [ ] Now assigned to Career Advisor Joyce K
+* TODO Go Home							   :Car:Home:
 
 
 
-* TODO Dinner Ideas or Go Out or Order Out and after Dinner
->>>>>>> fdfd93691b22a9f0597614e4592cc50645e962cd
+* TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
-*** DONE Heat Sukiyaki
+** DONE Made Sukiyaki 
+   - Used Bobby Flay's recipe
+     - 1/2 cup soy sauce
+     - 1 to 1 1/2 cup broth (made from Udon Mix)
+     - 1/4 cup Mirin
+      
+
+
 *** DONE Dinner Made Stir Fry and fried rice
 *** DONE Made Leftovers into Lo Mein (Hot and Spicy)
 *** DONE Heated up on Turbo and then Nuwave Chicken and Brocoli with Tortellini soup
@@ -689,65 +598,12 @@ call 800-874-8822
 *** DONE From Leftover Chicken Tenkatsu made Chicken Supreme (Sauce converted from Bechamel Sauce and Home made chicken stock)
 
 *** DONE Chinese Leftover Smorkasbork with Thai Lo mein creation with shrimp.
-*** TODO Washed Dishes
-*** DONE Returned Bottles
+
+*** DONE Tapas
 *** TODO Clean-out & Organize Frig
 
 ** End Task
-* TODO Family Time						   :Home:Car:
-** TODO Christmas
-    -  http://www.worldmarket.com/category/gifts-accessories/gift-wrap/create-a-gift.do     
-*** TODO Patience
-    - [ ] Large Gift Box
-    - [ ] Ribbon
-    - [ ] Check Stuff out
-        
-    
-*** TODO Babies
-    - [ ] 2 Large Gift Boxes
-    - [ ] Ribbons
-    - [ ] Check Stuff out
-    
-*** TODO Joan
-    - [ ] Home Depot Card - received
-    - [ ] Macy's Card - received
-    - [ ] Wine
-    - [ ] Yankee Candles
-*** TODO Ashley
-    - [ ] Beats and/or Gift card for Wireless Beats
-*** TODO Dan
-    - [ ] Received Callaway Gift Card
-*** TODO Tiffany and Family
-    - [ ] Phantom Gourmet Gift Card
-    - [ ] Check stuff out for baby
-*** TODO Raymond
-*** TODO XMas Eve Party
 
-
-** TODO [#A] Babies Birthday					   :Home:Car:
-*** DONE Make List
-    - [X] Idea Clothes for babies
-    - [X] Baskets for babies
-    - [X] Toys for babies
-    - [X] Easter theme?
-*** DONE Birthday Party and Prep
-    - [X] Make Baskets
-    - [X] Go to Party
-** TODO Family Visiting
-    
-      
-
-* TODO Go Home							   :Car:Home:
-
-** DONE Made Sukiyaki = Time Marker for initial visit to ETRR
-   - Used Bobby Flay's recipe
-     - 1/2 cup soy sauce
-     - 1 to 1 1/2 cup broth (made from Udon Mix)
-     - 1/4 cup Mirin
-     - 
-
-   DEADLINE: <2016-02-10 Wed>
-<<<<<<< HEAD
 * TODO Continue Working at Home Projects/Tasks 			       :Home:
 
 
@@ -758,6 +614,7 @@ call 800-874-8822
 
    - See Journal and Opportunities orgs
    - Continued work from morning
+
 ** TODO Reviewing Internet Marketing
 
 ** TODO Org-Mode
@@ -779,6 +636,3 @@ call 800-874-8822
 
 * End Task
 <<go-to-bottom>>
-  
- 
-

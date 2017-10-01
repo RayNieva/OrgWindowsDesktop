@@ -111,10 +111,17 @@
 
 *** DONE Printer
     - [X] Make sure printer is off after finally using.
+<<<<<<< HEAD
 
 
 
 
+=======
+
+
+
+
+>>>>>>> cbe0795640e197e2204444998a546d72c6108006
 ** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
      
 
@@ -122,7 +129,11 @@
 
 ** TODO Private Planning
 *** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
+<<<<<<< HEAD
 ** DONE Check Accounts and Budget
+=======
+** TODO Check Accounts and Budget
+>>>>>>> cbe0795640e197e2204444998a546d72c6108006
 
 *** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
@@ -134,10 +145,14 @@
 
 
  
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
+<<<<<<< HEAD
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+=======
+*** DONE [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
+>>>>>>> cbe0795640e197e2204444998a546d72c6108006
     - For Networking meeting put together (5) companies. 
     - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
     - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
@@ -292,6 +307,7 @@ peed SQL Query.exe"
 	 - https://blogs.technet.microsoft.com/keithmayer/2013/08/30/get-started-as-an-early-expert-on-windows-server-2012-r2-with-this-free-ebook/#EBOOK
 
        - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
+<<<<<<< HEAD
 
        - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
 **** TODO Windows Enterprise Server Administration
@@ -302,6 +318,18 @@ peed SQL Query.exe"
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
+=======
+
+       - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
+**** TODO Windows Enterprise Server Administration
+     - https://search.yahoo.com/yhs/search?p=vmware+tutorial&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+     - Beginner VMWare 6 Tutorial https://www.youtube.com/watch?v=kccuObts1ZM
+     - http://www.techtutorials.net/tutorials/virtualization/vmware.html
+     - VMWare Series Tutorial https://www.youtube.com/watch?list=PLKkAmtk-hgfdyqhjJci5Bki73Q5bcgPTR&v=a-zqbAPKgX8
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+
+>>>>>>> cbe0795640e197e2204444998a546d72c6108006
 **** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
      - https://www.quora.com/Are-Single-Page-Applications-the-future-of-Web
@@ -517,7 +545,7 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")

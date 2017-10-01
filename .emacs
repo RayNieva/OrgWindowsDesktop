@@ -1,17 +1,22 @@
+(require 'package)
+  (add-to-list 'package-archives '("melpa" . "https://stable.melpa.org/packages/"))
+  (package-initialize)
 (add-to-list 'load-path "C:/Users/Ray/Downloads/Emacs/ntemacs24/lisp/icicles")
 ;;(add-to-list 'load-path "~/.emacs.d/plugins/yasnippet")
 (add-to-list 'load-path "C:/Users/Ray/Appdata/Roaming/.emacs.d/plugins/yasnippet")
 (add-to-list 'load-path "~/.emacs.d/elpa/evil-20160214.1141")
+(add-to-list 'load-path "C:/Users/Ray/Appdata/Roaming/.emacs.d/markdown")
+;;(add-to-list 'load-path "
 ;;; (add-to-list 'load-path "~/bin/ruby-mode/ruby-mode"
 ;;(require 'icicles)
 (require 'yasnippet)
 (require 'evil) 
+(require 'icicles)
 (yas-global-mode 1)
 (evil-mode 1)
-
-
-(require 'outlookedit)
-(require 'org-outlook)
+(icy-mode 1)
+;;(require 'outlookedit)
+;;(require 'org-outlook)
 (require 'w32-browser)
 
 (custom-set-variables
@@ -31,7 +36,7 @@
  '(noprint-hide-print-in-menus t)
  '(noprint-hide-ps-print-in-menus t)
  '(nxhtml-load t)
- '(org-agenda-files (quote ("~/org/opportunities.org" "c:/Users/Ray/Desktop/scratch23.org" "c:/Users/Ray/Desktop/practice.org" "c:/Users/Ray/Documents/practice.org")))
+ '(org-agenda-files (quote ("~/org/opportunities.org" "c:/Users/Ray/Desktop/scratch23.org" "c:/Users/Ray/Desktop/practice.org")))
  '(org-babel-load-languages (quote ((ruby . t) (emacs-lisp . t))))
  '(org-capture-templates (quote (("t" "Todo" entry (file+headline "~/org/gtdActionables.org" "Tasks") "* TODO %?
   %i
@@ -58,7 +63,7 @@ Entered on %U
  '(org-document-title ((t (:foreground "midnight blue" :weight bold :height 1.44))))
  '(org-level-1 ((t (:inherit outline-1 :weight bold :height 1.5 :width expanded)))))
 
-(setq org-default-notes-file (concat org-directory "/notes.org"))
+;;(setq org-default-notes-file (concat org-directory "/notes.org"))
      (define-key global-map "\C-cc" 'org-capture)
 
 (setq org-capture-templates
@@ -68,7 +73,7 @@ Entered on %U
              "* %?\nEntered on %U\n  %i\n  %a")
         ("a" "Notes to go somewhere" plain (file "~/org/notes.org") ";  %T Note:" :empty-lines 1)
 	
-        ("o" "Opportunities" plain (file "~/org/opportunities.org")  "** %T OPPORTUNITY:%? \nDate: %T \nPosition:\nPayrate:\nEmployer name/address/phone/URL:\nPerson Contacted:\nHOW CONTACTED - Web, phone, mail, job fair, networking, etc.:\nResults:\n   " :empty-lines 1)))
+        ("o" "Opportunities" plain (file "~/org/opportunities.org")  "** %T OPPORTUNITY:%? \n   Date: %T \n   Position:\n   Payrate:\n   Employer name/address/phone/URL:\n   Person Contacted:\n   HOW CONTACTED - Web, phone, mail, job fair, networking, etc.:\n   Results:\n-\n   " :empty-lines 1)))
 
 (put 'dired-find-alternate-file 'disabled nil)
 (server-start)
@@ -85,3 +90,11 @@ Entered on %U
     (setq interpreter-mode-alist (append '(("ruby" . ruby-mode))
                                   interpreter-mode-alist))
 
+(autoload 'markdown-mode "markdown-mode"
+   "Major mode for editing Markdown files" t)
+(add-to-list 'auto-mode-alist '("\\.markdown\\'" . markdown-mode))
+(add-to-list 'auto-mode-alist '("\\.md\\'" . markdown-mode))
+
+(autoload 'gfm-mode "markdown-mode"
+   "Major mode for editing GitHub Flavored Markdown files" t)
+(add-to-list 'auto-mode-alist '("README\\.md\\'" . gfm-mode))

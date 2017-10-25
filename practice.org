@@ -115,18 +115,18 @@
 
 
 
-** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
      
 
   
 
-** TODO Private Planning
-*** TODO Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
-** TODO Check Accounts and Budget
+** DONE Private Planning
+*** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
+** DONE Check Accounts and Budget
 
-*** TODO Budgeting and Bills
+*** DONE Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
-** TODO Check Email and Communications
+** DONE Check Email and Communications
 *** TODO Mail and Other stuff:
 **** TODO Private Unified Communications file://c:/users/ray/appdata/roaming/org/communications.org
 
@@ -134,7 +134,7 @@
 
 
  
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* DONE <<Start-Working-at-home/work>>	PROJECTS		       :Home:
 
 
 *** TODO [#A] Visit ETRCC Website and Opportunity Activities <<Opportunity-activities>>  [[Internet-Marketing]]
@@ -160,18 +160,22 @@
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+*** DONE [#A] PROJECTS: Skills/Subjects Mastery
     - Using the Feynman Technique: https://www.youtube.com/watch?v=_f-qkGJBPts
     - Unbelievable Resource http://www.techtutorials.net/index.html
 
 
 
 
-**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
      - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
      - https://search.yahoo.com/yhs/search?p=emacs+sql+server&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+     - Interesting Wikipedia article on ISAM which is the underlying DB for CJ https://en.wikipedia.org/wiki/ISAM
+       - At IBM ISAM => VSAM => DB2
+       - Also ISAM = MyISAM => MySQL
+     - This is an interesting site on DBs and Linux http://linuxfinances.info/
 
 
 ***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
@@ -550,7 +554,7 @@ peed SQL Query.exe"
 * TODO Go Home							   :Car:Home:
 
 
-* DONE Part-Time Job						  :Worcester:
+* TODO Part-Time Job				      :Worcester:Needham:Car:
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC

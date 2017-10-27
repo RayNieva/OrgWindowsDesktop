@@ -167,7 +167,40 @@
 
 
 
-**** DONE [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
+**** DONE Windows Enterprise Server Administration
+     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
+     - https://search.yahoo.com/yhs/search?p=vmware+tutorial&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+     - Beginner VMWare 6 Tutorial https://www.youtube.com/watch?v=kccuObts1ZM
+     - http://www.techtutorials.net/tutorials/virtualization/vmware.html
+     - VMWare Series Tutorial https://www.youtube.com/watch?list=PLKkAmtk-hgfdyqhjJci5Bki73Q5bcgPTR&v=a-zqbAPKgX8
+     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
+**** DONE Powershell
+     - Chocolatey Package Manager for Windows  https://chocolatey.org/
+     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
+     - Type Powershell on cmdline (storing history in bin)
+     - http://powershelltutorial.net/home/Introduction-to-Powershell
+     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
+     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
+     - http://www.powershellmagazine.com/
+     - AutoIT https://www.autoitscript.com/site/autoit/
+     - AutoHotKey https://autohotkey.com/
+**** DONE [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
+     - Github Account https://github.com/RayNieva
+     - GitLab Account https://gitlab.com/raynieva
+       - https://guides.github.com/features/mastering-markdown/
+     - BitBucket Account https://bitbucket.org/RayNieva
+     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
+     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
+     - file://C:/Users/Ray/Desktop/history03-11-16.txt
+     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
+     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
+     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
+     - Heroku https://id.heroku.com/login
+     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
+     - https://theagileadmin.com/what-is-devops/
+     - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
+**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle and SQLite
      - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
      - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
      - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
@@ -298,13 +331,6 @@ peed SQL Query.exe"
        - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
 
        - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
-**** TODO Windows Enterprise Server Administration
-     - https://search.yahoo.com/yhs/search?p=vmware+tutorial&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
-     - Beginner VMWare 6 Tutorial https://www.youtube.com/watch?v=kccuObts1ZM
-     - http://www.techtutorials.net/tutorials/virtualization/vmware.html
-     - VMWare Series Tutorial https://www.youtube.com/watch?list=PLKkAmtk-hgfdyqhjJci5Bki73Q5bcgPTR&v=a-zqbAPKgX8
-     - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
-     - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
 
 **** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
@@ -351,22 +377,6 @@ peed SQL Query.exe"
 ***** TODO http://guides.rubyonrails.org/getting_started.html
 
 ***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
-**** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
-     - Github Account https://github.com/RayNieva
-     - GitLab Account https://gitlab.com/raynieva
-       - https://guides.github.com/features/mastering-markdown/
-     - BitBucket Account https://bitbucket.org/RayNieva
-     - C:\Users\Ray\AppData\Local\Programs\Git\git-bash.exe --cd-to-home
-     - http://lifehacker.com/5983680/how-the-heck-do-i-use-github
-     - file://C:/Users/Ray/Desktop/history03-11-16.txt
-     - http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/
-     - http://git-scm.com/book/en/v2/Getting-Started-Git-Basics
-     - http://readwrite.com/2013/11/08/seven-ways-to-use-github-that-arent-coding
-     - https://www.reddit.com/r/git/comments/1xymq2/do_people_use_git_for_things_other_than_software/
-     - Heroku https://id.heroku.com/login
-     - JIRA https://www.atlassian.com/software/jira/try Free for first month.
-     - https://theagileadmin.com/what-is-devops/
-     - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
 
 **** TODO [#A] Eclipse, Java and Acceleo
      - http://www.wideskills.com/java-tutorial
@@ -409,16 +419,6 @@ peed SQL Query.exe"
      - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
      - http://www.cplusplus.com/doc/tutorial/classes/
      - http://programming.guide/java/macros-in-java-source-files.html
-**** TODO Powershell
-     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
-     - Type Powershell on cmdline (storing history in bin)
-     - http://powershelltutorial.net/home/Introduction-to-Powershell
-     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
-     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
-     - Chocolatey Package Manager for Windows  https://chocolatey.org/
-     - http://www.powershellmagazine.com/
-     - AutoIT https://www.autoitscript.com/site/autoit/
-     - AutoHotKey https://autohotkey.com/
 **** TODO Learning Flowgorithm and other VPLs
      - https://en.wikipedia.org/wiki/Flowgorithm
      - http://www.flowgorithm.org/
@@ -521,7 +521,7 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** TODO Freelance Research Top Ideas and Recreation.
+*** DONE Freelance Research Top Ideas and Recreation.
     - Yasnippet and like type of programs as discovered on Github research
     - Org-mode for Journaling maybe integrate with Evernote?
     - Youtube Research (this can be very "free lance")
@@ -554,7 +554,7 @@ peed SQL Query.exe"
 * TODO Go Home							   :Car:Home:
 
 
-* TODO Part-Time Job				      :Worcester:Needham:Car:
+* DONE Part-Time Job				      :Worcester:Needham:Car:
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC

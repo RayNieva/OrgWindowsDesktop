@@ -6,13 +6,14 @@
 (setq truncate-lines 'nil) (setq truncate-lines 't)
 
 * End Task
-* DONE Wake Up Projects/Tasks					       :Home:
+* DONE Wake Up Projects/Tasks                                          :Home:
 [[go-to-bottom]]
 
-** DONE [#A] Time Management
+** TODO [#A] Time Management
    - (start-process "MyCalendar" "FirefoxProcessBuffer" "ff" "https://calendar.google.com/calendar/render?tab=mc#main_7")
 *** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
+    - file://c:/users/ray/appdata/roaming/org/jtdjournal.org 
     - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
     - Ultimate Journal (Commonplace Book) https://www.youtube.com/watch?v=XYAMAQsBokg&feature=push-u&attr_tag=WgPKgid7zMW8Idey-6  
     - http://gettingthingsdone.com/2017/04/10-tips-for-success-with-gtd/
@@ -45,7 +46,7 @@
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
-** DONE Have Coffee [1/3]**
+** TODO Have Coffee [1/3]**
    - [X] 1st cup
    - [ ] 2nd cup
    - [ ] 3rd cup
@@ -63,6 +64,7 @@
    - https://support.microsoft.com/en-us/help/192806/how-to-run-control-panel-tools-by-typing-a-command
    - https://support.microsoft.com/en-us/help/971058/how-do-i-reset-windows-update-components
    - Metro Apps https://stackoverflow.com/questions/26244759/opening-a-file-in-a-metro-app-from-command-line
+   - explorer shell:AppsFolder\c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy!App
    - https://www.tenforums.com/tutorials/5472-view-windows-update-history-windows-10-a.html
    - https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131
    - System File checker command "sfc /scannow"
@@ -96,6 +98,7 @@
    - https://www.drivereasy.com/knowledge/windows-10-microsoft-compatibility-telemetry-high-disk-usage-solved/
    - https://www.howtogeek.com/225305/how-to-find-and-set-screen-savers-on-windows-10/
    - http://www.dummies.com/consumer-electronics/smartphones/droid/how-to-tether-an-internet-connection-with-an-android-phone/
+   - https://www.howtogeek.com/346907/backups-vs.-redundancy-what%e2%80%99s-the-difference/
 
 
 *** DONE Fixed Computer Cooling Issue
@@ -148,10 +151,13 @@
 
 
  
-* TODO <<Start-Working-at-home/work>>	PROJECTS		       :Home:
+* TODO <<Start-Working-at-home/work>>	PROJECTS                       :Home:
 
-
-*** TODO [#A] PROJECTS: Skills/Subjects Mastery
+  
+** TODO [#A] PROJECTS: Skills/<<Subjects_Mastery>>
+    - Thomas Frank Channels https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ
+    - Do One Thing at a Time! https://www.youtube.com/watch?v=nKFkzCbJf2A
+    - How to Study with Intense Focus https://www.youtube.com/watch?v=hP5TNI_2VRs&t=11s
     - Ultimate Journal https://www.youtube.com/watch?v=0wNk25KEBpw 
     - OneNote http://www.onenote-tips.com/tips/linking.html
       * https://support.office.com/en-us/article/Create-links-to-notebooks-sections-pages-and-paragraphs-35a2c5e3-87fd-400a-a4f5-ef82e778c208
@@ -218,10 +224,17 @@
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-**** TODO [#A] SQL Server, MySQL, PostgreSQL, Oracle, SQLite and NoSQL (MongoDB)
+**** DONE [#A] <<SQL>> Server, MySQL, PostgreSQL, Oracle, SQLite and NoSQL (MongoDB)
      - file://C:\Users\Ray\Documents\New%20Horizons\SQLServerCertification1.org
      - New Horizons SQL Server Cert Course (start-process "NHProcess" "NHBuffer" "ff" "https://lms.nhcms.net/User/Login?ReturnUrl=%2fClassEnrollment%2f6774070")
      - Skill Pipe (start-process "SkillPipeProcess" "SkillpipeBuffer" "ff" "https://skillpipe.com")
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification1.org
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification2.org
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification3.org
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification4.org
+     - https://docs.microsoft.com/en-us/sql/reporting-services/reporting-services-tutorials-ssrs
+     - https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas
+     - https://www.hacksparrow.com/the-mongodb-tutorial.html
      - http://www.jamesserra.com/archive/2013/01/ssis-2012-empty-toolbox/
      - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
      - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
@@ -235,6 +248,7 @@
      - Let there be no mistake, SSIS is a software development platform. With “SQL Server” included in the name, it is easy for people to confuse SSIS as a database tool or accessory, but Control Flow Tasks put that confusion to rest. https://blog.sqlauthority.com/2015/01/29/sql-server-the-basics-of-the-ssis-script-task-notes-from-the-field-065/
 
 
+
 ***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
      1. runas /user:raynieva2\admin cmd
      2. services.msc (in new admin command shell) start appropriate service for SQL Server
@@ -245,6 +259,21 @@ VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
      2. services.msc (in new admin command shell)
      3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
 peed SQL Query.exe"
+
+
+**** DONE XML/XSLT, JSON and YAML
+     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
+       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
+       - https://github.com/joshwnj/json-mode
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+
+**** TODO VBA, Excel, MS Access and Macro Recording
+**** TODO Developer Force.com
+     - Step 1. http://developer.force.com
+     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
+     - Step 3. Go to Tutorials Trailhead https://trailhead.salesforce.com/en/home
+     - Step 4. Select Course of Study
 **** TODO [#A] Unix/Linux     
      - Developing a Menu System https://www.youtube.com/watch?v=VOTclQFMbmM
      - Use SDF.org Current user account ssh raynieva@tty.sdf.org
@@ -295,13 +324,6 @@ peed SQL Query.exe"
        - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
 
        - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
-
-
-**** TODO XML/XSLT, JSON and YAML
-     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
-       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
 **** TODO Internet Marketing - What is it? <<Internet-Marketing>>
      - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
      - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
@@ -340,8 +362,6 @@ peed SQL Query.exe"
 
 **** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
      - https://www.quora.com/Will-software-developers-continue-to-be-in-high-demand-in-the-future
-
-**** TODO VBA, Excel, MS Access and Macro Recording
 **** TODO Windows Enterprise Server Administration
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
      - https://search.yahoo.com/yhs/search?p=vmware+tutorial&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
@@ -461,11 +481,6 @@ peed SQL Query.exe"
      - http://www.seleniumhq.org/
      - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
      - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
-**** TODO Developer Force.com
-     - Step 1. http://developer.force.com
-     - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
-     - Step 3. Go to Tutorials Trailhead
-     - Step 4. Select Course of Study
 
 **** TODO Screen Scraper and Web Automation
      - http://scrapy.org/
@@ -507,10 +522,10 @@ peed SQL Query.exe"
     - http://www.howtogeek.com/99001/htg-explains-routers-and-switches/
 
 **** DONE Internet of things https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#55d6623b1d09
-*** TODO [#A] Visit ETRCC/AJC Website and Opportunity Activities <<Opportunity-activities>>
-    - For Networking meeting put together (5) companies. 
-    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
+** TODO [#A] Visit ETRCC/AJC Website and Opportunity Activities <<Opportunity-activities>>
     - See Private Planning file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org::Opportunity-activities
+    - Job Search Workflow file://C:/Users/Ray/Desktop/scratch19.org
+    - For Networking meeting put together (5) companies. 
     - http://www.monster.com/account/homepage/?re=swoop&fwr=true
     - https://jobquest.detma.org/JobQuest/Default.aspx
     - http://retirementjobs.com/
@@ -530,7 +545,7 @@ peed SQL Query.exe"
     - https://www.youtube.com/watch?v=-2m6JkJvv4w  How to Start a Business with No Money
     - https://www.youtube.com/watch?v=UlALjp7SvQc 4 Resume Tips That You've Never Seen Before
     - Added Link on Part-time Job hunting  https://www.google.com/search?q=how+to+get+part-time+job+out+of+my+field&ie=utf-8&oe=utf-8
-*** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
+** TODO [#A] Set-up rgnterprises mail in Thunderbird and Admin Website
     - Login to PWS
     - cpanel
       [[https://cloud8.hostgator.com:2083/][cpanel]]
@@ -553,7 +568,7 @@ peed SQL Query.exe"
     - http://ezgif.com/
     - https://resources.biznessapps.com/h/
 
-*** TODO Freelance Research Top Ideas and Recreation.
+** TODO Freelance Research Top Ideas and Recreation.
     - https://mywifequitherjob.com/how-long-does-it-take-to-make-money-online-business/
     - https://www.att.com/support/internet/optimize-your-connection.html
     - http://www.bandwidthplace.com/improve-internet-speeds-can-unplugging-your-router-be-the-secret-article/
@@ -575,12 +590,16 @@ peed SQL Query.exe"
       - Medical Insurance
     - The key to instant wealth is legally performing bankruptcy without affecting personal credit ("the free lunch/Trump method")
     - https://www.amazon.com/Zero-Marginal-Cost-Society-Collaborative-ebook/dp/B00HY09XGQ?pd_rd_wg=Lkje2&pd_rd_r=a3a6f85d-fbd5-418b-ac1e-9a58decab521&pd_rd_w=7AkBQ&ref_=pd_gw_qpp&pf_rd_r=5ETVYR70WK9C8FD7STYY&pf_rd_p=b320a174-d048-593b-b43e-3c98a5523bbd
+    - The idea of using Notes with Keep https://keep.google.com/u/0/
+    - Low Code Platform https://www.google.com/search?q=low+code+platforms&ie=utf-8&oe=utf-8&client=firefox-b-1-ab
+      Mobile accessibility is one of the driving factors of using Low-code Development Platforms.[4] Instead of developers having to spend time creating multi-device software, Low-code packages typically come with that feature standard.[4]
+    - Concept of Peer to Peer Lending https://en.wikipedia.org/wiki/Funding_Circle while exploring uses of Clojure
     
 
 
      
 
-*** End Task
+** End Task
   
  
 
@@ -592,7 +611,7 @@ peed SQL Query.exe"
 * TODO Go Home							   :Car:Home:
 
 
-* TODO Flextime/Part-Time Job			      :Worcester:Needham:Car:
+* TODO Flextime/Part-Time Job                         :Worcester:Needham:Car:
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner	   :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
@@ -642,6 +661,7 @@ peed SQL Query.exe"
 *** DONE Chinese Leftover Smorkasbork with Thai Lo mein creation with shrimp.
 
 *** DONE Tapas
+*** DONE Making Soups out of Leftovers (Especially Pureying?)
 *** TODO Clean-out & Organize Frig
 
 ** End Task

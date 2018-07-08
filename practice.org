@@ -11,7 +11,7 @@
 
 ** TODO [#A] Time Management
    - (start-process "MyCalendar" "FirefoxProcessBuffer" "ff" "https://calendar.google.com/calendar/render?tab=mc#main_7")
-*** TODO GTD Stuff
+*** DONE GTD Stuff
 **** DONE GTD Revisit Cyborganized Video and other stuff (Execution Loop)
     - file://c:/users/ray/appdata/roaming/org/jtdjournal.org 
     - JTD - http://www.reason4smile.com/2008/11/27/journaling-to-done-getting-things-done-with-journaling/
@@ -42,7 +42,7 @@
    - https://www.youtube.com/watch?v=-2m6JkJvv4w "The Best Way to be Successful in Business is to Be in Business"
    - http://podbay.fm/show/955075042/e/1423738838?autostart=1  TPS25: Rituals, Habits, and Achieving Your Goals
 
-** DONE Mind/Body Rituals, Health and Attitude Development
+** TODO Mind/Body Rituals, Health and Attitude Development
 
 *** TODO Private file://c:/users/ray/appdata/roaming/org/MindBody.org
 
@@ -99,6 +99,8 @@
    - https://www.howtogeek.com/225305/how-to-find-and-set-screen-savers-on-windows-10/
    - http://www.dummies.com/consumer-electronics/smartphones/droid/how-to-tether-an-internet-connection-with-an-android-phone/
    - https://www.howtogeek.com/346907/backups-vs.-redundancy-what%e2%80%99s-the-difference/
+   - https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness
+   - https://www.drivereasy.com/knowledge/antimalware-service-executable-high-disk-usage-windows-10-8-7-solved/
 
 
 *** DONE Fixed Computer Cooling Issue
@@ -132,7 +134,7 @@
 
 
 
-** DONE [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
+** TODO [#A] Check Portal [file://c:/Users/Ray/Desktop/scratch23.org]
      
 
   
@@ -141,7 +143,7 @@
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 ** TODO Check Accounts and Budget
 
-*** DONE Budgeting and Bills
+*** TODO Budgeting and Bills
         -  file://C:\Users\Ray\AppData\Roaming\org\BudgetAndBills.org
 ** TODO Check Email and Communications
 *** TODO Mail and Other stuff:
@@ -154,7 +156,7 @@
 * DONE <<Start-Working-at-home/work>>	PROJECTS                       :Home:
 
   
-** DONE [#A] PROJECTS: Skills/<<Subjects_Mastery>>
+** TODO [#A] PROJECTS: Skills/<<Subjects_Mastery>>
     - Thomas Frank Channels https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ
     - Do One Thing at a Time! https://www.youtube.com/watch?v=nKFkzCbJf2A
     - How to Study with Intense Focus https://www.youtube.com/watch?v=hP5TNI_2VRs&t=11s
@@ -168,12 +170,118 @@
 
 
 
-**** DONE Learn Haskell    
+**** TODO [#A] IPython
+     - https://tkf.github.io/emacs-ipython-notebook/
+     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
+     - file://C://Users/ray/bin/practice.py
+
+**** TODO [#A] Visual Studio and .NET CSharp etc (including C and C++)... 
+     - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
+     - file://c:/users/ray/documents/projects/c
+     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
+     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
+     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
+     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
+     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
+     - http://www.cplusplus.com/doc/tutorial/classes/
+     - http://programming.guide/java/macros-in-java-source-files.html
+**** TODO [#A] <<SQL>> Server, MySQL, PostgreSQL, Oracle, SQLite and NoSQL (MongoDB)
+     - file://C:\Users\Ray\Documents\New%20Horizons\SQLServerCertification1.org
+     - New Horizons SQL Server Cert Course (start-process "NHProcess" "NHBuffer" "ff" "https://lms.nhcms.net/User/Login?ReturnUrl=%2fClassEnrollment%2f6774070")
+     - Skill Pipe (start-process "SkillPipeProcess" "SkillpipeBuffer" "ff" "https://skillpipe.com")
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification1.org
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification2.org
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification3.org
+     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification4.org
+     - https://docs.microsoft.com/en-us/sql/reporting-services/reporting-services-tutorials-ssrs
+     - https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas
+     - https://www.hacksparrow.com/the-mongodb-tutorial.html
+     - http://www.jamesserra.com/archive/2013/01/ssis-2012-empty-toolbox/
+     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
+     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
+     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
+     - https://search.yahoo.com/yhs/search?p=emacs+sql+server&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
+     - Interesting Wikipedia article on ISAM which is the underlying DB for CJ https://en.wikipedia.org/wiki/ISAM
+       - At IBM ISAM => VSAM => DB2
+       - Also ISAM = MyISAM => MySQL
+     - This is an interesting site on DBs and Linux http://linuxfinances.info/
+     - https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker
+     - Let there be no mistake, SSIS is a software development platform. With “SQL Server” included in the name, it is easy for people to confuse SSIS as a database tool or accessory, but Control Flow Tasks put that confusion to rest. https://blog.sqlauthority.com/2015/01/29/sql-server-the-basics-of-the-ssis-script-task-notes-from-the-field-065/
+
+
+
+***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell) start appropriate service for SQL Server
+     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
+VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
+***** TODO MYSQL
+     1. runas /user:raynieva2\admin cmd
+     2. services.msc (in new admin command shell)
+     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
+peed SQL Query.exe"
+
+**** TODO [#A] Powershell
+     - Chocolatey Package Manager for Windows  https://chocolatey.org/
+     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
+     - Type Powershell on cmdline (storing history in bin)
+     - http://powershelltutorial.net/home/Introduction-to-Powershell
+     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
+     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
+     - http://www.powershellmagazine.com/
+     - AutoIT https://www.autoitscript.com/site/autoit/
+     - AutoHotKey https://autohotkey.com/
+
+**** TODO [#A] Ruby and ROR Ruby on Rails <<Ruby-on-Rails>>
+     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
+     - https://www.quora.com/Is-Ruby-on-Rails-useful-for-a-single-page-application
+     - file://c:/users/ray/documents/projects/ruby
+     - file://c:/users/ray/bin/practice.rb
+     - http://ruby.bastardsbook.com/chapters/loops/
+     - http://ruby.bastardsbook.com/chapters/methods/
+     - https://github.com/apress/beg-ruby-3ed
+
+
+
+***** DONE http://installfest.railsbridge.org/installfest/windows
+
+***** DONE http://railsapps.github.io/installing-rails.html
+
+***** DONE http://railsapps.github.io/what-is-ruby-rails.html
+      
+***** TODO Ruby on Rails Tutorial [0/1]
+      1. [ ] https://www.railstutorial.org/book/beginning
+
+***** TODO http://railsinstaller.org/en RailsInstaller
+
+***** TODO http://guides.rubyonrails.org/getting_started.html
+
+***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
+**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
+     - https://www.guru99.com/selenium-python.html
+     - https://www.guru99.com/installing-selenium-webdriver.html
+     - http://www.seleniumhq.org/
+     - https://www.seleniumhq.org/docs/03_webdriver.jsp
+     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
+     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
+
+**** TODO Learn Haskell    
      - https://en.wikipedia.org/wiki/Haskell_(programming_language)
      - (start-process "HaskellProcess" "HaskellProcessBuffer" "ff"  "http://learnyouahaskell.com/starting-out")
      - https://markkarpov.com/post/lisp-and-haskell.html
      - Important concept in functional programming https://softwareengineering.stackexchange.com/questions/40297/what-is-a-side-effect
-**** DONE Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
+     - https://stackoverflow.com/questions/46547208/why-is-my-haskell-code-saying-variable-not-in-scope-main
+     - A great overview  https://en.wikibooks.org/wiki/Haskell
+     - https://en.wikibooks.org/wiki/Haskell/Building_vocabulary
+
+
+**** TODO XML/XSLT, JSON and YAML
+     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
+     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
+       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
+       - https://github.com/joshwnj/json-mode
+***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
+**** TODO Learn Emacs, Lisp,Org Mode and Yasnippet <<Learn-Org-Mode>>
       - https://www.emacswiki.org/emacs/CategoryExternalUtilities
       - (start-process "MyAsyncProg" "aProcess" "ff" "https://www.gnu.org/software/emacs/manual/html_node/elisp/Asynchronous-Processes.html")
       - (start-process "TakingNotes" "bProcess" "ff" "https://video.search.yahoo.com/video/play;_ylt=A2KLqIDhyblWMmEAWvMsnIlQ;_ylu=X3oDMTByNDY3bGRuBHNlYwNzcgRzbGsDdmlkBHZ0aWQDBGdwb3MDNQ--?p=Org-capture+Tutorial&vid=0cdfe1c477a8bf9eedf5bdd40b1f8171&turl=http%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOVP.V38838c4a57439126162e4fe85ab3828f%26pid%3D15.1%26h%3D168%26w%3D300%26c%3D7%26rs%3D1&rurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbzZ09dAbLEE&tit=Taking+Notes+In+Emacs+Org-Mode&c=4&h=168&w=300&l=1085&sigr=11bfaoro4&sigt=10u00jn8u&sigi=1311scajt&age=1408427461&fr2=p%3As%2Cv%3Av&fr=yhs-mozilla-001&hsimp=yhs-001&hspart=mozilla&tt=b")
@@ -229,56 +337,24 @@
 ***** TODO Learn Babel
 
 ***** DONE Debugged another issue with Emacs "Start cmd" vs "Cygstart cmd"
-**** DONE [#A] <<SQL>> Server, MySQL, PostgreSQL, Oracle, SQLite and NoSQL (MongoDB)
-     - file://C:\Users\Ray\Documents\New%20Horizons\SQLServerCertification1.org
-     - New Horizons SQL Server Cert Course (start-process "NHProcess" "NHBuffer" "ff" "https://lms.nhcms.net/User/Login?ReturnUrl=%2fClassEnrollment%2f6774070")
-     - Skill Pipe (start-process "SkillPipeProcess" "SkillpipeBuffer" "ff" "https://skillpipe.com")
-     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification1.org
-     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification2.org
-     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification3.org
-     - file://C:/Users/Ray/Documents/New%20Horizons/SQLServerCertification4.org
-     - https://docs.microsoft.com/en-us/sql/reporting-services/reporting-services-tutorials-ssrs
-     - https://docs.microsoft.com/en-us/sql/analysis-services/analysis-services-tutorials-ssas
-     - https://www.hacksparrow.com/the-mongodb-tutorial.html
-     - http://www.jamesserra.com/archive/2013/01/ssis-2012-empty-toolbox/
-     - https://www.brentozar.com/archive/2009/04/how-to-get-a-junior-dba-job-part-1/
-     - http://sqlite.awardspace.info/syntax/sqliteodbc.htm
-     - SQLCMD tutorial https://technet.microsoft.com/en-us/library/ms170207(v=sql.105).aspx
-     - https://search.yahoo.com/yhs/search?p=emacs+sql+server&ei=UTF-8&hspart=mozilla&hsimp=yhs-002
-     - Interesting Wikipedia article on ISAM which is the underlying DB for CJ https://en.wikipedia.org/wiki/ISAM
-       - At IBM ISAM => VSAM => DB2
-       - Also ISAM = MyISAM => MySQL
-     - This is an interesting site on DBs and Linux http://linuxfinances.info/
-     - https://docs.microsoft.com/en-us/sql/linux/quickstart-install-connect-docker
-     - Let there be no mistake, SSIS is a software development platform. With “SQL Server” included in the name, it is easy for people to confuse SSIS as a database tool or accessory, but Control Flow Tasks put that confusion to rest. https://blog.sqlauthority.com/2015/01/29/sql-server-the-basics-of-the-ssis-script-task-notes-from-the-field-065/
-
-
-
-***** SQL Server SSIS Tutorial https://www.mssqltips.com/sqlservertutorial/200/sql-server-integration-services-ssis-tutorial/     
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell) start appropriate service for SQL Server
-     3. C:\windows\system32>"C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\
-VSShell\Common7\IDE\Ssms.exe" (in new admin command shell)
-***** TODO MYSQL
-     1. runas /user:raynieva2\admin cmd
-     2. services.msc (in new admin command shell)
-     3. C:\windows\system32>"C:\Program Files (x86)\ActiveDBSoft\FlySpeed SQL Query\FlyS
-peed SQL Query.exe"
-
-
-**** DONE XML/XSLT, JSON and YAML
-     * Resume in XML file://c:/users/ray/documents/jobsearch/MasterTemplates
-     * Mapping Word 2007 Content Controls to Custom XML Using the XMLMapping Object https://msdn.microsoft.com/en-us/library/bb510135
-       - file://C:\Users\Ray\Documents\Projects\XML-XSLT
-       - https://github.com/joshwnj/json-mode
-***** DONE Having resolved issues with getting Visual Studio to start as one of the XML editors. Will now use Eclipse too.
-
-**** TODO Selenium - Browser Automation (Work Flow Automation Related) (Related to TSSG Group) 
-     - http://www.seleniumhq.org/
-     - https://en.wikipedia.org/wiki/Selenium_%28software%29#Selenium_IDE
-     - http://www.inc.com/aj-agrawal/why-every-software-startup-should-have-a-testing-process-through-launch.html
 
 **** TODO VBA, Excel, MS Access and Macro Recording
+**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
+     - https://www.primeview.com/blog/face-off-organic-seo-versus-social-media-marketing/
+     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
+     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
+     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
+       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
+       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
+       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
+       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
+       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
+       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
+       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
+       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
+       - 
+     - http://www.meetup.com/WorcesterClub/
+     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
 **** TODO Developer Force.com
      - Step 1. http://developer.force.com
      - Step 2. Sign Up If You Want. (To Use Salesforce Need to sign-up)
@@ -330,21 +406,6 @@ peed SQL Query.exe"
        - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
 
        - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
-**** TODO Internet Marketing - What is it? <<Internet-Marketing>>
-     - [[http://www.webopedia.com/TERM/I/internet_marketing.html][Webopedia]]
-     - [http://homebusiness.about.com/od/marketingadvertising/a/IMarketing101.htm]
-     - http://www.ericstips.com Below are the milestone lessons (in my judgement)
-       - http://www.ericstips.com/tips/lesson4/  LESSON #4: 18 Ways to Make Money Online (In my way of thinking this is the prelude to Eric'sdecision to choose Infomarketing as his choice of on-line businesses.)
-       - http://www.ericstips.com/tips/lesson19/ LESSON #19: How to Choose a Niche (Part 1)
-       - http://www.ericstips.com/tips/lesson23/  LESSON #23: Choosing and Registering a Domain Name (This actually is the beginning of launching a website Eric prefers to orient his workflow based on product creation and choosing a domain name is integral to that process)
-       - http://www.ericstips.com/tips/lesson33/ LESSON #33: Getting Started with WordPress (This is the beginning of setting up a blogging site in Wordpress) He does point out alternatives (I need to investigate ROR)
-       - http://www.ericstips.com/tips/lesson44/ LESSON #44: Introduction to Information Products (This starts off his actual development of an Info Marketing Product itself as opposed to branding)
-       - http://www.ericstips.com/tips/lesson59/ LESSON #59: Introduction to List Building (Heart and Soul of Internet Marketing.)
-       - http://www.ericstips.com/tips/lesson72/ LESSON #72: Introduction to Web Traffic (This is the beginning 14 lessons on what we need todevelop in the way of true Internet Marketing promotion like List Building, Paid Traffic, SEO and Social Networking etc...)
-       - http://www.ericstips.com/tips/lesson89/ LESSON #89: Introduction to Product Launches
-       - 
-     - http://www.meetup.com/WorcesterClub/
-     - http://www.meetup.com/VentureMeets-WorcesterEntrepreneurMeetup/ <2016-06-14 Tue> 6:00 PM
 
 **** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
 
@@ -377,17 +438,6 @@ peed SQL Query.exe"
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - http://sourcedaddy.com/windows-7/managing-windows-7-in-domain.html
      - Lab Access to Windows 2012 AD Server https://technet.microsoft.com/en-us/virtuallabs/bb467605
-       
-**** TODO Powershell
-     - Chocolatey Package Manager for Windows  https://chocolatey.org/
-     - https://social.technet.microsoft.com/wiki/contents/articles/27080.how-to-create-and-use-classes-in-powershell.aspx 
-     - Type Powershell on cmdline (storing history in bin)
-     - http://powershelltutorial.net/home/Introduction-to-Powershell
-     - 10 Basic Powershell Commands and how to output data to CSV formatting https://www.youtube.com/watch?v=wqaqeUASxAs#t=14.060022      
-     - PowerShell with a focus on automation (HD) https://www.youtube.com/watch?v=yKstEJKdc4o  
-     - http://www.powershellmagazine.com/
-     - AutoIT https://www.autoitscript.com/site/autoit/
-     - AutoHotKey https://autohotkey.com/
 **** TODO [[http://searchsoftwarequality.techtarget.com/definition/Scrum-sprint][Git, Sprint, Scrum]] and Agile development (Also Related to TSSG Group)
      - Github Account https://github.com/RayNieva
      - GitLab Account https://gitlab.com/raynieva
@@ -404,33 +454,6 @@ peed SQL Query.exe"
      - JIRA https://www.atlassian.com/software/jira/try Free for first month.
      - https://theagileadmin.com/what-is-devops/
      - https://www.google.com/search?q=user+stories&ie=utf-8&oe=utf-8 Google Search: User Stories
-**** TODO IPython
-     - https://tkf.github.io/emacs-ipython-notebook/
-     - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
-     - file://C://Users/ray/bin/practice.py
-
-**** TODO ROR Ruby on Rails <<Ruby-on-Rails>>
-     - M-X  inf-ruby starts Ruby Shell in EMACS buffer. (execute-extended-command "command") means M-x
-     - https://www.quora.com/Is-Ruby-on-Rails-useful-for-a-single-page-application
-     - file://c:/users/ray/documents/projects/ruby
-     - file://c:/users/ray/bin/practice.rb
-     - http://ruby.bastardsbook.com/chapters/loops/
-     - http://ruby.bastardsbook.com/chapters/methods/
-
-***** DONE http://installfest.railsbridge.org/installfest/windows
-
-***** DONE http://railsapps.github.io/installing-rails.html
-
-***** DONE http://railsapps.github.io/what-is-ruby-rails.html
-      
-***** TODO Ruby on Rails Tutorial [0/1]
-      1. [ ] https://www.railstutorial.org/book/beginning
-
-***** TODO http://railsinstaller.org/en RailsInstaller
-
-***** TODO http://guides.rubyonrails.org/getting_started.html
-
-***** TODO https://www.softcover.io/read/e8898d1d/learn-rails-1
 
 **** TODO Eclipse, Java and Acceleo
      - http://www.wideskills.com/java-tutorial
@@ -462,17 +485,6 @@ peed SQL Query.exe"
        - https://www.docker.com/products/docker
 
        - http://www.geocreepy.com/
-
-**** TODO Visual Studio and .NET CSharp etc (including C and C++)... 
-     - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
-     - file://c:/users/ray/documents/projects/c
-     - http://www.network-theory.co.uk/docs/gccintro/gccintro_11.html
-     - https://www.tutorialspoint.com/cprogramming/c_functions.htm (This website has an online compiler)
-     - https://www.youtube.com/watch?v=iRSAmekqRBo Microsoft .NET Tutorial - Intro to .NET (Part 01)
-     - https://www.youtube.com/watch?v=nA2pSmBmvKg#t=452.995941 How to program in C#
-     - "C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe"
-     - http://www.cplusplus.com/doc/tutorial/classes/
-     - http://programming.guide/java/macros-in-java-source-files.html
 **** TODO Learning Flowgorithm and other VPLs
      - https://en.wikipedia.org/wiki/Flowgorithm
      - http://www.flowgorithm.org/
@@ -599,6 +611,7 @@ peed SQL Query.exe"
     - Low Code Platform https://www.google.com/search?q=low+code+platforms&ie=utf-8&oe=utf-8&client=firefox-b-1-ab
       Mobile accessibility is one of the driving factors of using Low-code Development Platforms.[4] Instead of developers having to spend time creating multi-device software, Low-code packages typically come with that feature standard.[4]
     - Concept of Peer to Peer Lending https://en.wikipedia.org/wiki/Funding_Circle while exploring uses of Clojure
+    - Amazing applications of numbers and mathematics https://www.quora.com/What-is-most-famous-number-series-besides-Fibonacci
     
 
 
@@ -616,7 +629,7 @@ peed SQL Query.exe"
 * TODO Go Home							   :Car:Home:
 
 
-* DONE Flextime/Part-Time Job                         :Worcester:Needham:Car:
+* TODO Fulltime/Flextime/Part-Time Job                :Marlboro:Framingham:Car:
 * TODO Dinner Ideas or Go Out or Order Out and after Dinner        :Home:Car:
     - Rotate chicken in NuWave
 *** DONE Beef AND Chicken Sukiyaki Using NUWave PIC
@@ -667,6 +680,7 @@ peed SQL Query.exe"
 
 *** DONE Tapas
 *** DONE Making Soups out of Leftovers (Especially Pureying?)
+*** DONE Steamed Fish and Vegetables
 *** TODO Clean-out & Organize Frig
 
 ** End Task

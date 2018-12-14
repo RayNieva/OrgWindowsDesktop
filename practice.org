@@ -56,6 +56,7 @@
    - file://c:/Users/Ray/AppData/Roaming/org/PrivatePlanning.org
 
 ** DONE System and Network Administration and Personal Desktop Support
+   - https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness
    - https://www.techrepublic.com/article/how-to-connect-to-linux-samba-shares-from-windows-10/
    - https://www.howtogeek.com/242428/whats-the-best-way-to-back-up-my-computer/
    - http://www.tech-recipes.com/rx/51203/how-to-search-for-files-and-docs-on-windows-10/
@@ -99,7 +100,6 @@
    - https://www.howtogeek.com/225305/how-to-find-and-set-screen-savers-on-windows-10/
    - http://www.dummies.com/consumer-electronics/smartphones/droid/how-to-tether-an-internet-connection-with-an-android-phone/
    - https://www.howtogeek.com/346907/backups-vs.-redundancy-what%e2%80%99s-the-difference/
-   - https://support.microsoft.com/en-us/help/947821/fix-windows-update-errors-by-using-the-dism-or-system-update-readiness
    - https://www.drivereasy.com/knowledge/antimalware-service-executable-high-disk-usage-windows-10-8-7-solved/
 
 
@@ -139,7 +139,7 @@
 
   
 
- ** DONE Private Planning
+** DONE Private Planning
 *** DONE Private file://c:/users/ray/appdata/roaming/org/PrivatePlanning.org 
 ** TODO Check Accounts and Budget
 
@@ -157,6 +157,7 @@
 
   
 ** TODO [#A] PROJECTS: Skills/<<Subjects_Mastery>>
+    - For finding and organizing code. https://courses.cs.washington.edu/courses/cse451/10au/tutorials/tutorial_ctags.html
     - Thomas Frank Channels https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ
     - Do One Thing at a Time! https://www.youtube.com/watch?v=nKFkzCbJf2A
     - How to Study with Intense Focus https://www.youtube.com/watch?v=hP5TNI_2VRs&t=11s
@@ -171,9 +172,37 @@
 
 
 **** TODO [#A] IPython
+     - https://blog.rmotr.com/the-3-python-books-you-need-to-get-started-for-free-9b72a2c6fb17
+     - https://automatetheboringstuff.com/
+     - Think Python: How to Think Like a Computer Scientist: Allen B. Downey: 9781491939369: Amazon.com:
+     - https://learncodethehardway.org/more-python-book/ex17.html
      - https://tkf.github.io/emacs-ipython-notebook/
      - file://C:\Users\Ray Open command line at Anaconda3 directory "Ipython" or "Ipython Notebook" or "IPython qtconsole"
      - file://C://Users/ray/bin/practice.py
+    
+     - https://www.quora.com/What-books-in-what-order-should-I-read-to-learn-Python  
+     - https://www.quora.com/How-should-I-start-learning-Python-1
+
+**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
+
+     - https://www.youtube.com/watch?v=Bv_5Zv5c-Ts  Javascript - Understanding the Weird Parts
+     - https://www.quora.com/Are-Single-Page-Applications-the-future-of-Web
+     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
+     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
+     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
+     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
+     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
+     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
+     - https://en.wikipedia.org/wiki/AngularJS
+     - http://www.w3schools.com/angular/default.asp
+     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
+     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
+     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
+     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
+     - Jekyll
+     - https://www.npmjs.com/ Javascript Package Manager
+     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
+     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
 
 **** TODO [#A] Visual Studio and .NET CSharp etc (including C and C++)... 
      - How to: Create and Use C# DLLs (C# Programming Guide) https://msdn.microsoft.com/en-us/library/3707x96z
@@ -291,6 +320,7 @@ peed SQL Query.exe"
       - https://www.emacswiki.org/emacs/EmacsClient#toc4
       - http://ergoemacs.org/emacs/emacs_package_system.html
 
+***** TODO https://www.brianstorti.com/vim-registers/
 ***** TODO https://tkf.github.io/emacs-ipython-notebook/
 
 ***** DONE http://www.defmacro.org/ramblings/lisp.html
@@ -406,26 +436,6 @@ peed SQL Query.exe"
        - Google Search Breaking into DevOps https://www.google.com/search?source=hp&q=how+to+get+job+in+devops&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.16028.2.1.0.0.0.0.143.143.0j1.1.0....0...1..64.psy-ab..1.1.142.6.FCj8nQXyBPs
 
        - Containers? is lightweight virtualization https://en.wikipedia.org/wiki/Docker_%28software%29
-
-**** TODO Javascript, JQuery, AngularJS, React, Full Stack, Web Development (Related to TSSG Group)
-
-     - https://www.quora.com/Are-Single-Page-Applications-the-future-of-Web
-     - https://www.youtube.com/watch?v=6MaOPdQPvow 10 Things to Master for Javascript Beginners
-     - http://tutsnare.com/how-to-install-laravel-on-ubuntu-lamp/
-     - http://tecadmin.net/install-laravel-framework-on-ubuntu/
-     - http://pointnswing.com/mm3_dev_Rev2587_2016-03-08_09-50-29/mmindex.php Development version of Point and Swing Band Manager
-     - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu
-     - https://www.youtube.com/user/kudvenkat/playlists AngularJS
-     - https://en.wikipedia.org/wiki/AngularJS
-     - http://www.w3schools.com/angular/default.asp
-     - https://www.youtube.com/channel/UC-JQzTHQrVA8j-tamvy66fw EJ Media General Reference and Tutorials on the WEB
-     - https://www.youtube.com/watch?v=QYw02Z9oUfs How to access Javascript console in various browsers.
-     - http://www.andismith.com/blog/2011/11/25-dev-tool-secrets/
-     - https://developer.mozilla.org/en-US/Learn/Common_questions/What_are_browser_developer_tools
-     - Jekyll
-     - https://www.npmjs.com/ Javascript Package Manager
-     - https://www.microsoft.com/web/webmatrix/ 3 Major Web dev platform strategies
-     - https://www.youtube.com/watch?v=H4sSldXv_S4 Using JavaScript to Teach JavaScript by John Resig
 
 **** TODO Concept of Workflow Automation - AutoHotKey, AutoIT and Flowgorithm
      - https://www.quora.com/Will-software-developers-continue-to-be-in-high-demand-in-the-future
